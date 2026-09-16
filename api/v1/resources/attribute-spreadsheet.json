@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "attribute-spreadsheet",
+    "name": "Attribute Spreadsheet",
+    "creator": "Alexey Bogomolov",
+    "url": "https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AlexBogomolov.AttributeSpreadsheet/com.AlexBogomolov.AttributeSpreadsheet.atom",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Community discoveries",
+    "kind": "reactor-package",
+    "tasks": [],
+    "tags": [
+      "expressions",
+      "fusion",
+      "node inputs",
+      "spreadsheet"
+    ],
+    "description": "Edits and links multiple Fusion node inputs in a spreadsheet. Requires Fusion/Resolve 18, Python 3.8+ and PySide6. Avoid circular expression links: the author documents a crash.",
+    "access": "🆓 MIT",
+    "accessGroup": "public",
+    "platforms": [],
+    "platformNotes": "❔ Not established",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AlexBogomolov.AttributeSpreadsheet/com.AlexBogomolov.AttributeSpreadsheet.atom",
+        "checked_at": "2026-09-06",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Attribute Spreadsheet",
+      "url": "https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AlexBogomolov.AttributeSpreadsheet/com.AlexBogomolov.AttributeSpreadsheet.atom",
+      "kind": "package-version",
+      "version": "0.33",
+      "source": "https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.AlexBogomolov.AttributeSpreadsheet/com.AlexBogomolov.AttributeSpreadsheet.atom",
+      "date": "2024-04-01",
+      "date_kind": "Reactor manifest date",
+      "checked_at": "2026-09-06"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

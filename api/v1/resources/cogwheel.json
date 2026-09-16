@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "cogwheel",
+    "name": "cogwheel",
+    "creator": "stoatworks-labs",
+    "url": "https://github.com/stoatworks-labs/cogwheel",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Fusion, motion graphics, visual effects, and package management",
+    "kind": "ofx",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "spirograph",
+      "gears",
+      "generator",
+      "subtractive",
+      "ink",
+      "ofx",
+      "geometry"
+    ],
+    "description": "Spirograph and gear-based generative graphics with subtractive-ink controls, distributed as OFX and FFGL plugins. Provider registered the OFX plugin in Resolve Studio 21.0.2.4 but did not render it over a clip there; render and platform validation remain incomplete.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "platformNotes": "Provider-documented distribution targets; no installation testing. See description for platform and host caveats.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "local",
+      "pricing": "free",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/stoatworks-labs/cogwheel#readme",
+        "checked_at": "2026-09-15",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/stoatworks-labs/cogwheel/releases/tag/v0.6.0",
+        "checked_at": "2026-09-15T11:10:30.401Z",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://github.com/stoatworks-labs/cogwheel#readme",
+        "checked_at": "2026-09-15",
+        "note": "Spirograph and gear-based generative graphics with subtractive-ink controls, distributed as OFX and FFGL plugins. Provider registered the OFX plugin in Resolve Studio 21.0.2.4 but did not render it over a clip there; render and platform validation remain incomplete."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "stoatworks-labs/cogwheel",
+      "url": "https://github.com/stoatworks-labs/cogwheel",
+      "kind": "stable-release",
+      "version": "v0.6.0",
+      "source": "https://github.com/stoatworks-labs/cogwheel/releases/tag/v0.6.0",
+      "date": "2026-09-11T17:28:56Z",
+      "checked_at": "2026-09-15T11:10:30.401Z"
+    },
+    "releaseDate": "2026-09-11T17:28:56Z",
+    "activityDate": "2026-09-15T10:18:50Z",
+    "stars": 0,
+    "metadataChecked": "2026-09-15T11:10:30.401Z",
+    "history": []
+  }
+}

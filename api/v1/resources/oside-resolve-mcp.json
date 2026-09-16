@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "oside-resolve-mcp",
+    "name": "oside-resolve-mcp",
+    "creator": "OSideMedia",
+    "url": "https://github.com/OSideMedia/oside-resolve-mcp",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "AI assistants, MCP servers, and ComfyUI integrations",
+    "kind": "mcp-server",
+    "tasks": [
+      "workflow"
+    ],
+    "tags": [
+      "mcp",
+      "manifest",
+      "json",
+      "timeline",
+      "markers",
+      "cdl",
+      "automation",
+      "narration"
+    ],
+    "description": "MCP workflow that builds Resolve projects from JSON manifests and a user-supplied DRP template: bins, ordered timelines, markers, narration and CDL look data. Requires Resolve Studio; provider documents Studio 21.1 checks on macOS. Includes read-back acceptance checks, with no service account required for the local server.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [
+      "macOS"
+    ],
+    "platformNotes": "Provider-documented distribution targets; no installation testing. See description for platform and host caveats.",
+    "requirements": {
+      "editions": [
+        "Studio"
+      ],
+      "resolve": [
+        {
+          "min": "21.1",
+          "max": "21.1"
+        }
+      ],
+      "architectures": [],
+      "gpu": null,
+      "processing": "local",
+      "pricing": "free",
+      "account": "unknown",
+      "dependencies": "Python environment, Resolve Studio scripting modules and project template",
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/OSideMedia/oside-resolve-mcp#readme",
+        "checked_at": "2026-09-15",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/OSideMedia/oside-resolve-mcp/releases/tag/v0.6.1",
+        "checked_at": "2026-09-15T11:10:28.438Z",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://github.com/OSideMedia/oside-resolve-mcp#readme",
+        "checked_at": "2026-09-15",
+        "note": "MCP workflow that builds Resolve projects from JSON manifests and a user-supplied DRP template: bins, ordered timelines, markers, narration and CDL look data. Requires Resolve Studio; provider documents Studio 21.1 checks on macOS. Includes read-back acceptance checks, with no service account required for the local server."
+      }
+    ],
+    "unknownFields": [
+      "architecture"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "OSideMedia/oside-resolve-mcp",
+      "url": "https://github.com/OSideMedia/oside-resolve-mcp",
+      "kind": "stable-release",
+      "version": "v0.6.1",
+      "source": "https://github.com/OSideMedia/oside-resolve-mcp/releases/tag/v0.6.1",
+      "date": "2026-09-13T18:04:21Z",
+      "checked_at": "2026-09-15T11:10:28.438Z"
+    },
+    "releaseDate": "2026-09-13T18:04:21Z",
+    "activityDate": "2026-09-13T18:36:38Z",
+    "stars": 0,
+    "metadataChecked": "2026-09-15T11:10:28.438Z",
+    "history": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "upscaler-fuse",
+    "name": "Upscaler Fuse",
+    "creator": "Akascape",
+    "url": "https://akascape.gumroad.com/l/upscaler",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Effects and animation",
+    "kind": "fuse",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "cas",
+      "fsr",
+      "resolution",
+      "sharpening",
+      "upscaling"
+    ],
+    "description": "Texture upscaling and sharpening Fuse based on AMD FSR and CAS algorithms. A trial is available; GPU support is not limited to AMD. Requires Resolve 17+; edition requirements should be checked.",
+    "access": "💰 Paid; trial available",
+    "accessGroup": "paid",
+    "platforms": [],
+    "platformNotes": "❔ Not established",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://akascape.gumroad.com/l/upscaler",
+        "checked_at": "2026-09-07",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Upscaler Fuse",
+      "url": "https://akascape.gumroad.com/l/upscaler",
+      "kind": "vendor-version",
+      "version": "1.0",
+      "source": "https://akascape.gumroad.com/l/upscaler",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-07"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

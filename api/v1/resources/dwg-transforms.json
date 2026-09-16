@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "dwg-transforms",
+    "name": "dwg-transforms",
+    "creator": "thatcherfreeman",
+    "url": "https://github.com/thatcherfreeman/dwg-transforms",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Color grading, DCTLs, film looks, and color science",
+    "kind": "dctl",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "color management",
+      "dwg",
+      "gopro",
+      "gp log",
+      "input transform",
+      "wide gamut"
+    ],
+    "description": "DCTL input transforms from camera and other color spaces into DaVinci Wide Gamut/Intermediate, including a GoPro GP-Log transform.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [],
+    "platformNotes": "Unverified",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/thatcherfreeman/dwg-transforms/commit/22f2134e5b2f62a8508ebe02f77f2691d4794d8a",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "thatcherfreeman/dwg-transforms",
+      "url": "https://github.com/thatcherfreeman/dwg-transforms",
+      "kind": "commit",
+      "version": "22f2134e5b2f62a8508ebe02f77f2691d4794d8a",
+      "source": "https://github.com/thatcherfreeman/dwg-transforms/commit/22f2134e5b2f62a8508ebe02f77f2691d4794d8a",
+      "date": "2026-07-27T16:22:31Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2026-07-27T16:22:44Z",
+    "stars": 110,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "primera-suite",
+    "name": "primera-suite",
+    "creator": "geoffsmithBK",
+    "url": "https://github.com/geoffsmithBK/primera-suite",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Color grading, DCTLs, film looks, and color science",
+    "kind": "dctl",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "color grading",
+      "contrast",
+      "exposure",
+      "hue",
+      "skin tones",
+      "split toning"
+    ],
+    "description": "Primera grading suite for exposure, contrast, hue, split toning, and skin adjustments. Resolve Studio; follow the color-managed input requirements.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "OS support not established by the reviewed documentation.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/geoffsmithBK/primera-suite/releases/tag/v0.6.0",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "geoffsmithBK/primera-suite",
+      "url": "https://github.com/geoffsmithBK/primera-suite",
+      "kind": "stable-release",
+      "version": "v0.6.0",
+      "source": "https://github.com/geoffsmithBK/primera-suite/releases/tag/v0.6.0",
+      "date": "2026-07-30T17:10:26Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2026-07-30T17:10:26Z",
+    "activityDate": "2026-08-28T18:40:03Z",
+    "stars": 3,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

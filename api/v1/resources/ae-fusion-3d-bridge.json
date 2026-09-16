@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "ae-fusion-3d-bridge",
+    "name": "AE Fusion 3D Bridge",
+    "creator": "imk-design",
+    "url": "https://aescripts.com/ae-fusion-3d-bridge/",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Workflow and pipeline",
+    "kind": "workflow-app",
+    "tasks": [
+      "workflow"
+    ],
+    "tags": [
+      "3d",
+      "after effects",
+      "animation",
+      "camera",
+      "fusion",
+      "scene transfer"
+    ],
+    "description": "Transfers supported 3D layouts, cameras, and baked animation between After Effects and Fusion/Resolve. Does not embed media or reproduce the entire rendered appearance.",
+    "access": "💳 Paid; trial available",
+    "accessGroup": "paid",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "platformNotes": "🪟 Windows · 🍎 macOS",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://aescripts.com/ae-fusion-3d-bridge/",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://aescripts.com/ae-fusion-3d-bridge/",
+        "checked_at": "2026-09-06T12:10:35.612Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "AE Fusion 3D Bridge",
+      "url": "https://aescripts.com/ae-fusion-3d-bridge/",
+      "kind": "vendor-version",
+      "version": "2.0.0",
+      "source": "https://aescripts.com/ae-fusion-3d-bridge/",
+      "date": "2026-08-12",
+      "date_kind": "release",
+      "checked_at": "2026-09-06T12:10:35.612Z"
+    },
+    "releaseDate": "2026-08-12",
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

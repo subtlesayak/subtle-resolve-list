@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "outline-plugin",
+    "name": "Outline plugin",
+    "creator": "Ludooki",
+    "url": "https://ko-fi.com/s/6a120fb931",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Community discoveries",
+    "kind": "workflow-app",
+    "tasks": [],
+    "tags": [
+      "edges",
+      "outlines",
+      "transitions",
+      "visual effects"
+    ],
+    "description": "Adds outlines to images, clips and transitions in Resolve. Indexed creator listing; current price, host requirements and update history are not established.",
+    "access": "📦 Public listing; price/download access not established",
+    "accessGroup": "public",
+    "platforms": [],
+    "platformNotes": "❔ Not established",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing",
+      "tool version"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Outline plugin",
+      "url": "https://ko-fi.com/s/6a120fb931",
+      "kind": "unverified",
+      "version": null,
+      "source": "https://ko-fi.com/s/6a120fb931",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-06"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

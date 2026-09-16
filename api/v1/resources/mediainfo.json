@@ -1,0 +1,111 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "mediainfo",
+    "name": "MediaInfo",
+    "creator": "MediaArea",
+    "url": "https://mediaarea.net/en/MediaInfo",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Community discoveries",
+    "kind": "workflow-app",
+    "tasks": [
+      "media"
+    ],
+    "tags": [
+      "codec",
+      "metadata",
+      "media",
+      "diagnostics",
+      "video",
+      "audio"
+    ],
+    "description": "Standalone media inspector for codec, stream and technical metadata. Useful when diagnosing Resolve footage problems; it is a companion utility, not a Resolve plugin.",
+    "access": "🆓 Free and open source",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "❔ Not established",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "free",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://mediaarea.net/MediaInfo/ChangeLog",
+        "checked_at": "2026-09-15",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "purpose and access",
+        "level": "documented",
+        "source": "https://mediaarea.net/en/MediaInfo",
+        "checked_at": "2026-09-08",
+        "note": "Creator listing reviewed; not installation tested."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://mediaarea.net/MediaInfo/ChangeLog",
+        "checked_at": "2026-09-15",
+        "note": "Establishes the previously unrecorded MediaInfo 26.05 release."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "MediaInfo",
+      "url": "https://mediaarea.net/en/MediaInfo",
+      "kind": "vendor-version",
+      "version": "26.05",
+      "source": "https://mediaarea.net/MediaInfo/ChangeLog",
+      "date": "2026-05-12",
+      "date_kind": "release",
+      "checked_at": "2026-09-15",
+      "note": "Original provider release/changelog reviewed. Catalogue review date is separate from the upstream release date."
+    },
+    "releaseDate": "2026-05-12",
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": [
+      {
+        "name": "MediaInfo",
+        "url": "https://mediaarea.net/en/MediaInfo",
+        "from": "Not established",
+        "to": "26.05",
+        "release": "v1.22",
+        "catalogue_date": "2026-09-15",
+        "upstream_date": "2026-05-12",
+        "source": "https://mediaarea.net/MediaInfo/ChangeLog",
+        "summary": "Establishes the previously unrecorded MediaInfo 26.05 release.",
+        "changes": [
+          "Adds or improves AV2/APV, MotionPhoto, animated PNG, HLG+ and other metadata support.",
+          "Updates desktop/mobile integration and fixes media-container parsing issues."
+        ],
+        "changelogs": [
+          {
+            "label": "Full source changelog",
+            "url": "https://mediaarea.net/MediaInfo/ChangeLog"
+          }
+        ]
+      }
+    ]
+  }
+}

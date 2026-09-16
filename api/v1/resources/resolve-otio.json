@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "resolve-otio",
+    "name": "resolve-otio",
+    "creator": "eric-with-a-c",
+    "url": "https://github.com/eric-with-a-c/resolve-otio",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Productivity scripts, workflow bridges, and integrations",
+    "kind": "workflow-app",
+    "tasks": [
+      "workflow"
+    ],
+    "tags": [
+      "interoperability",
+      "opentimelineio",
+      "otio",
+      "timeline exchange"
+    ],
+    "description": "OpenTimelineIO interoperability with Resolve.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "platformNotes": "Windows instructions provided, but Windows is explicitly untested.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/eric-with-a-c/resolve-otio#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/eric-with-a-c/resolve-otio/commit/78d59a9bb538a8ca3564ce4226d69861646b19cf",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "eric-with-a-c/resolve-otio",
+      "url": "https://github.com/eric-with-a-c/resolve-otio",
+      "kind": "commit",
+      "version": "78d59a9bb538a8ca3564ce4226d69861646b19cf",
+      "source": "https://github.com/eric-with-a-c/resolve-otio/commit/78d59a9bb538a8ca3564ce4226d69861646b19cf",
+      "date": "2022-01-01T14:44:32Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2022-01-01T20:25:00Z",
+    "stars": 27,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "skincorrector",
+    "name": "SkinCorrector",
+    "creator": "Emilio Sapia - Millolab",
+    "url": "https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Millolab.SkinCorrector/com.Millolab.SkinCorrector.atom",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Community discoveries",
+    "kind": "fusion-macro",
+    "tasks": [],
+    "tags": [
+      "beauty",
+      "frequency separation",
+      "fusion",
+      "skin retouching"
+    ],
+    "description": "Frequency-separation macro for skin retouching and beauty work in Fusion.",
+    "access": "📦 Public Reactor package; check package license",
+    "accessGroup": "paid",
+    "platforms": [],
+    "platformNotes": "❔ Not established",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Millolab.SkinCorrector/com.Millolab.SkinCorrector.atom",
+        "checked_at": "2026-09-06",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "SkinCorrector",
+      "url": "https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Millolab.SkinCorrector/com.Millolab.SkinCorrector.atom",
+      "kind": "package-version",
+      "version": "5",
+      "source": "https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.Millolab.SkinCorrector/com.Millolab.SkinCorrector.atom",
+      "date": "2021-02-17",
+      "date_kind": "Reactor manifest date",
+      "checked_at": "2026-09-06"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

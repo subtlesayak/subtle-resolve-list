@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "instant-saver",
+    "name": "Instant Saver",
+    "creator": "Analator",
+    "url": "https://analator.gumroad.com/l/rhlmj",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Community discoveries",
+    "kind": "fuse",
+    "tasks": [
+      "media"
+    ],
+    "tags": [
+      "saver",
+      "export",
+      "image sequence",
+      "exr",
+      "png",
+      "loader",
+      "fusion",
+      "automation"
+    ],
+    "description": "Fusion Fuse for image-sequence export, automatic Loader creation and timestamped output folders. Exports PNG, JPEG, TIFF and EXR; MP4/MOV/AVI export is specifically listed for Fusion Studio. Exact Resolve edition, OS support and numeric release version are not established.",
+    "access": "💰 Paid download",
+    "accessGroup": "paid",
+    "platforms": [],
+    "platformNotes": "❔ Not established",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "local",
+      "pricing": "one-time",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://analator.gumroad.com/l/rhlmj",
+        "checked_at": "2026-09-15",
+        "note": "Fusion Fuse for image-sequence export, automatic Loader creation and timestamped output folders. Exports PNG, JPEG, TIFF and EXR; MP4/MOV/AVI export is specifically listed for Fusion Studio. Exact Resolve edition, OS support and numeric release version are not established."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "tool version"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Instant Saver",
+      "url": "https://analator.gumroad.com/l/rhlmj",
+      "kind": "unverified",
+      "version": null,
+      "source": "https://analator.gumroad.com/l/rhlmj",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-15"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

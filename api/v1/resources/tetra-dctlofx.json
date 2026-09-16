@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "tetra-dctlofx",
+    "name": "Tetra-DCTLOFX",
+    "creator": "npeason",
+    "url": "https://github.com/npeason/Tetra-DCTLOFX",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Color grading, DCTLs, film looks, and color science",
+    "kind": "dctl",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "color manipulation",
+      "dctl",
+      "openfx",
+      "tetrahedral interpolation"
+    ],
+    "description": "Tetrahedral color manipulation through Resolve’s DCTL effect interface.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "Unverified",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/npeason/Tetra-DCTLOFX/commit/b5c80da5957de5f0837b120e67f05d7ad0da9ec8",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "npeason/Tetra-DCTLOFX",
+      "url": "https://github.com/npeason/Tetra-DCTLOFX",
+      "kind": "commit",
+      "version": "b5c80da5957de5f0837b120e67f05d7ad0da9ec8",
+      "source": "https://github.com/npeason/Tetra-DCTLOFX/commit/b5c80da5957de5f0837b120e67f05d7ad0da9ec8",
+      "date": "2021-03-13T19:39:17Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2021-03-13T19:39:17Z",
+    "stars": 197,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

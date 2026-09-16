@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "fusion-studio-fuscript-ide-tools-and-pipeline-scripts",
+    "name": "Fusion-Studio-FuScript-IDE-Tools-and-Pipeline-Scripts",
+    "creator": "AndrewHazelden",
+    "url": "https://github.com/AndrewHazelden/Fusion-Studio-FuScript-IDE-Tools-and-Pipeline-Scripts",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Developer libraries and scripting references",
+    "kind": "workflow-app",
+    "tasks": [
+      "workflow",
+      "development",
+      "learning"
+    ],
+    "tags": [
+      "bbedit",
+      "fusion",
+      "ide",
+      "pipeline",
+      "scripting"
+    ],
+    "description": "IDE and pipeline scripting integrations, including macOS/BBEdit-oriented workflows.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [
+      "macOS"
+    ],
+    "platformNotes": "macOS",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/AndrewHazelden/Fusion-Studio-FuScript-IDE-Tools-and-Pipeline-Scripts#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/AndrewHazelden/Fusion-Studio-FuScript-IDE-Tools-and-Pipeline-Scripts/releases/tag/v2",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "AndrewHazelden/Fusion-Studio-FuScript-IDE-Tools-and-Pipeline-Scripts",
+      "url": "https://github.com/AndrewHazelden/Fusion-Studio-FuScript-IDE-Tools-and-Pipeline-Scripts",
+      "kind": "stable-release",
+      "version": "v2",
+      "source": "https://github.com/AndrewHazelden/Fusion-Studio-FuScript-IDE-Tools-and-Pipeline-Scripts/releases/tag/v2",
+      "date": "2018-09-04T22:14:12Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2018-09-04T22:14:12Z",
+    "activityDate": "2018-09-18T12:48:26Z",
+    "stars": 9,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

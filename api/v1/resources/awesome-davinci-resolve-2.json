@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "awesome-davinci-resolve-2",
+    "name": "awesome-davinci-resolve",
+    "creator": "cutbypham",
+    "url": "https://github.com/cutbypham/awesome-davinci-resolve",
+    "origin": "github",
+    "official": false,
+    "reference": true,
+    "category": "Directories covering free and commercial products",
+    "kind": "workflow-app",
+    "tasks": [
+      "learning"
+    ],
+    "tags": [
+      "assets",
+      "directory",
+      "plugins",
+      "resource discovery",
+      "scripts"
+    ],
+    "description": "Plugins, scripts, assets, and editing resources. Bundled copies may be older than upstream releases.",
+    "access": "Free/paid resource directory",
+    "accessGroup": "mixed",
+    "platforms": [],
+    "platformNotes": "Reference",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/cutbypham/awesome-davinci-resolve/commit/c13ca4bd839d7487bc00e46fdc1e3d036dd1f95e",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "cutbypham/awesome-davinci-resolve",
+      "url": "https://github.com/cutbypham/awesome-davinci-resolve",
+      "kind": "commit",
+      "version": "c13ca4bd839d7487bc00e46fdc1e3d036dd1f95e",
+      "source": "https://github.com/cutbypham/awesome-davinci-resolve/commit/c13ca4bd839d7487bc00e46fdc1e3d036dd1f95e",
+      "date": "2026-08-27T14:29:12Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2026-08-27T14:29:12Z",
+    "stars": 64,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

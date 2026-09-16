@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "place-it",
+    "name": "Place it",
+    "creator": "Soundly",
+    "url": "https://getsoundly.com/news/place-it-as-a-standalone-plugin/",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Community discoveries",
+    "kind": "other",
+    "tasks": [
+      "audio"
+    ],
+    "tags": [
+      "audio",
+      "speaker",
+      "convolution",
+      "reverb",
+      "diegetic",
+      "sound design"
+    ],
+    "description": "Free audio plugin for speaker simulation and convolution environments. Soundly documents Resolve stability improvements in its plugin update announcement.",
+    "access": "🆓 Free",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "❔ Not established",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "free",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "purpose and access",
+        "level": "documented",
+        "source": "https://getsoundly.com/news/place-it-as-a-standalone-plugin/",
+        "checked_at": "2026-09-08",
+        "note": "Creator listing reviewed; not installation tested."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing",
+      "tool version"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Place it",
+      "url": "https://getsoundly.com/news/place-it-as-a-standalone-plugin/",
+      "kind": "unverified",
+      "version": null,
+      "source": "https://getsoundly.com/news/place-it-as-a-standalone-plugin/",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-08"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

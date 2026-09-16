@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "sony-s-log3-cine-film-emulation-powergrade",
+    "name": "Sony S-Log3 Cine Film Emulation PowerGrade",
+    "creator": "Tool&KITS",
+    "url": "https://toolandkits.gumroad.com/l/wfczb",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Color and PowerGrades",
+    "kind": "powergrade",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "color grading",
+      "film",
+      "lut",
+      "powergrade",
+      "s gamut3 cine",
+      "s log3",
+      "sony"
+    ],
+    "description": "Node-based film-inspired starting point for Sony S-Log3 / S-Gamut3.Cine. Built for Resolve Free with its included film LUTs; not an exact film-stock reproduction.",
+    "access": "🆓 Free; store download",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "❔ Not established",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing",
+      "tool version"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Sony S-Log3 Cine Film Emulation PowerGrade",
+      "url": "https://toolandkits.gumroad.com/l/wfczb",
+      "kind": "unverified",
+      "version": null,
+      "source": "https://toolandkits.gumroad.com/l/wfczb",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-06T12:10:34.359Z"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

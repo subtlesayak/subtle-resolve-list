@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "resolve-tools-public",
+    "name": "Resolve_Tools_Public",
+    "creator": "jdanna",
+    "url": "https://github.com/jdanna/Resolve_Tools_Public",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Productivity scripts, workflow bridges, and integrations",
+    "kind": "dctl",
+    "tasks": [
+      "workflow"
+    ],
+    "tags": [
+      "dctl",
+      "fusion",
+      "scripts",
+      "utilities"
+    ],
+    "description": "Free scripts, DCTLs, and Fusion resources.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "Unverified",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/jdanna/Resolve_Tools_Public/commit/dc6659f713387676b2f46f5f35ce560c9ed8acdc",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "jdanna/Resolve_Tools_Public",
+      "url": "https://github.com/jdanna/Resolve_Tools_Public",
+      "kind": "commit",
+      "version": "dc6659f713387676b2f46f5f35ce560c9ed8acdc",
+      "source": "https://github.com/jdanna/Resolve_Tools_Public/commit/dc6659f713387676b2f46f5f35ce560c9ed8acdc",
+      "date": "2026-08-24T00:51:48Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2026-08-24T00:51:50Z",
+    "stars": 4,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

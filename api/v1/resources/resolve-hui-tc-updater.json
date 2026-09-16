@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "resolve-hui-tc-updater",
+    "name": "resolve-hui-tc-updater",
+    "creator": "OlliV",
+    "url": "https://github.com/OlliV/resolve-hui-tc-updater",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Hardware, control surfaces, MIDI, and Speed Editor tools",
+    "kind": "control-surface",
+    "tasks": [
+      "hardware"
+    ],
+    "tags": [
+      "controller",
+      "hui",
+      "mcu",
+      "midi",
+      "timecode"
+    ],
+    "description": "Update a HUI/MCU controller's timecode display from Resolve using sendmidi. Tested with X-Touch One; updates can occasionally fail.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [],
+    "platformNotes": "OS support not established by the reviewed documentation.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/OlliV/resolve-hui-tc-updater/commit/bbc3a33a58b452d52d080cc3bc6ce55e20b7109b",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "OlliV/resolve-hui-tc-updater",
+      "url": "https://github.com/OlliV/resolve-hui-tc-updater",
+      "kind": "commit",
+      "version": "bbc3a33a58b452d52d080cc3bc6ce55e20b7109b",
+      "source": "https://github.com/OlliV/resolve-hui-tc-updater/commit/bbc3a33a58b452d52d080cc3bc6ce55e20b7109b",
+      "date": "2022-05-01T06:08:52Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2022-05-01T06:08:52Z",
+    "stars": 4,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

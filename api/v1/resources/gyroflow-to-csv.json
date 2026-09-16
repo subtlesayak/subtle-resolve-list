@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "gyroflow-to-csv",
+    "name": "Gyroflow-to-CSV",
+    "creator": "EmberLightVFX",
+    "url": "https://github.com/EmberLightVFX/Gyroflow-to-CSV",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Fusion, motion graphics, visual effects, and package management",
+    "kind": "workflow-app",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "camera data",
+      "csv",
+      "fusion",
+      "gyro",
+      "telemetry"
+    ],
+    "description": "Gyro telemetry export for Fusion camera/data-driven workflows.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [],
+    "platformNotes": "Unverified",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/EmberLightVFX/Gyroflow-to-CSV/commit/7a3e6674fc8d9915a1f1195ea3c5d015c6a788a3",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "EmberLightVFX/Gyroflow-to-CSV",
+      "url": "https://github.com/EmberLightVFX/Gyroflow-to-CSV",
+      "kind": "commit",
+      "version": "7a3e6674fc8d9915a1f1195ea3c5d015c6a788a3",
+      "source": "https://github.com/EmberLightVFX/Gyroflow-to-CSV/commit/7a3e6674fc8d9915a1f1195ea3c5d015c6a788a3",
+      "date": "2023-01-05T11:39:24Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2023-01-05T11:39:24Z",
+    "stars": 18,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

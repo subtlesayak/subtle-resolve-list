@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "puppet-pin-tool",
+    "name": "Puppet Pin Tool",
+    "creator": "Tangenten",
+    "url": "https://tangenten.gumroad.com/l/PuppetPinTool",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Community discoveries",
+    "kind": "other",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "character animation",
+      "fk",
+      "ik",
+      "mesh deformation",
+      "puppet",
+      "rigging"
+    ],
+    "description": "Mesh deformation and pin-based character animation with IK/FK rigs in Fusion. Requires Resolve 20+ Free or Studio, or Fusion Studio 20+. Layered PSD input requires Resolve Studio; separate image layers support the Free edition.",
+    "access": "💰 Paid individual-seat license",
+    "accessGroup": "paid",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "platformNotes": "🪟 Windows · 🍎 macOS · 🐧 Linux",
+    "requirements": {
+      "editions": [
+        "Free",
+        "Studio"
+      ],
+      "resolve": [
+        {
+          "min": "20"
+        }
+      ],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://tangenten.gumroad.com/l/PuppetPinTool",
+        "checked_at": "2026-09-07",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://tangenten.gumroad.com/l/PuppetPinTool",
+        "checked_at": "2026-09-07",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://tangenten.gumroad.com/l/PuppetPinTool",
+        "checked_at": "2026-09-07",
+        "note": "Resolve 20+ Free/Studio or Fusion Studio 20+. Layered PSD input requires Resolve Studio."
+      }
+    ],
+    "unknownFields": [
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Puppet Pin Tool",
+      "url": "https://tangenten.gumroad.com/l/PuppetPinTool",
+      "kind": "vendor-version",
+      "version": "1.2.2",
+      "source": "https://tangenten.gumroad.com/l/PuppetPinTool",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-07"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

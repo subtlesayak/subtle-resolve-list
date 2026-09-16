@@ -1,0 +1,114 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "fotufilm-engine",
+    "name": "fotufilm-engine",
+    "creator": "DhaliwalX",
+    "url": "https://github.com/DhaliwalX/fotufilm-engine",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Color grading, DCTLs, film looks, and color science",
+    "kind": "dctl",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "film",
+      "kodak",
+      "fuji",
+      "halation",
+      "grain",
+      "spectral",
+      "ofx",
+      "negative",
+      "print"
+    ],
+    "description": "Film simulation engine with a Resolve OpenFX plugin and Mac app. Stable release v1.7.1-build12; v1.8-alpha adds scanned-negative import and sampled film curves. Includes film profiles with separate CC BY-SA terms.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [
+      "macOS"
+    ],
+    "platformNotes": "Mac app requires Apple Silicon and macOS 14+; plugin guide also documents universal builds. Exact Resolve edition/version is not established.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "local",
+      "pricing": "free",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/DhaliwalX/fotufilm-engine#readme",
+        "checked_at": "2026-09-08",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/DhaliwalX/fotufilm-engine/releases/tag/v1.8.1",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://github.com/DhaliwalX/fotufilm-engine",
+        "checked_at": "2026-09-08",
+        "note": "Mac app requires Apple Silicon and macOS 14+; plugin guide also documents universal builds. Exact Resolve edition/version is not established."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "DhaliwalX/fotufilm-engine",
+      "url": "https://github.com/DhaliwalX/fotufilm-engine",
+      "kind": "stable-release",
+      "version": "v1.8.1",
+      "source": "https://github.com/DhaliwalX/fotufilm-engine/releases/tag/v1.8.1",
+      "date": "2026-09-11T23:22:56Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2026-09-11T23:22:56Z",
+    "activityDate": "2026-09-15T00:52:57Z",
+    "stars": 3,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": [
+      {
+        "name": "DhaliwalX/fotufilm-engine",
+        "url": "https://github.com/DhaliwalX/fotufilm-engine",
+        "from": "v1.7.1-build12",
+        "to": "v1.8.1",
+        "release": "v1.22",
+        "catalogue_date": "2026-09-15",
+        "upstream_date": "2026-09-11",
+        "source": "https://github.com/DhaliwalX/fotufilm-engine/releases/tag/v1.8.1",
+        "summary": "Revises cinema-print timing, source illumination and channel contrast behavior. Existing edits may render differently.",
+        "changes": [
+          "Corrects print-layer sensitivity and density targets.",
+          "Defaults source illumination to Stock Native, with daylight, tungsten and custom choices.",
+          "Separates source light, viewing illumination and print development.",
+          "Makes Channel Contrast Match optional and off by default while preserving saved nonzero settings."
+        ],
+        "changelogs": [
+          {
+            "label": "Full source changelog",
+            "url": "https://github.com/DhaliwalX/fotufilm-engine/releases/tag/v1.8.1"
+          }
+        ]
+      }
+    ]
+  }
+}

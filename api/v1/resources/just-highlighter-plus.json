@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "just-highlighter-plus",
+    "name": "Just Highlighter Plus",
+    "creator": "William",
+    "url": "https://ko-fi.com/s/cb7b432737",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Community discoveries",
+    "kind": "other",
+    "tasks": [],
+    "tags": [
+      "animated lines",
+      "text highlight",
+      "typography"
+    ],
+    "description": "Animated highlighting for text and animated lines in Resolve. Indexed creator listing establishes its purpose; direct retrieval was blocked and current price is unknown.",
+    "access": "📦 Public listing; price/download access not established",
+    "accessGroup": "public",
+    "platforms": [],
+    "platformNotes": "❔ Not established",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing",
+      "tool version"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Just Highlighter Plus",
+      "url": "https://ko-fi.com/s/cb7b432737",
+      "kind": "unverified",
+      "version": null,
+      "source": "https://ko-fi.com/s/cb7b432737",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-06"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

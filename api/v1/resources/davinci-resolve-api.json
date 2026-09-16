@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "davinci-resolve-api",
+    "name": "davinci-resolve-api",
+    "creator": "diop",
+    "url": "https://github.com/diop/davinci-resolve-api",
+    "origin": "github",
+    "official": false,
+    "reference": true,
+    "category": "Developer libraries and scripting references",
+    "kind": "workflow-app",
+    "tasks": [
+      "workflow",
+      "development",
+      "learning"
+    ],
+    "tags": [
+      "api",
+      "documentation",
+      "python",
+      "reference"
+    ],
+    "description": "Community Python API documentation. Treat it as a reference, not the latest official SDK.",
+    "access": "Free reference",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "Reference",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/diop/davinci-resolve-api/commit/a75fd3d22a921cd1a749dbb36bb9e1ae6f5ce781",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "diop/davinci-resolve-api",
+      "url": "https://github.com/diop/davinci-resolve-api",
+      "kind": "commit",
+      "version": "a75fd3d22a921cd1a749dbb36bb9e1ae6f5ce781",
+      "source": "https://github.com/diop/davinci-resolve-api/commit/a75fd3d22a921cd1a749dbb36bb9e1ae6f5ce781",
+      "date": "2019-03-12T19:11:17Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2019-03-12T19:11:24Z",
+    "stars": 98,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

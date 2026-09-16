@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "lumifx-cinematic-optics",
+    "name": "LUMIFX Cinematic Optics",
+    "creator": "LUMIFX",
+    "url": "https://lumicosmos.gumroad.com/l/lumifx",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Community discoveries",
+    "kind": "ofx",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "film",
+      "bloom",
+      "halation",
+      "grain",
+      "vignette",
+      "denoise",
+      "ofx",
+      "cuda"
+    ],
+    "description": "OpenFX toolkit with bloom, halation, highlight roll-off, grain, vignette, denoising and optical/transitional effects. Requires Resolve Studio 18+, Windows 10/11, NVIDIA CUDA, at least 4 GB VRAM and 16 GB RAM. macOS and V2 are advertised as upcoming, not available releases; current numeric version is unverified.",
+    "access": "💰 One-time purchase",
+    "accessGroup": "public",
+    "platforms": [
+      "Windows"
+    ],
+    "platformNotes": "🪟 Windows",
+    "requirements": {
+      "editions": [
+        "Studio"
+      ],
+      "resolve": [
+        {
+          "min": "18"
+        }
+      ],
+      "architectures": [],
+      "gpu": "NVIDIA CUDA; 4 GB VRAM minimum",
+      "processing": "local",
+      "pricing": "one-time",
+      "account": "unknown",
+      "dependencies": "Windows 10/11 and 16 GB RAM minimum",
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://lumicosmos.gumroad.com/l/lumifx",
+        "checked_at": "2026-09-15",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://lumicosmos.gumroad.com/l/lumifx",
+        "checked_at": "2026-09-15",
+        "note": "OpenFX toolkit with bloom, halation, highlight roll-off, grain, vignette, denoising and optical/transitional effects. Requires Resolve Studio 18+, Windows 10/11, NVIDIA CUDA, at least 4 GB VRAM and 16 GB RAM. macOS and V2 are advertised as upcoming, not available releases; current numeric version is unverified."
+      }
+    ],
+    "unknownFields": [
+      "architecture",
+      "tool version"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "LUMIFX Cinematic Optics",
+      "url": "https://lumicosmos.gumroad.com/l/lumifx",
+      "kind": "unverified",
+      "version": null,
+      "source": "https://lumicosmos.gumroad.com/l/lumifx",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-15"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

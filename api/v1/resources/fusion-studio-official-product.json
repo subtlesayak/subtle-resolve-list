@@ -1,0 +1,141 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "fusion-studio-official-product",
+    "name": "Fusion Studio — official product",
+    "creator": "Blackmagic Design",
+    "url": "https://www.blackmagicdesign.com/products/fusion",
+    "origin": "external",
+    "official": true,
+    "reference": false,
+    "category": "Official Blackmagic Design resources",
+    "kind": "workflow-app",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "compositing",
+      "fusion",
+      "host application",
+      "official"
+    ],
+    "description": "Standalone compositing application, version 21.1 released September 8, 2026. Adds Krokodove tools, OpenPBR and OCIO 2.5/ACES 2.0 workflows. Mac requires Apple Silicon and macOS 15+. Python 2 is no longer supported; compatible license required.",
+    "access": "💰 Licensed software",
+    "accessGroup": "paid",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "platformNotes": "🪟 Windows · 🍎 macOS · 🐧 Linux",
+    "requirements": {
+      "editions": [],
+      "resolve": [
+        {
+          "min": "21.1",
+          "max": "21.1"
+        }
+      ],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://www.blackmagicdesign.com/support/readme/f832945b3a384a50ac202b3a881ce7d9",
+        "checked_at": "2026-09-08",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://www.blackmagicdesign.com/support/readme/f832945b3a384a50ac202b3a881ce7d9",
+        "checked_at": "2026-09-08",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://www.blackmagicdesign.com/support/readme/f832945b3a384a50ac202b3a881ce7d9",
+        "checked_at": "2026-09-08",
+        "note": "Current host release; does not establish third-party plugin compatibility."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Fusion Studio — official product",
+      "url": "https://www.blackmagicdesign.com/products/fusion",
+      "kind": "vendor-version",
+      "version": "21.1",
+      "source": "https://www.blackmagicdesign.com/support/readme/f832945b3a384a50ac202b3a881ce7d9",
+      "date": "2026-09-08",
+      "date_kind": "release",
+      "checked_at": "2026-09-08",
+      "note": "Verified against official support feed and version-specific release notes."
+    },
+    "releaseDate": "2026-09-08",
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": [
+      {
+        "name": "Fusion Studio",
+        "url": "https://www.blackmagicdesign.com/products/fusion",
+        "from": "21.0.4",
+        "to": "21.1",
+        "release": "v1.15",
+        "catalogue_date": "2026-09-08",
+        "upstream_date": "2026-09-08",
+        "source": "https://www.blackmagicdesign.com/support/readme/f832945b3a384a50ac202b3a881ce7d9",
+        "summary": "Adds Krokodove shapes/3D, OpenPBR, DJI D-Gamut2/D-Log2, GoPro Log, Leica L-Log and Vivo transforms.",
+        "changes": [
+          "Adds Krokodove shapes/3D, OpenPBR, DJI D-Gamut2/D-Log2, GoPro Log, Leica L-Log and Vivo transforms.",
+          "Improves MultiText alignment and font previews; adds viewer-line lens calibration, OGraf animation controls and multi-template DRFX macro editing.",
+          "Adds external camera-track imports, reference-frame tools, deep-image previews, hard-mix blending, HTJ2K EXR input/output and DNG correction bypass.",
+          "Supports OCIO 2.5 and ACES 2.0, richer variable syntax, log-conversion alpha handling, matte objects and motion blur in deep Renderer3D, faster deep rendering and monitoring.",
+          "Drops Python 2. Mac now requires Apple Silicon and macOS 15. Includes stability improvements; see full notes for exact hardware and driver requirements."
+        ],
+        "changelogs": [
+          {
+            "label": "Fusion Studio 21.1 full official changelog",
+            "url": "https://www.blackmagicdesign.com/support/readme/f832945b3a384a50ac202b3a881ce7d9"
+          }
+        ]
+      },
+      {
+        "name": "Fusion Studio",
+        "url": "https://www.blackmagicdesign.com/products/fusion",
+        "from": "21 (advertised product family)",
+        "to": "21.0.4",
+        "release": "v1.14",
+        "catalogue_date": "2026-09-07",
+        "upstream_date": "2026-08-05",
+        "source": "https://www.blackmagicdesign.com/api/support/us/downloads.json",
+        "summary": "Exact patch identified; Windows long-path support and stability improvements.",
+        "changelogs": [
+          {
+            "label": "Fusion Studio 21.0.4 — full official changelog",
+            "url": "https://www.blackmagicdesign.com/support/readme/c3610040628c45c6b59cf2d1d6e9a4ec"
+          }
+        ],
+        "changes": [
+          "Windows handling of exceptionally long paths is corrected.",
+          "The Paint inspector’s settings tab receives a fix.",
+          "Additional reliability and speed improvements."
+        ]
+      }
+    ]
+  }
+}

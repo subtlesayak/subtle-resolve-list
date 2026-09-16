@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "mirage-heat-distortion",
+    "name": "Mirage Heat Distortion",
+    "creator": "Learn Now FX",
+    "url": "https://davidkohen.gumroad.com/l/FusionMirage",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Community discoveries",
+    "kind": "other",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "heat",
+      "distortion",
+      "mirage",
+      "noise",
+      "displacement",
+      "wind",
+      "fusion"
+    ],
+    "description": "GPU-accelerated heat-distortion effect using procedural noise, height-map displacement and wind controls. Creator documents Resolve/Fusion 16 and 17; later-version and desktop OS compatibility are not established. No current numeric tool version or release date is stated.",
+    "access": "💰 Paid download",
+    "accessGroup": "paid",
+    "platforms": [],
+    "platformNotes": "❔ Not established",
+    "requirements": {
+      "editions": [],
+      "resolve": [
+        {
+          "min": "16",
+          "max": "17"
+        }
+      ],
+      "architectures": [],
+      "gpu": null,
+      "processing": "local",
+      "pricing": "one-time",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://davidkohen.gumroad.com/l/FusionMirage",
+        "checked_at": "2026-09-15",
+        "note": "GPU-accelerated heat-distortion effect using procedural noise, height-map displacement and wind controls. Creator documents Resolve/Fusion 16 and 17; later-version and desktop OS compatibility are not established. No current numeric tool version or release date is stated."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "architecture",
+      "tool version"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Mirage Heat Distortion",
+      "url": "https://davidkohen.gumroad.com/l/FusionMirage",
+      "kind": "unverified",
+      "version": null,
+      "source": "https://davidkohen.gumroad.com/l/FusionMirage",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-15"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

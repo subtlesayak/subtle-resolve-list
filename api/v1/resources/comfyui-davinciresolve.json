@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "comfyui-davinciresolve",
+    "name": "comfyUI_DaVinciResolve",
+    "creator": "barckley75",
+    "url": "https://github.com/barckley75/comfyUI_DaVinciResolve",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "AI assistants, MCP servers, and ComfyUI integrations",
+    "kind": "mcp-server",
+    "tasks": [
+      "workflow",
+      "media"
+    ],
+    "tags": [
+      "ai",
+      "automation",
+      "comfyui",
+      "generative",
+      "nodes"
+    ],
+    "description": "ComfyUI nodes connecting generative workflows to Resolve.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [],
+    "platformNotes": "Unverified",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/barckley75/comfyUI_DaVinciResolve/commit/a0d85d5f5ab93d3600c1d2d5b11c3032485123b6",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "barckley75/comfyUI_DaVinciResolve",
+      "url": "https://github.com/barckley75/comfyUI_DaVinciResolve",
+      "kind": "commit",
+      "version": "a0d85d5f5ab93d3600c1d2d5b11c3032485123b6",
+      "source": "https://github.com/barckley75/comfyUI_DaVinciResolve/commit/a0d85d5f5ab93d3600c1d2d5b11c3032485123b6",
+      "date": "2024-06-21T05:43:04Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2024-06-21T05:43:04Z",
+    "stars": 48,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

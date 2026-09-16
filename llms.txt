@@ -1,0 +1,18 @@
+# Open Resolve List
+
+Open Resolve List is a source-backed catalogue of DaVinci Resolve and Fusion tools, plugins, scripts, DCTLs, LUTs, templates, workflow utilities, learning resources, and companion applications.
+
+## Best pages
+
+- Catalogue: https://subtlesayak.github.io/open-resolve-list/
+- Updates and version history: https://subtlesayak.github.io/open-resolve-list/updates.html
+- Evidence and methodology: https://subtlesayak.github.io/open-resolve-list/about.html
+- Machine-readable catalogue: https://subtlesayak.github.io/open-resolve-list/catalogue.json
+
+## How to use the catalogue
+
+Use the filters to find resources for Resolve Free or Resolve Studio, Windows, macOS, Linux, and iPadOS. Listings show source links, documented compatibility, access terms, versions, stars, update dates, requirements, and known unknowns. Unknown compatibility is not treated as support. The catalogue does not redistribute third-party packages.
+
+## Editorial standard
+
+Every listing links to an upstream provider or repository. Version and compatibility claims are evidence-backed and may be marked unverified when the source is incomplete. GitHub stars are an activity signal, not a quality rating. See the About page for the evidence model and the repository for contribution guidance.

@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "magicgradient",
+    "name": "MagicGradient",
+    "creator": "MrAlexTech",
+    "url": "https://ko-fi.com/s/aed8dd3b04",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Community discoveries",
+    "kind": "fusion-macro",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "fusion",
+      "gradient",
+      "alpha",
+      "background",
+      "drfx"
+    ],
+    "description": "DRFX tool for gradient backgrounds and alpha gradients on clips. Requires Resolve 17.4 or later. Creator page describes installation but checkout pricing did not render reliably.",
+    "access": "Public; check current checkout terms",
+    "accessGroup": "public",
+    "platforms": [],
+    "platformNotes": "❔ Not established",
+    "requirements": {
+      "editions": [],
+      "resolve": [
+        {
+          "min": "17.4"
+        }
+      ],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": "Double-click the DRFX file."
+    },
+    "evidence": [
+      {
+        "field": "purpose and requirements",
+        "level": "documented",
+        "source": "https://ko-fi.com/s/aed8dd3b04",
+        "checked_at": "2026-09-08",
+        "note": "Provider description reviewed; no catalogue installation testing. Unspecified compatibility remains unverified."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "architecture",
+      "processing",
+      "tool version"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "MagicGradient",
+      "url": "https://ko-fi.com/s/aed8dd3b04",
+      "kind": "unverified",
+      "version": null,
+      "source": "https://ko-fi.com/s/aed8dd3b04",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-08"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

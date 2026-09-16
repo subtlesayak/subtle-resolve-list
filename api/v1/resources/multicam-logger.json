@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "multicam-logger",
+    "name": "multicam-logger",
+    "creator": "FranzWegner",
+    "url": "https://github.com/FranzWegner/multicam-logger",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Productivity scripts, workflow bridges, and integrations",
+    "kind": "workflow-app",
+    "tasks": [
+      "workflow"
+    ],
+    "tags": [
+      "camera switching",
+      "edit decision list",
+      "logging",
+      "multicam"
+    ],
+    "description": "Logs camera switching into edit lists for post-production workflows.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [],
+    "platformNotes": "Unverified",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/FranzWegner/multicam-logger/commit/1ad8005de62238a41245aa51efa19ca54429f9fb",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "FranzWegner/multicam-logger",
+      "url": "https://github.com/FranzWegner/multicam-logger",
+      "kind": "commit",
+      "version": "1ad8005de62238a41245aa51efa19ca54429f9fb",
+      "source": "https://github.com/FranzWegner/multicam-logger/commit/1ad8005de62238a41245aa51efa19ca54429f9fb",
+      "date": "2020-06-04T18:48:54Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2022-12-11T05:16:33Z",
+    "stars": 38,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

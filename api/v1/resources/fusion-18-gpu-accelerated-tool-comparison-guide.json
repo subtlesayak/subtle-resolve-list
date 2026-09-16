@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "fusion-18-gpu-accelerated-tool-comparison-guide",
+    "name": "Fusion 18 GPU Accelerated Tool Comparison Guide",
+    "creator": "Blackmagic Design",
+    "url": "https://documents.blackmagicdesign.com/UserManuals/Fusion_GPU_Accelerated_Tools.pdf",
+    "origin": "external",
+    "official": true,
+    "reference": true,
+    "category": "Official Blackmagic Design resources",
+    "kind": "reference",
+    "tasks": [
+      "learning",
+      "fusion"
+    ],
+    "tags": [
+      "gpu",
+      "acceleration",
+      "fusion",
+      "studio",
+      "legacy"
+    ],
+    "description": "Version-specific comparison of GPU-accelerated tools in Resolve, Resolve Studio and Fusion Studio. This 2022 guide is not a current compatibility matrix. Support listing dated 2022-07-25.",
+    "access": "🆓 Public reference; original terms apply",
+    "accessGroup": "public",
+    "platforms": [],
+    "platformNotes": "📖 Reference",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "free",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://documents.blackmagicdesign.com/UserManuals/Fusion_GPU_Accelerated_Tools.pdf?_v=1658732410000",
+        "checked_at": "2026-09-08",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "reference scope",
+        "level": "documented",
+        "source": "https://documents.blackmagicdesign.com/UserManuals/Fusion_GPU_Accelerated_Tools.pdf?_v=1658732410000",
+        "checked_at": "2026-09-08",
+        "note": "Official support feed title and description reviewed; destination returned successfully. Reference documentation, not installation testing or current software compatibility."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Fusion 18 GPU Accelerated Tool Comparison Guide",
+      "url": "https://documents.blackmagicdesign.com/UserManuals/Fusion_GPU_Accelerated_Tools.pdf",
+      "kind": "reference-edition",
+      "version": "18",
+      "source": "https://documents.blackmagicdesign.com/UserManuals/Fusion_GPU_Accelerated_Tools.pdf?_v=1658732410000",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-08",
+      "note": "Document edition identified by the official support-feed title, not the current software version."
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "oidn-denoiser",
+    "name": "Oidn Denoiser",
+    "creator": "Jacob Danell",
+    "url": "https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.JacobDanell.OidnDenoiser/com.JacobDanell.OidnDenoiser.atom",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Community discoveries",
+    "kind": "reactor-package",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "albedo",
+      "denoise",
+      "normal",
+      "oidn",
+      "ray tracing",
+      "render passes"
+    ],
+    "description": "Fusion Fuse for denoising ray-traced renders using Intel Open Image Denoise, optionally with albedo and normal passes. Current package bundles OIDN 2.5.1 and documents CPU/GPU processing on Windows, macOS Intel/Apple Silicon and Linux. Reactor version field is 2.0501; embedded changelog names the bundled OIDN release as 2.5.1.",
+    "access": "📦 Public Reactor package; check package license",
+    "accessGroup": "paid",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "platformNotes": "🪟 Windows · 🍎 macOS Intel/Apple Silicon · 🐧 Linux",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [
+        "x64",
+        "arm64"
+      ],
+      "gpu": "CPU or supported Intel, NVIDIA, AMD or Apple Silicon GPU",
+      "processing": "local",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": "Bundled Open Image Denoise 2.5.1 libraries",
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.JacobDanell.OidnDenoiser/com.JacobDanell.OidnDenoiser.atom",
+        "checked_at": "2026-09-15",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.JacobDanell.OidnDenoiser/com.JacobDanell.OidnDenoiser.atom",
+        "checked_at": "2026-09-15",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.JacobDanell.OidnDenoiser/com.JacobDanell.OidnDenoiser.atom",
+        "checked_at": "2026-09-15",
+        "note": "Fusion Fuse for denoising ray-traced renders using Intel Open Image Denoise, optionally with albedo and normal passes. Current package bundles OIDN 2.5.1 and documents CPU/GPU processing on Windows, macOS Intel/Apple Silicon and Linux. Reactor version field is 2.0501; embedded changelog names the bundled OIDN release as 2.5.1."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Oidn Denoiser",
+      "url": "https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.JacobDanell.OidnDenoiser/com.JacobDanell.OidnDenoiser.atom",
+      "kind": "package-version",
+      "version": "2.0501",
+      "source": "https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.JacobDanell.OidnDenoiser/com.JacobDanell.OidnDenoiser.atom",
+      "date": "2026-09-11",
+      "date_kind": "Reactor manifest date",
+      "checked_at": "2026-09-15"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": [
+      {
+        "name": "Oidn Denoiser",
+        "url": "https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.JacobDanell.OidnDenoiser/com.JacobDanell.OidnDenoiser.atom",
+        "from": "1.1",
+        "to": "2.0501",
+        "release": "v1.22",
+        "catalogue_date": "2026-09-15",
+        "upstream_date": "2026-09-11",
+        "source": "https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.JacobDanell.OidnDenoiser/com.JacobDanell.OidnDenoiser.atom",
+        "summary": "Updates the OIDN dependency and library loading, with expanded platform support.",
+        "changes": [
+          "Bundles Open Image Denoise 2.5.1 and updates library loading.",
+          "Documents Windows, macOS Intel/Apple Silicon and Linux, with supported CPU/GPU devices.",
+          "Version 2.0501 is Reactor’s literal package version; its September 11 date is a manifest date."
+        ],
+        "changelogs": [
+          {
+            "label": "Full source changelog",
+            "url": "https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.JacobDanell.OidnDenoiser/com.JacobDanell.OidnDenoiser.atom"
+          }
+        ]
+      }
+    ]
+  }
+}

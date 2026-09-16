@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "flow-character-rigger",
+    "name": "Flow Character Rigger",
+    "creator": "FusionPixelStudios",
+    "url": "https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.FusionPixelStudios.FlowCharacterRigger/com.FusionPixelStudios.FlowCharacterRigger.atom",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Community discoveries",
+    "kind": "fusion-macro",
+    "tasks": [],
+    "tags": [
+      "2d animation",
+      "character rigging",
+      "fusion",
+      "joints",
+      "puppet"
+    ],
+    "description": "Rigging macro for separately layered 2D character parts, with joint positions and body-part angles. Requires prepared character layers.",
+    "access": "📦 Public Reactor package; check package license",
+    "accessGroup": "paid",
+    "platforms": [],
+    "platformNotes": "❔ Not established",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.FusionPixelStudios.FlowCharacterRigger/com.FusionPixelStudios.FlowCharacterRigger.atom",
+        "checked_at": "2026-09-06",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Flow Character Rigger",
+      "url": "https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.FusionPixelStudios.FlowCharacterRigger/com.FusionPixelStudios.FlowCharacterRigger.atom",
+      "kind": "package-version",
+      "version": "1",
+      "source": "https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.FusionPixelStudios.FlowCharacterRigger/com.FusionPixelStudios.FlowCharacterRigger.atom",
+      "date": "2024-08-18",
+      "date_kind": "Reactor manifest date",
+      "checked_at": "2026-09-06"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

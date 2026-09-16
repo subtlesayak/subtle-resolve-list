@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "davinci-resolve-dctls",
+    "name": "DaVinci-Resolve-DCTLs",
+    "creator": "KaurHendrikson",
+    "url": "https://github.com/KaurHendrikson/DaVinci-Resolve-DCTLs",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Color grading, DCTLs, film looks, and color science",
+    "kind": "dctl",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "code snippets",
+      "dctl",
+      "development",
+      "transfer function"
+    ],
+    "description": "DCTL boilerplates, reusable code snippets, example effects, and camera/intermediate transfer functions.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "platformNotes": "Windows;macOS;Linux",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/KaurHendrikson/DaVinci-Resolve-DCTLs#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/KaurHendrikson/DaVinci-Resolve-DCTLs/commit/c9e82151d19ca9f1f76de05fc02fcab61b32b96e",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "KaurHendrikson/DaVinci-Resolve-DCTLs",
+      "url": "https://github.com/KaurHendrikson/DaVinci-Resolve-DCTLs",
+      "kind": "commit",
+      "version": "c9e82151d19ca9f1f76de05fc02fcab61b32b96e",
+      "source": "https://github.com/KaurHendrikson/DaVinci-Resolve-DCTLs/commit/c9e82151d19ca9f1f76de05fc02fcab61b32b96e",
+      "date": "2025-01-15T13:09:29Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2025-01-15T13:09:31Z",
+    "stars": 39,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

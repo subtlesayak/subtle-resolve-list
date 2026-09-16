@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "aces-dctl",
+    "name": "ACES_DCTL",
+    "creator": "baldavenger",
+    "url": "https://github.com/baldavenger/ACES_DCTL",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Color grading, DCTLs, film looks, and color science",
+    "kind": "dctl",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "aces",
+      "color management",
+      "color transform",
+      "dctl"
+    ],
+    "description": "ACES color transforms implemented as DCTLs for Resolve Studio.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "Unverified",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/baldavenger/ACES_DCTL/commit/f0fe03effce101b66551272296191e98ec0d6ecb",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "baldavenger/ACES_DCTL",
+      "url": "https://github.com/baldavenger/ACES_DCTL",
+      "kind": "commit",
+      "version": "f0fe03effce101b66551272296191e98ec0d6ecb",
+      "source": "https://github.com/baldavenger/ACES_DCTL/commit/f0fe03effce101b66551272296191e98ec0d6ecb",
+      "date": "2021-08-30T18:35:24Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2021-08-30T18:35:33Z",
+    "stars": 73,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

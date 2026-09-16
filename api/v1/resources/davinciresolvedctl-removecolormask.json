@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "davinciresolvedctl-removecolormask",
+    "name": "DavinciResolveDCTL_RemoveColorMask",
+    "creator": "OwenYou",
+    "url": "https://github.com/OwenYou/DavinciResolveDCTL_RemoveColorMask",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Color grading, DCTLs, film looks, and color science",
+    "kind": "dctl",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "color mask",
+      "dctl",
+      "film",
+      "negative inversion"
+    ],
+    "description": "Interactive film color-mask removal DCTL. Upstream testing covers Resolve 15; current-version compatibility unverified.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "OS support not established by the reviewed documentation.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/OwenYou/DavinciResolveDCTL_RemoveColorMask/commit/371d23c9afc7c5925bcc84e37504817eff7ec5ad",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "OwenYou/DavinciResolveDCTL_RemoveColorMask",
+      "url": "https://github.com/OwenYou/DavinciResolveDCTL_RemoveColorMask",
+      "kind": "commit",
+      "version": "371d23c9afc7c5925bcc84e37504817eff7ec5ad",
+      "source": "https://github.com/OwenYou/DavinciResolveDCTL_RemoveColorMask/commit/371d23c9afc7c5925bcc84e37504817eff7ec5ad",
+      "date": "2023-11-05T18:42:00Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2023-11-05T18:42:00Z",
+    "stars": 12,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

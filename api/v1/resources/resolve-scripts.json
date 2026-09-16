@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "resolve-scripts",
+    "name": "resolve-scripts",
+    "creator": "thatcherfreeman",
+    "url": "https://github.com/thatcherfreeman/resolve-scripts",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Productivity scripts, workflow bridges, and integrations",
+    "kind": "workflow-app",
+    "tasks": [
+      "workflow"
+    ],
+    "tags": [
+      "automation",
+      "metadata",
+      "relinking",
+      "rendering",
+      "scripts",
+      "timeline"
+    ],
+    "description": "Everyday Resolve/Fusion automation: timeline, metadata, render, relinking, and other helpers.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "platformNotes": "Collection-level installation paths; individual scripts can be platform-specific.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/thatcherfreeman/resolve-scripts#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/thatcherfreeman/resolve-scripts/commit/2ab9ed607bee8c35c773725e77ed09f316a8deee",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "thatcherfreeman/resolve-scripts",
+      "url": "https://github.com/thatcherfreeman/resolve-scripts",
+      "kind": "commit",
+      "version": "2ab9ed607bee8c35c773725e77ed09f316a8deee",
+      "source": "https://github.com/thatcherfreeman/resolve-scripts/commit/2ab9ed607bee8c35c773725e77ed09f316a8deee",
+      "date": "2026-09-08T07:00:46Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2026-09-08T07:00:56Z",
+    "stars": 17,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": [
+      {
+        "name": "thatcherfreeman/resolve-scripts",
+        "url": "https://github.com/thatcherfreeman/resolve-scripts",
+        "from": "2314e5b33aa005ea1c3b77a1ce3e85521906cbef",
+        "to": "2ab9ed607bee8c35c773725e77ed09f316a8deee",
+        "release": "v1.19",
+        "catalogue_date": "2026-09-08",
+        "upstream_date": "2026-09-08",
+        "source": "https://github.com/thatcherfreeman/resolve-scripts/commit/2ab9ed607bee8c35c773725e77ed09f316a8deee",
+        "summary": "Refreshes scripting documentation extracted from an MCP server. This tracks a source commit, not a published software release.",
+        "changes": [
+          "Refreshes scripting documentation extracted from an MCP server. This tracks a source commit, not a published software release."
+        ],
+        "changelogs": [
+          {
+            "label": "Full source changelog",
+            "url": "https://github.com/thatcherfreeman/resolve-scripts/commit/2ab9ed607bee8c35c773725e77ed09f316a8deee"
+          }
+        ]
+      },
+      {
+        "name": "thatcherfreeman/resolve-scripts",
+        "url": "https://github.com/thatcherfreeman/resolve-scripts",
+        "from": "edbb5bdc23cd3b9458eaf6234c176169ac876731",
+        "to": "2314e5b33aa005ea1c3b77a1ce3e85521906cbef",
+        "release": "v1.15",
+        "catalogue_date": "2026-09-08",
+        "upstream_date": "2026-09-08",
+        "source": "https://github.com/thatcherfreeman/resolve-scripts/commit/2314e5b33aa005ea1c3b77a1ce3e85521906cbef",
+        "summary": "Source revision restores older documentation; this is not a published software release.",
+        "changes": [
+          "Source revision restores older documentation; this is not a published software release."
+        ],
+        "changelogs": [
+          {
+            "label": "Full source changelog",
+            "url": "https://github.com/thatcherfreeman/resolve-scripts/commit/2314e5b33aa005ea1c3b77a1ce3e85521906cbef"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "ruttetra",
+    "name": "RuttEtra",
+    "creator": "Akascape",
+    "url": "https://akascape.gumroad.com/l/ruttetra",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Effects and animation",
+    "kind": "other",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "displacement",
+      "geometry",
+      "lines",
+      "rutt etra"
+    ],
+    "description": "Creates image-derived line geometry displaced according to brightness for a Rutt-Etra-style effect. Requires Resolve 18+ Free or Studio.",
+    "access": "💰 Paid",
+    "accessGroup": "paid",
+    "platforms": [],
+    "platformNotes": "❔ Not established",
+    "requirements": {
+      "editions": [
+        "Free",
+        "Studio"
+      ],
+      "resolve": [
+        {
+          "min": "18"
+        }
+      ],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://akascape.gumroad.com/l/ruttetra",
+        "checked_at": "2026-09-07",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "Resolve edition and version range",
+        "level": "documented",
+        "source": "https://akascape.gumroad.com/l/ruttetra",
+        "checked_at": "2026-09-07",
+        "note": "Structured from the existing source-backed catalogue description; no new installation test: Creates image-derived line geometry displaced according to brightness for a Rutt-Etra-style effect. Requires Resolve 18+ Free or Studio."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "RuttEtra",
+      "url": "https://akascape.gumroad.com/l/ruttetra",
+      "kind": "vendor-version",
+      "version": "0.1",
+      "source": "https://akascape.gumroad.com/l/ruttetra",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-07"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

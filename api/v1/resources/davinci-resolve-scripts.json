@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "davinci-resolve-scripts",
+    "name": "DaVinci-Resolve-Scripts",
+    "creator": "X-Raym",
+    "url": "https://github.com/X-Raym/DaVinci-Resolve-Scripts",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Productivity scripts, workflow bridges, and integrations",
+    "kind": "workflow-app",
+    "tasks": [
+      "workflow"
+    ],
+    "tags": [
+      "automation",
+      "markers",
+      "project management",
+      "scripts"
+    ],
+    "description": "Free scripts for editing, markers, properties, and project workflows.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "platformNotes": "Windows;macOS;Linux",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/X-Raym/DaVinci-Resolve-Scripts#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/X-Raym/DaVinci-Resolve-Scripts/commit/7906589d94a20d372a9b7d58b013330c1e5c47e2",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "X-Raym/DaVinci-Resolve-Scripts",
+      "url": "https://github.com/X-Raym/DaVinci-Resolve-Scripts",
+      "kind": "commit",
+      "version": "7906589d94a20d372a9b7d58b013330c1e5c47e2",
+      "source": "https://github.com/X-Raym/DaVinci-Resolve-Scripts/commit/7906589d94a20d372a9b7d58b013330c1e5c47e2",
+      "date": "2025-10-13T15:39:40Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2025-10-13T15:39:40Z",
+    "stars": 97,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

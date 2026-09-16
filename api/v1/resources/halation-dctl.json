@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "halation-dctl",
+    "name": "halation-dctl",
+    "creator": "hotgluebanjo",
+    "url": "https://github.com/hotgluebanjo/halation-dctl",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Color grading, DCTLs, film looks, and color science",
+    "kind": "dctl",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "dctl",
+      "film",
+      "glow",
+      "halation",
+      "scene linear"
+    ],
+    "description": "Adjustable halation with exponential falloff. Requires scene-linear input and the DCTL OFX effect; licensing not established.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [],
+    "platformNotes": "Unverified",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/hotgluebanjo/halation-dctl/commit/7e9efd37e6f59e3c29ecc53dc23b3dd48cddaddb",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "hotgluebanjo/halation-dctl",
+      "url": "https://github.com/hotgluebanjo/halation-dctl",
+      "kind": "commit",
+      "version": "7e9efd37e6f59e3c29ecc53dc23b3dd48cddaddb",
+      "source": "https://github.com/hotgluebanjo/halation-dctl/commit/7e9efd37e6f59e3c29ecc53dc23b3dd48cddaddb",
+      "date": "2022-09-15T22:30:06Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2023-10-19T06:22:04Z",
+    "stars": 102,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

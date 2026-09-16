@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "supermatrixrain",
+    "name": "SuperMatrixRain",
+    "creator": "Akascape",
+    "url": "https://akascape.gumroad.com/l/supermatrixrain",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Effects and animation",
+    "kind": "other",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "3d",
+      "animated text",
+      "code rain",
+      "matrix rain"
+    ],
+    "description": "Generates animated code-rain graphics with 2D layers and a simulated 3D camera mode. Requires Resolve 18+ Free or Studio.",
+    "access": "💰 Paid",
+    "accessGroup": "paid",
+    "platforms": [],
+    "platformNotes": "❔ Not established",
+    "requirements": {
+      "editions": [
+        "Free",
+        "Studio"
+      ],
+      "resolve": [
+        {
+          "min": "18"
+        }
+      ],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://akascape.gumroad.com/l/supermatrixrain",
+        "checked_at": "2026-09-07",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "Resolve edition and version range",
+        "level": "documented",
+        "source": "https://akascape.gumroad.com/l/supermatrixrain",
+        "checked_at": "2026-09-07",
+        "note": "Structured from the existing source-backed catalogue description; no new installation test: Generates animated code-rain graphics with 2D layers and a simulated 3D camera mode. Requires Resolve 18+ Free or Studio."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "SuperMatrixRain",
+      "url": "https://akascape.gumroad.com/l/supermatrixrain",
+      "kind": "vendor-version",
+      "version": "0.1",
+      "source": "https://akascape.gumroad.com/l/supermatrixrain",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-07"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

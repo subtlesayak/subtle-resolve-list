@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "davinconv",
+    "name": "davinconv",
+    "creator": "gohny",
+    "url": "https://github.com/gohny/davinconv",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Linux installation, compatibility, and troubleshooting",
+    "kind": "encoder",
+    "tasks": [
+      "linux"
+    ],
+    "tags": [
+      "ffmpeg",
+      "linux",
+      "media preparation",
+      "transcoding"
+    ],
+    "description": "FFmpeg Bash conversion helper for preparing footage for Resolve on Linux.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [
+      "Linux"
+    ],
+    "platformNotes": "Linux",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/gohny/davinconv#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/gohny/davinconv/releases/tag/0.1.0",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "gohny/davinconv",
+      "url": "https://github.com/gohny/davinconv",
+      "kind": "stable-release",
+      "version": "0.1.0",
+      "source": "https://github.com/gohny/davinconv/releases/tag/0.1.0",
+      "date": "2023-12-22T21:03:25Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2023-12-22T21:03:25Z",
+    "activityDate": "2026-01-27T23:33:13Z",
+    "stars": 24,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

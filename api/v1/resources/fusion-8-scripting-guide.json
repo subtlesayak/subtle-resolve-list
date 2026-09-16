@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "fusion-8-scripting-guide",
+    "name": "Fusion 8 Scripting Guide",
+    "creator": "Blackmagic Design",
+    "url": "https://documents.blackmagicdesign.com/UserManuals/Fusion8_Scripting_Guide.pdf",
+    "origin": "external",
+    "official": true,
+    "reference": true,
+    "category": "Official Blackmagic Design resources",
+    "kind": "workflow-app",
+    "tasks": [
+      "learning"
+    ],
+    "tags": [
+      "scripting",
+      "fusionscript",
+      "lua",
+      "python",
+      "legacy"
+    ],
+    "description": "Legacy FusionScript API introduction for automating and extending Fusion 8. Check current API documentation before reusing examples. Support listing dated 2016-04-01.",
+    "access": "🆓 Public reference; original terms apply",
+    "accessGroup": "public",
+    "platforms": [],
+    "platformNotes": "📖 Reference",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "free",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://documents.blackmagicdesign.com/UserManuals/Fusion8_Scripting_Guide.pdf?_v=1459495172000",
+        "checked_at": "2026-09-08",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "reference scope",
+        "level": "documented",
+        "source": "https://documents.blackmagicdesign.com/UserManuals/Fusion8_Scripting_Guide.pdf?_v=1459495172000",
+        "checked_at": "2026-09-08",
+        "note": "Official support feed title and description reviewed; destination returned successfully. Reference documentation, not installation testing or current software compatibility."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Fusion 8 Scripting Guide",
+      "url": "https://documents.blackmagicdesign.com/UserManuals/Fusion8_Scripting_Guide.pdf",
+      "kind": "reference-edition",
+      "version": "8",
+      "source": "https://documents.blackmagicdesign.com/UserManuals/Fusion8_Scripting_Guide.pdf?_v=1459495172000",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-08",
+      "note": "Document edition identified by the official support-feed title, not the current software version."
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

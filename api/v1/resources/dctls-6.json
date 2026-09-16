@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "dctls-6",
+    "name": "DCTLs",
+    "creator": "Xaryen",
+    "url": "https://github.com/Xaryen/DCTLs",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Color grading, DCTLs, film looks, and color science",
+    "kind": "dctl",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "after effects",
+      "dctl",
+      "matte",
+      "minimax",
+      "morphology"
+    ],
+    "description": "Minimax-style DCTL for comparing effects with After Effects. Slow at larger values; author recommends Alpha Matte Shrink and Grow OFX for production.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [],
+    "platformNotes": "Unverified",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/Xaryen/DCTLs/commit/17f2b89fe19bb3508aefffc930427caa6bfaaf32",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Xaryen/DCTLs",
+      "url": "https://github.com/Xaryen/DCTLs",
+      "kind": "commit",
+      "version": "17f2b89fe19bb3508aefffc930427caa6bfaaf32",
+      "source": "https://github.com/Xaryen/DCTLs/commit/17f2b89fe19bb3508aefffc930427caa6bfaaf32",
+      "date": "2024-01-26T18:30:12Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2024-01-26T18:30:12Z",
+    "stars": 1,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

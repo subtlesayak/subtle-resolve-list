@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "shadertoys",
+    "name": "Shadertoys",
+    "creator": "J-i-P-i",
+    "url": "https://github.com/J-i-P-i/Shadertoys",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Fusion, motion graphics, visual effects, and package management",
+    "kind": "other",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "fusion",
+      "shader",
+      "shadertoy",
+      "visual effects"
+    ],
+    "description": "Experimental Shadertoy-to-Fusion shader collection/incubator.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [],
+    "platformNotes": "Unverified",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/J-i-P-i/Shadertoys/releases/tag/V0.1",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "J-i-P-i/Shadertoys",
+      "url": "https://github.com/J-i-P-i/Shadertoys",
+      "kind": "stable-release",
+      "version": "V0.1",
+      "source": "https://github.com/J-i-P-i/Shadertoys/releases/tag/V0.1",
+      "date": "2021-02-12T22:28:40Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2021-02-12T22:28:40Z",
+    "activityDate": "2022-11-09T08:10:28Z",
+    "stars": 4,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

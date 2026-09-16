@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "fedora-resolve",
+    "name": "fedora-resolve",
+    "creator": "yioannides",
+    "url": "https://github.com/yioannides/fedora-resolve",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Linux installation, compatibility, and troubleshooting",
+    "kind": "workflow-app",
+    "tasks": [
+      "linux"
+    ],
+    "tags": [
+      "fedora",
+      "installation",
+      "linux"
+    ],
+    "description": "Fedora installation scripts. The maintainer warns the method may already be obsolete.",
+    "access": "Free; legacy warning",
+    "accessGroup": "free",
+    "platforms": [
+      "Linux"
+    ],
+    "platformNotes": "Fedora; legacy method may be obsolete.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/yioannides/fedora-resolve#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/yioannides/fedora-resolve/commit/a7a990d72ca8695718c02a8cf1d2063e54c1ed5a",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "yioannides/fedora-resolve",
+      "url": "https://github.com/yioannides/fedora-resolve",
+      "kind": "commit",
+      "version": "a7a990d72ca8695718c02a8cf1d2063e54c1ed5a",
+      "source": "https://github.com/yioannides/fedora-resolve/commit/a7a990d72ca8695718c02a8cf1d2063e54c1ed5a",
+      "date": "2026-08-08T05:46:40Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2026-08-08T05:46:40Z",
+    "stars": 26,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "bsafe-resolve",
+    "name": "BSafe_Resolve",
+    "creator": "ambustion",
+    "url": "https://github.com/ambustion/BSafe_Resolve",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Productivity scripts, workflow bridges, and integrations",
+    "kind": "workflow-app",
+    "tasks": [
+      "workflow"
+    ],
+    "tags": [
+      "broadcast safe",
+      "markers",
+      "qc",
+      "quality control",
+      "video analysis"
+    ],
+    "description": "Scan rendered video for broadcast-safe exceptions and generate reports, markers, and previews.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "OS support not established by the reviewed documentation.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/ambustion/BSafe_Resolve/commit/7cbee8c7cdd827066cedf3ff5f800374b6a562f7",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "ambustion/BSafe_Resolve",
+      "url": "https://github.com/ambustion/BSafe_Resolve",
+      "kind": "commit",
+      "version": "7cbee8c7cdd827066cedf3ff5f800374b6a562f7",
+      "source": "https://github.com/ambustion/BSafe_Resolve/commit/7cbee8c7cdd827066cedf3ff5f800374b6a562f7",
+      "date": "2020-12-29T17:07:34Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2020-12-29T17:07:39Z",
+    "stars": 7,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

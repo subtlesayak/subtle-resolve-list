@@ -1,0 +1,91 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "fast-autocut",
+    "name": "fast-autocut",
+    "creator": "abhirup780",
+    "url": "https://github.com/abhirup780/fast-autocut",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Subtitles, transcription, dialogue cleanup, and automatic editing",
+    "kind": "subtitle-tool",
+    "tasks": [
+      "captions",
+      "workflow"
+    ],
+    "tags": [
+      "audio sync",
+      "automatic editing",
+      "silence removal"
+    ],
+    "description": "Silence removal that builds a new timeline while retaining externally recorded audio sync. Windows, Resolve Studio 18.5+, Python, and FFmpeg required.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows"
+    ],
+    "platformNotes": "Windows 10/11 only.",
+    "requirements": {
+      "editions": [
+        "Studio"
+      ],
+      "resolve": [
+        {
+          "edition": "Studio",
+          "min": "18.5"
+        }
+      ],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/abhirup780/fast-autocut#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/abhirup780/fast-autocut/releases/tag/v1.0.1",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "Resolve edition and version range",
+        "level": "documented",
+        "source": "https://github.com/abhirup780/fast-autocut#readme",
+        "checked_at": "2026-09-06",
+        "note": "Structured from the existing source-backed catalogue description; no new installation test: Silence removal that builds a new timeline while retaining externally recorded audio sync. Windows, Resolve Studio 18.5+, Python, and FFmpeg required."
+      }
+    ],
+    "unknownFields": [
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "abhirup780/fast-autocut",
+      "url": "https://github.com/abhirup780/fast-autocut",
+      "kind": "stable-release",
+      "version": "v1.0.1",
+      "source": "https://github.com/abhirup780/fast-autocut/releases/tag/v1.0.1",
+      "date": "2026-07-05T09:29:23Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2026-07-05T09:29:23Z",
+    "activityDate": "2026-07-05T09:29:23Z",
+    "stars": 2,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

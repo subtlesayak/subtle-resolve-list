@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "resolve-directory",
+    "name": "Resolve Directory",
+    "creator": "Resolve Directory",
+    "url": "https://resolve.directory/",
+    "origin": "external",
+    "official": false,
+    "reference": true,
+    "category": "Community discoveries",
+    "kind": "powergrade",
+    "tasks": [
+      "learning"
+    ],
+    "tags": [
+      "directory",
+      "powergrade",
+      "lut",
+      "camera",
+      "log",
+      "film"
+    ],
+    "description": "Directory linking free PowerGrades, LUTs, camera log transforms and guides. Product availability and licenses belong to the linked creators; dynamic listings were not fully enumerated in this review.",
+    "access": "🆓 Free directory",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "📖 Reference",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://resolve.directory/",
+        "checked_at": "2026-09-08",
+        "note": "Directory linking free PowerGrades, LUTs, camera log transforms and guides. Product availability and licenses belong to the linked creators; dynamic listings were not fully enumerated in this review."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Resolve Directory",
+      "url": "https://resolve.directory/",
+      "kind": "not-applicable",
+      "version": null,
+      "source": "https://resolve.directory/",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-08",
+      "note": "Directory with no single software release."
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

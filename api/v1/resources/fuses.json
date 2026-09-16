@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "fuses",
+    "name": "Fuses",
+    "creator": "AntonChernov86",
+    "url": "https://github.com/AntonChernov86/Fuses",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Fusion, motion graphics, visual effects, and package management",
+    "kind": "fuse",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "fuse",
+      "fusion",
+      "nodes"
+    ],
+    "description": "Custom Fusion Fuse collection.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [
+      "Windows"
+    ],
+    "platformNotes": "Windows",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/AntonChernov86/Fuses#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/AntonChernov86/Fuses/commit/c24d8a4483f02530a0fa14c52f15ff3f93b66046",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "AntonChernov86/Fuses",
+      "url": "https://github.com/AntonChernov86/Fuses",
+      "kind": "commit",
+      "version": "c24d8a4483f02530a0fa14c52f15ff3f93b66046",
+      "source": "https://github.com/AntonChernov86/Fuses/commit/c24d8a4483f02530a0fa14c52f15ff3f93b66046",
+      "date": "2023-11-09T15:14:37Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2023-11-09T15:14:43Z",
+    "stars": 0,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

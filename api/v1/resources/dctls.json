@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "dctls",
+    "name": "DCTLs",
+    "creator": "baldavenger",
+    "url": "https://github.com/baldavenger/DCTLs",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Color grading, DCTLs, film looks, and color science",
+    "kind": "dctl",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "charts",
+      "color science",
+      "convolution",
+      "dctl",
+      "noise"
+    ],
+    "description": "Technical transforms, charts, noise, convolution, and grading utilities.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "Unverified",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/baldavenger/DCTLs/commit/c9698e0e2648018fc95378b9d6796be56f7705f3",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "baldavenger/DCTLs",
+      "url": "https://github.com/baldavenger/DCTLs",
+      "kind": "commit",
+      "version": "c9698e0e2648018fc95378b9d6796be56f7705f3",
+      "source": "https://github.com/baldavenger/DCTLs/commit/c9698e0e2648018fc95378b9d6796be56f7705f3",
+      "date": "2021-06-25T16:56:41Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2023-12-06T00:59:40Z",
+    "stars": 350,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

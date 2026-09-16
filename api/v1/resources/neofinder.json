@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "neofinder",
+    "name": "NeoFinder",
+    "creator": "NeoFinder",
+    "url": "https://www.cdfinder.de/",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Community discoveries",
+    "kind": "workflow-app",
+    "tasks": [
+      "media"
+    ],
+    "tags": [
+      "asset search",
+      "media catalog",
+      "metadata",
+      "offline media",
+      "thumbnails"
+    ],
+    "description": "Catalogs online and offline media volumes with thumbnails, metadata and search, helping locate assets for edit projects. Requires macOS 10.15+ on Intel or Apple Silicon. The separate iOS companion has its own requirements.",
+    "access": "💰 Paid; trial available",
+    "accessGroup": "paid",
+    "platforms": [
+      "macOS"
+    ],
+    "platformNotes": "🍎 macOS",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [
+        "x64",
+        "arm64"
+      ],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": "macOS 10.15 or later; separate iOS companion has its own requirements.",
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://www.cdfinder.de/versions.html",
+        "checked_at": "2026-09-07",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://www.cdfinder.de/versions.html",
+        "checked_at": "2026-09-07",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://www.cdfinder.de/versions.html",
+        "checked_at": "2026-09-07",
+        "note": "The macOS media catalogue supports Intel and Apple Silicon."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "NeoFinder",
+      "url": "https://www.cdfinder.de/",
+      "kind": "vendor-version",
+      "version": "9.3",
+      "source": "https://www.cdfinder.de/versions.html",
+      "date": "2026-08-31",
+      "date_kind": "release",
+      "checked_at": "2026-09-07"
+    },
+    "releaseDate": "2026-08-31",
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

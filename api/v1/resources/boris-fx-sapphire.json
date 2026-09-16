@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "boris-fx-sapphire",
+    "name": "Boris FX Sapphire",
+    "creator": "Boris FX",
+    "url": "https://borisfx.com/products/sapphire/",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Effects / Fusion",
+    "kind": "ofx",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "compositing",
+      "openfx",
+      "transitions",
+      "visual effects"
+    ],
+    "description": "VFX and transition suite with documented Resolve and Fusion Studio OFX support. Check host, GPU, and Linux-distribution requirements for the selected release.",
+    "access": "Paid; trial available",
+    "accessGroup": "paid",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "platformNotes": "🪟 Windows · 🍎 macOS · 🐧 Linux",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://borisfx.com/products/sapphire/",
+        "checked_at": "2026-09-06T12:10:24.015Z",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://borisfx.com/release-notes?page=1",
+        "checked_at": "2026-09-06T12:10:24.015Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Boris FX Sapphire",
+      "url": "https://borisfx.com/products/sapphire/",
+      "kind": "vendor-version",
+      "version": "2026.5.1",
+      "source": "https://borisfx.com/release-notes?page=1",
+      "date": "2026-07-24",
+      "date_kind": "release",
+      "checked_at": "2026-09-06T12:10:24.015Z"
+    },
+    "releaseDate": "2026-07-24",
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

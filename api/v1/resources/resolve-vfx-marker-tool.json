@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "resolve-vfx-marker-tool",
+    "name": "resolve-vfx-marker-tool",
+    "creator": "postflows",
+    "url": "https://github.com/postflows/resolve-vfx-marker-tool",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Productivity scripts, workflow bridges, and integrations",
+    "kind": "template",
+    "tasks": [
+      "workflow"
+    ],
+    "tags": [
+      "conform",
+      "markers",
+      "shot numbering",
+      "vfx"
+    ],
+    "description": "Create VFX shot markers with naming templates and sequential/intermediate numbering. Resolve Studio 20+.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "platformNotes": "Windows;macOS",
+    "requirements": {
+      "editions": [
+        "Studio"
+      ],
+      "resolve": [
+        {
+          "edition": "Studio",
+          "min": "20"
+        }
+      ],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/postflows/resolve-vfx-marker-tool#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/postflows/resolve-vfx-marker-tool/commit/8c5a94aa40e2fb3d0246050a811a51a2c55d92be",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      },
+      {
+        "field": "Resolve edition and version range",
+        "level": "documented",
+        "source": "https://github.com/postflows/resolve-vfx-marker-tool#readme",
+        "checked_at": "2026-09-06",
+        "note": "Structured from the existing source-backed catalogue description; no new installation test: Create VFX shot markers with naming templates and sequential/intermediate numbering. Resolve Studio 20+."
+      }
+    ],
+    "unknownFields": [
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "postflows/resolve-vfx-marker-tool",
+      "url": "https://github.com/postflows/resolve-vfx-marker-tool",
+      "kind": "commit",
+      "version": "8c5a94aa40e2fb3d0246050a811a51a2c55d92be",
+      "source": "https://github.com/postflows/resolve-vfx-marker-tool/commit/8c5a94aa40e2fb3d0246050a811a51a2c55d92be",
+      "date": "2026-03-11T17:58:56Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2026-03-11T17:58:57Z",
+    "stars": 0,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

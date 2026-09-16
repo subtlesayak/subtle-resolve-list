@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "davinci-resolve-tts",
+    "name": "DaVinci-Resolve-TTS",
+    "creator": "2445868686",
+    "url": "https://github.com/2445868686/DaVinci-Resolve-TTS",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Subtitles, transcription, dialogue cleanup, and automatic editing",
+    "kind": "subtitle-tool",
+    "tasks": [
+      "captions"
+    ],
+    "tags": [
+      "narration",
+      "text to speech",
+      "tts",
+      "voice generation"
+    ],
+    "description": "Text-to-speech integrations with external voice providers; provider usage can cost money.",
+    "access": "Mixed",
+    "accessGroup": "mixed",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "platformNotes": "Windows;macOS",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "cloud",
+      "pricing": "mixed",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/2445868686/DaVinci-Resolve-TTS#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/2445868686/DaVinci-Resolve-TTS/commit/9924c3928dbe89b4b801f87a6a2bdc1481ff736d",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://github.com/2445868686/DaVinci-Resolve-TTS",
+        "checked_at": "2026-09-06",
+        "note": "Uses external voice providers with possible usage charges."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "2445868686/DaVinci-Resolve-TTS",
+      "url": "https://github.com/2445868686/DaVinci-Resolve-TTS",
+      "kind": "commit",
+      "version": "9924c3928dbe89b4b801f87a6a2bdc1481ff736d",
+      "source": "https://github.com/2445868686/DaVinci-Resolve-TTS/commit/9924c3928dbe89b4b801f87a6a2bdc1481ff736d",
+      "date": "2025-09-01T03:02:36Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2025-09-01T03:02:38Z",
+    "stars": 19,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

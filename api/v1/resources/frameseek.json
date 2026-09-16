@@ -1,0 +1,129 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "frameseek",
+    "name": "FrameSeek",
+    "creator": "FrameSeek",
+    "url": "https://frameseek.app/",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Community discoveries",
+    "kind": "workflow-app",
+    "tasks": [
+      "workflow"
+    ],
+    "tags": [
+      "search",
+      "footage",
+      "semantic",
+      "ocr",
+      "transcription",
+      "fcpxml",
+      "edl",
+      "ai"
+    ],
+    "description": "Searches local footage by visual content, speech and on-screen text, then exports FCPXML or EDL for Resolve. Requires Apple Silicon and macOS 15+. Local AI is the default; optional Gemini API mode uses cloud processing. Paid license covers two Macs and one year of updates. Version 0.2.1 adds SpeechAnalyzer on macOS 26, sortable views and multi-folder filtering.",
+    "access": "💰 Paid one-time license",
+    "accessGroup": "paid",
+    "platforms": [
+      "macOS"
+    ],
+    "platformNotes": "🍎 macOS",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [
+        "arm64"
+      ],
+      "gpu": null,
+      "processing": "hybrid",
+      "pricing": "one-time",
+      "account": "unknown",
+      "dependencies": "Initial AI model downloads; optional Gemini API key",
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://frameseek.app/",
+        "checked_at": "2026-09-15",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://frameseek.app/updates",
+        "checked_at": "2026-09-15",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://frameseek.app/",
+        "checked_at": "2026-09-08",
+        "note": "Searches local footage by visual content, speech and on-screen text, then exports FCPXML or EDL for Resolve. Requires Apple Silicon and macOS 15+. Local AI is the default; optional Gemini API mode uses cloud processing. Current price is $59 for two Macs and one year of updates. Version 0.2.0 adds Quick Search, improved ranking and saved searches."
+      },
+      {
+        "field": "changelog",
+        "level": "documented",
+        "source": "https://frameseek.app/updates",
+        "checked_at": "2026-09-08",
+        "note": "Original provider release notes for 0.2.0."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://frameseek.app/updates",
+        "checked_at": "2026-09-15",
+        "note": "Records the previously missed 0.2.1 release with new transcription and search controls."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "FrameSeek",
+      "url": "https://frameseek.app/",
+      "kind": "vendor-version",
+      "version": "0.2.1",
+      "source": "https://frameseek.app/updates",
+      "date": "2026-09-06",
+      "date_kind": "release",
+      "checked_at": "2026-09-15",
+      "note": "Original provider release/changelog reviewed. Catalogue review date is separate from the upstream release date."
+    },
+    "releaseDate": "2026-09-06",
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": [
+      {
+        "name": "FrameSeek",
+        "url": "https://frameseek.app/",
+        "from": "0.2.0",
+        "to": "0.2.1",
+        "release": "v1.22",
+        "catalogue_date": "2026-09-15",
+        "upstream_date": "2026-09-06",
+        "source": "https://frameseek.app/updates",
+        "summary": "Records the previously missed 0.2.1 release with new transcription and search controls.",
+        "changes": [
+          "Uses Apple SpeechAnalyzer on macOS 26 while retaining WhisperKit on macOS 15.",
+          "Adds table/list views with sortable columns, multi-folder filters and configurable Quick Search shortcuts.",
+          "Fixes macOS 15 local indexing and hybrid search scoring."
+        ],
+        "changelogs": [
+          {
+            "label": "Full source changelog",
+            "url": "https://frameseek.app/updates"
+          }
+        ]
+      }
+    ]
+  }
+}

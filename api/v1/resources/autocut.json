@@ -1,0 +1,98 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "autocut",
+    "name": "AutoCut",
+    "creator": "AutoCut",
+    "url": "https://www.autocut.com/en/",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Community discoveries",
+    "kind": "subtitle-tool",
+    "tasks": [
+      "captions"
+    ],
+    "tags": [
+      "automatic editing",
+      "captions",
+      "silence removal",
+      "zoom"
+    ],
+    "description": "Automates silence removal, captions, zooms and other editing tasks. The download page lists Resolve 18.6, 19, 20 and 21; check feature and subscription requirements before use.",
+    "access": "💰 Paid plans; 14-day free trial",
+    "accessGroup": "paid",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "platformNotes": "🪟 Windows · 🍎 macOS",
+    "requirements": {
+      "editions": [],
+      "resolve": [
+        {
+          "min": "18.6",
+          "max": "18.6"
+        },
+        {
+          "min": "19",
+          "max": "19.99"
+        },
+        {
+          "min": "20",
+          "max": "20.99"
+        },
+        {
+          "min": "21",
+          "max": "21.99"
+        }
+      ],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "subscription",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://www.autocut.com/en/",
+        "checked_at": "2026-09-07",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://www.autocut.com/en/download/",
+        "checked_at": "2026-09-07",
+        "note": "Download page lists Resolve 18.6, 19, 20 and 21. Edition and feature requirements remain unknown."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "architecture",
+      "processing",
+      "tool version"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "AutoCut",
+      "url": "https://www.autocut.com/en/",
+      "kind": "unverified",
+      "version": null,
+      "source": "https://www.autocut.com/en/",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-07"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

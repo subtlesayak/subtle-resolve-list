@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "micro-color-panel-controller",
+    "name": "micro-color-panel-controller",
+    "creator": "ra100",
+    "url": "https://github.com/ra100/micro-color-panel-controller",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Hardware, control surfaces, MIDI, and Speed Editor tools",
+    "kind": "control-surface",
+    "tasks": [
+      "hardware"
+    ],
+    "tags": [
+      "controller",
+      "hardware",
+      "micro color panel"
+    ],
+    "description": "Prototype controller support for using the Blackmagic Micro Color Panel outside Resolve. Requires the physical panel.",
+    "access": "Free; MIT stated upstream, hardware separate",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "platformNotes": "Windows;macOS;Linux",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/ra100/micro-color-panel-controller#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/ra100/micro-color-panel-controller/commit/936d94a93ac88b9e27f7120138a2c519c8181de0",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "ra100/micro-color-panel-controller",
+      "url": "https://github.com/ra100/micro-color-panel-controller",
+      "kind": "commit",
+      "version": "936d94a93ac88b9e27f7120138a2c519c8181de0",
+      "source": "https://github.com/ra100/micro-color-panel-controller/commit/936d94a93ac88b9e27f7120138a2c519c8181de0",
+      "date": "2025-11-01T21:57:02Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2025-11-01T21:57:06Z",
+    "stars": 10,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

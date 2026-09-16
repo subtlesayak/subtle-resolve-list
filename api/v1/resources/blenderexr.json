@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "blenderexr",
+    "name": "BlenderEXR",
+    "creator": "BelAmiMax",
+    "url": "https://superhivemarket.com/products/blenderexr",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Workflow and pipeline",
+    "kind": "template",
+    "tasks": [
+      "workflow"
+    ],
+    "tags": [
+      "blender",
+      "color management",
+      "exr",
+      "fusion",
+      "ocio",
+      "render passes"
+    ],
+    "description": "Installs Blender OCIO configuration and a Fusion EXR/pass template. Windows 10/11 or Apple Silicon Mac; Resolve 19–21. Intel Mac support is not established.",
+    "access": "💳 Paid",
+    "accessGroup": "paid",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "platformNotes": "🪟 Windows · 🍎 macOS",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://superhivemarket.com/products/blenderexr",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://superhivemarket.com/products/blenderexr/docs",
+        "checked_at": "2026-09-06T12:10:35.427Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "BlenderEXR",
+      "url": "https://superhivemarket.com/products/blenderexr",
+      "kind": "vendor-version",
+      "version": "1.0",
+      "source": "https://superhivemarket.com/products/blenderexr/docs",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-06T12:10:35.427Z"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

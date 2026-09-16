@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "soundq",
+    "name": "SoundQ",
+    "creator": "Pro Sound Effects",
+    "url": "https://www.prosoundeffects.com/soundq/",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Community discoveries",
+    "kind": "workflow-app",
+    "tasks": [],
+    "tags": [
+      "audio organization",
+      "metadata",
+      "sound library",
+      "sound search"
+    ],
+    "description": "Searches and organizes sound libraries with metadata editing and drag-and-drop into editors. Account required. Dedicated Spot to Timeline integration is listed for other hosts; do not assume that integration for Resolve.",
+    "access": "🆓 App and starter library; 💰 Additional sound libraries",
+    "accessGroup": "public",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "platformNotes": "🪟 Windows · 🍎 macOS",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://www.prosoundeffects.com/soundq/download",
+        "checked_at": "2026-09-07",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://www.prosoundeffects.com/soundq/download",
+        "checked_at": "2026-09-07",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "SoundQ",
+      "url": "https://www.prosoundeffects.com/soundq/",
+      "kind": "vendor-version",
+      "version": "2026.7.30",
+      "source": "https://www.prosoundeffects.com/soundq/download",
+      "date": "2026-07-30",
+      "date_kind": "release",
+      "checked_at": "2026-09-07"
+    },
+    "releaseDate": "2026-07-30",
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

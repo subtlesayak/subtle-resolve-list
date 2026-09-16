@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "gdc-plugin-manager",
+    "name": "gdc-plugin-manager",
+    "creator": "gordasgdc",
+    "url": "https://github.com/gordasgdc/gdc-plugin-manager",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Fusion, motion graphics, visual effects, and package management",
+    "kind": "dctl",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "plugin manager",
+      "installer",
+      "updates",
+      "dctl",
+      "lut",
+      "fuse"
+    ],
+    "description": "Apple Silicon app for installing and updating GDC DCTLs, LUTs and Fusion Fuses. The manager is free; individual GDC products retain their own prices and licenses. Exact Resolve compatibility varies by installed tool.",
+    "access": "Mixed: free manager; separately licensed products",
+    "accessGroup": "mixed",
+    "platforms": [
+      "macOS"
+    ],
+    "platformNotes": "Provider-documented distribution targets; no installation testing. See description for platform and host caveats.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [
+        "arm64"
+      ],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "mixed",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/gordasgdc/gdc-plugin-manager#readme",
+        "checked_at": "2026-09-15",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/gordasgdc/gdc-plugin-manager/releases/tag/v1.37.1",
+        "checked_at": "2026-09-15T11:10:28.438Z",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://github.com/gordasgdc/gdc-plugin-manager#readme",
+        "checked_at": "2026-09-15",
+        "note": "Apple Silicon app for installing and updating GDC DCTLs, LUTs and Fusion Fuses. The manager is free; individual GDC products retain their own prices and licenses. Exact Resolve compatibility varies by installed tool."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "gordasgdc/gdc-plugin-manager",
+      "url": "https://github.com/gordasgdc/gdc-plugin-manager",
+      "kind": "stable-release",
+      "version": "v1.37.1",
+      "source": "https://github.com/gordasgdc/gdc-plugin-manager/releases/tag/v1.37.1",
+      "date": "2026-09-15T03:41:13Z",
+      "checked_at": "2026-09-15T11:10:28.438Z"
+    },
+    "releaseDate": "2026-09-15T03:41:13Z",
+    "activityDate": "2026-09-15T03:41:12Z",
+    "stars": 1,
+    "metadataChecked": "2026-09-15T11:10:28.438Z",
+    "history": []
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "namicolor",
+    "name": "NamiColor",
+    "creator": "Wavechaser",
+    "url": "https://github.com/Wavechaser/NamiColor",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Color grading, DCTLs, film looks, and color science",
+    "kind": "dctl",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "channel alignment",
+      "color grading",
+      "film",
+      "film scanning",
+      "negative"
+    ],
+    "description": "Linearizes film scans and aligns channels for scene-referred grading. Studio required.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "platformNotes": "Windows;macOS",
+    "requirements": {
+      "editions": [
+        "Studio"
+      ],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/Wavechaser/NamiColor#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/Wavechaser/NamiColor/releases/tag/v3.0",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "Resolve edition",
+        "level": "documented",
+        "source": "https://github.com/Wavechaser/NamiColor#readme",
+        "checked_at": "2026-09-06",
+        "note": "Structured from the existing source-backed catalogue description; no new installation test: Linearizes film scans and aligns channels for scene-referred grading. Studio required."
+      }
+    ],
+    "unknownFields": [
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Wavechaser/NamiColor",
+      "url": "https://github.com/Wavechaser/NamiColor",
+      "kind": "prerelease",
+      "version": "v3.0",
+      "source": "https://github.com/Wavechaser/NamiColor/releases/tag/v3.0",
+      "date": "2024-05-12T19:05:36Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2024-05-12T19:05:36Z",
+    "activityDate": "2024-05-12T19:05:36Z",
+    "stars": 122,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

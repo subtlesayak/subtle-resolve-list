@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "videoflo",
+    "name": "videoflo",
+    "creator": "tonyflo",
+    "url": "https://github.com/tonyflo/videoflo",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Productivity scripts, workflow bridges, and integrations",
+    "kind": "workflow-app",
+    "tasks": [
+      "workflow"
+    ],
+    "tags": [
+      "automation",
+      "production",
+      "python",
+      "youtube"
+    ],
+    "description": "Python helpers for organizing and automating YouTube video production in Resolve.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [],
+    "platformNotes": "OS support not established by the reviewed documentation.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/tonyflo/videoflo/commit/2a65fb8686a28d7d52dbc1cf0cfb0c70bea60e86",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "tonyflo/videoflo",
+      "url": "https://github.com/tonyflo/videoflo",
+      "kind": "commit",
+      "version": "2a65fb8686a28d7d52dbc1cf0cfb0c70bea60e86",
+      "source": "https://github.com/tonyflo/videoflo/commit/2a65fb8686a28d7d52dbc1cf0cfb0c70bea60e86",
+      "date": "2022-11-04T16:04:21Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2022-11-04T16:12:00Z",
+    "stars": 95,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "mb-np-powergrade",
+    "name": "MB+NP PowerGrade",
+    "creator": "Mark Bone + Nik Pilecki",
+    "url": "https://mark-bone.sellfy.store/p/power-grade-mbnp/",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Color and PowerGrades",
+    "kind": "powergrade",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "camera color space",
+      "color grading",
+      "lut",
+      "powergrade",
+      "training"
+    ],
+    "description": "Resolve PowerGrade, LUT suite, and grading masterclass with multiple camera color-space workflows. Current listing does not establish Free/Studio or OS requirements.",
+    "access": "💳 Paid",
+    "accessGroup": "paid",
+    "platforms": [],
+    "platformNotes": "❔ Not established",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing",
+      "tool version"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "MB+NP PowerGrade",
+      "url": "https://mark-bone.sellfy.store/p/power-grade-mbnp/",
+      "kind": "unverified",
+      "version": null,
+      "source": "https://mark-bone.sellfy.store/p/power-grade-mbnp/",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-06T12:10:32.439Z"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

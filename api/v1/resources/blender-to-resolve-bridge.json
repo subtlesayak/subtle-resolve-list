@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "blender-to-resolve-bridge",
+    "name": "Blender to Resolve Bridge",
+    "creator": "Limitless Creative",
+    "url": "https://superhivemarket.com/products/blender-to-resolve-bridge",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Workflow and pipeline",
+    "kind": "workflow-app",
+    "tasks": [
+      "workflow"
+    ],
+    "tags": [
+      "blender",
+      "color transform",
+      "render handoff",
+      "timeline"
+    ],
+    "description": "Blender render handoff with bins, timeline settings, and color transforms. Windows 10/11, Blender 4.2+, Resolve 19. Studio auto-push needs Python 3.11/3.12; Free uses a browser workflow.",
+    "access": "💳 Paid; time-limited updates/support",
+    "accessGroup": "paid",
+    "platforms": [
+      "Windows"
+    ],
+    "platformNotes": "🪟 Windows",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://superhivemarket.com/products/blender-to-resolve-bridge",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing",
+      "tool version"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Blender to Resolve Bridge",
+      "url": "https://superhivemarket.com/products/blender-to-resolve-bridge",
+      "kind": "unverified",
+      "version": null,
+      "source": "https://superhivemarket.com/products/blender-to-resolve-bridge",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-06T12:10:35.758Z"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

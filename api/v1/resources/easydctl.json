@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "easydctl",
+    "name": "easyDCTL",
+    "creator": "MokshC",
+    "url": "https://github.com/MokshC/easyDCTL",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Developer libraries and scripting references",
+    "kind": "dctl",
+    "tasks": [
+      "workflow",
+      "development",
+      "learning"
+    ],
+    "tags": [
+      "authoring",
+      "dctl",
+      "development",
+      "programming"
+    ],
+    "description": "Interface/tooling for creating DCTLs.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [],
+    "platformNotes": "Unverified",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/MokshC/easyDCTL/commit/f26da4a134c45b4c7e9a226b2f9f8582492dbd39",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "MokshC/easyDCTL",
+      "url": "https://github.com/MokshC/easyDCTL",
+      "kind": "commit",
+      "version": "f26da4a134c45b4c7e9a226b2f9f8582492dbd39",
+      "source": "https://github.com/MokshC/easyDCTL/commit/f26da4a134c45b4c7e9a226b2f9f8582492dbd39",
+      "date": "2024-09-21T07:40:48Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2024-10-02T03:05:25Z",
+    "stars": 4,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

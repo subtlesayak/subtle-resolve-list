@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "supascale",
+    "name": "SupaScale",
+    "creator": "Akascape",
+    "url": "https://akascape.gumroad.com/l/supascale",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Effects and animation",
+    "kind": "fuse",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "ai",
+      "fusion",
+      "resolution",
+      "restoration",
+      "upscaling"
+    ],
+    "description": "AI upscaling/restoration Fuse with multiple models. Resolve 19+ Free or Studio. Trial includes a limited model; test compatibility before purchase.",
+    "access": "💳 Paid full edition; free trial",
+    "accessGroup": "paid",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "platformNotes": "🪟 Windows · 🍎 macOS · 🐧 Linux",
+    "requirements": {
+      "editions": [
+        "Free",
+        "Studio"
+      ],
+      "resolve": [
+        {
+          "min": "19"
+        }
+      ],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://akascape.gumroad.com/l/supascale",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://akascape.gumroad.com/l/supascale",
+        "checked_at": "2026-09-06T12:10:28.656Z",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "Resolve edition and version range",
+        "level": "documented",
+        "source": "https://akascape.gumroad.com/l/supascale",
+        "checked_at": "2026-09-06",
+        "note": "Structured from the existing source-backed catalogue description; no new installation test: AI upscaling/restoration Fuse with multiple models. Resolve 19+ Free or Studio. Trial includes a limited model; test compatibility before purchase."
+      }
+    ],
+    "unknownFields": [
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "SupaScale",
+      "url": "https://akascape.gumroad.com/l/supascale",
+      "kind": "vendor-version",
+      "version": "0.1",
+      "source": "https://akascape.gumroad.com/l/supascale",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-06T12:10:28.656Z"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

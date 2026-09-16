@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "dctl-3",
+    "name": "DCTL",
+    "creator": "JuanPabloZambrano",
+    "url": "https://github.com/JuanPabloZambrano/DCTL",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Color grading, DCTLs, film looks, and color science",
+    "kind": "dctl",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "color grading",
+      "dctl",
+      "display transform",
+      "fuse"
+    ],
+    "description": "Creative and technical DCTLs and Fusion Fuses, including the 2499 display rendering transform.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "platformNotes": "Installation paths documented; individual tools have separate requirements.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/JuanPabloZambrano/DCTL#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/JuanPabloZambrano/DCTL/commit/88b5fbcfdb4354b9b54e99eceac813483b355cad",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "JuanPabloZambrano/DCTL",
+      "url": "https://github.com/JuanPabloZambrano/DCTL",
+      "kind": "commit",
+      "version": "88b5fbcfdb4354b9b54e99eceac813483b355cad",
+      "source": "https://github.com/JuanPabloZambrano/DCTL/commit/88b5fbcfdb4354b9b54e99eceac813483b355cad",
+      "date": "2025-11-06T20:39:31Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2025-11-06T20:39:32Z",
+    "stars": 320,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

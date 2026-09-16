@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "docker-davinci-resolve-project-server",
+    "name": "Docker-Davinci-Resolve-Project-Server",
+    "creator": "elliotmatson",
+    "url": "https://github.com/elliotmatson/Docker-Davinci-Resolve-Project-Server",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Encoding, codecs, proxy generation, rendering, and project servers",
+    "kind": "encoder",
+    "tasks": [
+      "media"
+    ],
+    "tags": [
+      "backup",
+      "docker",
+      "postgresql",
+      "project server"
+    ],
+    "description": "Containerized PostgreSQL project server with automatic backups.",
+    "access": "Free; infrastructure separate",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "platformNotes": "Docker server hosts, not Resolve desktop-client compatibility.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/elliotmatson/Docker-Davinci-Resolve-Project-Server#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/elliotmatson/Docker-Davinci-Resolve-Project-Server/releases/tag/v20.0.1",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "elliotmatson/Docker-Davinci-Resolve-Project-Server",
+      "url": "https://github.com/elliotmatson/Docker-Davinci-Resolve-Project-Server",
+      "kind": "stable-release",
+      "version": "v20.0.1",
+      "source": "https://github.com/elliotmatson/Docker-Davinci-Resolve-Project-Server/releases/tag/v20.0.1",
+      "date": "2025-11-22T14:05:21Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2025-11-22T14:05:21Z",
+    "activityDate": "2026-08-06T20:47:09Z",
+    "stars": 318,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

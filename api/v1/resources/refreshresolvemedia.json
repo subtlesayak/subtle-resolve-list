@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "refreshresolvemedia",
+    "name": "RefreshResolveMedia",
+    "creator": "horshack-dpreview",
+    "url": "https://github.com/horshack-dpreview/RefreshResolveMedia",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Productivity scripts, workflow bridges, and integrations",
+    "kind": "workflow-app",
+    "tasks": [
+      "workflow"
+    ],
+    "tags": [
+      "external editing",
+      "media refresh",
+      "workflow"
+    ],
+    "description": "Force Resolve to refresh stale media after files are edited outside Resolve.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "platformNotes": "Windows;macOS",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/horshack-dpreview/RefreshResolveMedia#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/horshack-dpreview/RefreshResolveMedia/commit/bcbcab9911c4b912a669806947b5befb50fd6760",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "horshack-dpreview/RefreshResolveMedia",
+      "url": "https://github.com/horshack-dpreview/RefreshResolveMedia",
+      "kind": "commit",
+      "version": "bcbcab9911c4b912a669806947b5befb50fd6760",
+      "source": "https://github.com/horshack-dpreview/RefreshResolveMedia/commit/bcbcab9911c4b912a669806947b5befb50fd6760",
+      "date": "2025-01-05T07:59:09Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2025-01-05T07:59:12Z",
+    "stars": 14,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

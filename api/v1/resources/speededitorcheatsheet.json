@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "speededitorcheatsheet",
+    "name": "SpeedEditorCheatSheet",
+    "creator": "derwok",
+    "url": "https://github.com/derwok/SpeedEditorCheatSheet",
+    "origin": "github",
+    "official": false,
+    "reference": true,
+    "category": "Hardware, control surfaces, MIDI, and Speed Editor tools",
+    "kind": "control-surface",
+    "tasks": [
+      "hardware"
+    ],
+    "tags": [
+      "cheat sheet",
+      "keyboard shortcuts",
+      "reference",
+      "speed editor"
+    ],
+    "description": "Printable Speed Editor reference/cheat sheet.",
+    "access": "Free reference",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "Reference",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/derwok/SpeedEditorCheatSheet/commit/7d6067f22054c6f7c4ad286936ea5c2a63dd1a51",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "derwok/SpeedEditorCheatSheet",
+      "url": "https://github.com/derwok/SpeedEditorCheatSheet",
+      "kind": "commit",
+      "version": "7d6067f22054c6f7c4ad286936ea5c2a63dd1a51",
+      "source": "https://github.com/derwok/SpeedEditorCheatSheet/commit/7d6067f22054c6f7c4ad286936ea5c2a63dd1a51",
+      "date": "2024-01-09T00:33:44Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2024-01-09T00:33:46Z",
+    "stars": 41,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

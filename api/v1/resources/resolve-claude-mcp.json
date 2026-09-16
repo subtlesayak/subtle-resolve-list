@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "resolve-claude-mcp",
+    "name": "resolve-claude-mcp",
+    "creator": "barckley75",
+    "url": "https://github.com/barckley75/resolve-claude-mcp",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "AI assistants, MCP servers, and ComfyUI integrations",
+    "kind": "mcp-server",
+    "tasks": [
+      "workflow",
+      "media"
+    ],
+    "tags": [
+      "ai",
+      "automation",
+      "claude",
+      "mcp"
+    ],
+    "description": "Claude/MCP integration for Resolve automation.",
+    "access": "Public; AI costs separate",
+    "accessGroup": "public",
+    "platforms": [
+      "macOS"
+    ],
+    "platformNotes": "Tested on Apple Silicon only; Windows/Linux core tools unverified. Transcription and screenshots are macOS-only.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/barckley75/resolve-claude-mcp#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/barckley75/resolve-claude-mcp/commit/939875819224163d5a7472f92385d00c5278ab33",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "barckley75/resolve-claude-mcp",
+      "url": "https://github.com/barckley75/resolve-claude-mcp",
+      "kind": "commit",
+      "version": "939875819224163d5a7472f92385d00c5278ab33",
+      "source": "https://github.com/barckley75/resolve-claude-mcp/commit/939875819224163d5a7472f92385d00c5278ab33",
+      "date": "2026-05-14T13:24:13Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2026-05-14T13:24:14Z",
+    "stars": 360,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

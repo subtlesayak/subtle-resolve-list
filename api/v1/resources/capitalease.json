@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "capitalease",
+    "name": "CapitalEase",
+    "creator": "raghavdhin",
+    "url": "https://github.com/raghavdhin/CapitalEase",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Fusion, motion graphics, visual effects, and package management",
+    "kind": "other",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "animation",
+      "curves",
+      "easing",
+      "keyframes"
+    ],
+    "description": "Easing presets and live curve editing. Its UI requires Studio on Resolve 19.1+.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "platformNotes": "Windows;macOS",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/raghavdhin/CapitalEase#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/raghavdhin/CapitalEase/commit/c480349c40077542eef3f46007e8d4a72f1907ea",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "raghavdhin/CapitalEase",
+      "url": "https://github.com/raghavdhin/CapitalEase",
+      "kind": "commit",
+      "version": "c480349c40077542eef3f46007e8d4a72f1907ea",
+      "source": "https://github.com/raghavdhin/CapitalEase/commit/c480349c40077542eef3f46007e8d4a72f1907ea",
+      "date": "2026-07-16T15:07:52Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2026-07-16T15:07:54Z",
+    "stars": 1,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "postwatch",
+    "name": "PostWatch",
+    "creator": "Chris Roy Films",
+    "url": "https://chrisroyfilms.com/postwatch/",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Community discoveries",
+    "kind": "workflow-app",
+    "tasks": [],
+    "tags": [
+      "export alerts",
+      "monitoring",
+      "notifications",
+      "pushover"
+    ],
+    "description": "Sends export, application and system alerts to Pushover on a phone or tablet. Resolve is among the listed supported applications. Requires macOS permissions and Pushover setup; notification delivery is separate from rendering.",
+    "access": "💰 Paid; Pushover terms apply",
+    "accessGroup": "paid",
+    "platforms": [
+      "macOS"
+    ],
+    "platformNotes": "🍎 macOS",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://chrisroyfilms.com/postwatch/version-history/",
+        "checked_at": "2026-09-07",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://chrisroyfilms.com/postwatch/version-history/",
+        "checked_at": "2026-09-07",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "PostWatch",
+      "url": "https://chrisroyfilms.com/postwatch/",
+      "kind": "vendor-version",
+      "version": "4.10",
+      "source": "https://chrisroyfilms.com/postwatch/version-history/",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-07"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

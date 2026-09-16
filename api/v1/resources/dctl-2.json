@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "dctl-2",
+    "name": "DCTL",
+    "creator": "roukou3",
+    "url": "https://github.com/roukou3/DCTL",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Color grading, DCTLs, film looks, and color science",
+    "kind": "dctl",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "dctl",
+      "fisheye",
+      "lens correction",
+      "projection"
+    ],
+    "description": "Fisheye correction and projection conversion DCTL for Resolve Studio. Older documented Resolve versions and macOS GPU compatibility caveats.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "README warns of macOS Metal compatibility problems; supported OS matrix is not established.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/roukou3/DCTL/commit/4152773ba2fc04cb9e54e26e53ac041dc43f612e",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "roukou3/DCTL",
+      "url": "https://github.com/roukou3/DCTL",
+      "kind": "commit",
+      "version": "4152773ba2fc04cb9e54e26e53ac041dc43f612e",
+      "source": "https://github.com/roukou3/DCTL/commit/4152773ba2fc04cb9e54e26e53ac041dc43f612e",
+      "date": "2023-07-22T14:11:18Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2023-07-22T14:11:18Z",
+    "stars": 37,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

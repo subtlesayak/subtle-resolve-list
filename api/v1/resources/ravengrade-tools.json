@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "ravengrade-tools",
+    "name": "Ravengrade tools",
+    "creator": "Ravengrade",
+    "url": "https://ravengrade.com/",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Color and PowerGrades",
+    "kind": "powergrade",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "color grading",
+      "contrast",
+      "film",
+      "film look",
+      "lut",
+      "subtractive color"
+    ],
+    "description": "Collection of Resolve film-look, contrast, subtractive-color tools, and LUTs. Check each product’s Studio, GPU, and version requirements; collection membership does not establish shared compatibility.",
+    "access": "💳 Paid perpetual licenses or subscription",
+    "accessGroup": "paid",
+    "platforms": [],
+    "platformNotes": "❔ Not established",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing",
+      "tool version"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Ravengrade tools",
+      "url": "https://ravengrade.com/",
+      "kind": "unverified",
+      "version": null,
+      "source": "https://ravengrade.com/",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-06T12:10:34.044Z"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

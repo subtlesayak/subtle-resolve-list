@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "v-log-alchemy",
+    "name": "V-Log-Alchemy",
+    "creator": "shenmintao",
+    "url": "https://github.com/shenmintao/V-Log-Alchemy",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Color grading, DCTLs, film looks, and color science",
+    "kind": "dctl",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "color grading",
+      "film",
+      "film look",
+      "v log"
+    ],
+    "description": "Film-look/color tools aimed at V-Log footage.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [],
+    "platformNotes": "Unverified",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/shenmintao/V-Log-Alchemy/releases/tag/v1.6",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "shenmintao/V-Log-Alchemy",
+      "url": "https://github.com/shenmintao/V-Log-Alchemy",
+      "kind": "stable-release",
+      "version": "v1.6",
+      "source": "https://github.com/shenmintao/V-Log-Alchemy/releases/tag/v1.6",
+      "date": "2026-08-17T17:29:05Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2026-08-17T17:29:05Z",
+    "activityDate": "2026-08-17T15:20:06Z",
+    "stars": 365,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

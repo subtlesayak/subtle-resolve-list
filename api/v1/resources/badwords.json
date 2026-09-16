@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "badwords",
+    "name": "BadWords",
+    "creator": "veritus-git",
+    "url": "https://github.com/veritus-git/BadWords",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Subtitles, transcription, dialogue cleanup, and automatic editing",
+    "kind": "subtitle-tool",
+    "tasks": [
+      "captions"
+    ],
+    "tags": [
+      "filler words",
+      "retakes",
+      "rough cut",
+      "silence removal",
+      "transcript editing"
+    ],
+    "description": "Local transcript-based rough cutting, including silence, filler-word, and retake handling.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "platformNotes": "Windows;macOS;Linux",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "local",
+      "pricing": "free",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/veritus-git/BadWords#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/veritus-git/BadWords/releases/tag/3.2.4",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://github.com/veritus-git/BadWords",
+        "checked_at": "2026-09-06",
+        "note": "Local transcript-based rough cutting; no installer or compatibility testing performed."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "veritus-git/BadWords",
+      "url": "https://github.com/veritus-git/BadWords",
+      "kind": "stable-release",
+      "version": "3.2.4",
+      "source": "https://github.com/veritus-git/BadWords/releases/tag/3.2.4",
+      "date": "2026-07-30T23:17:17Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2026-07-30T23:17:17Z",
+    "activityDate": "2026-09-11T22:35:23Z",
+    "stars": 35,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "releases": [
+    {
+      "version": "v1.22",
+      "date": "2026-09-15T11:21:28.719Z",
+      "source": "https://github.com/subtlesayak/open-resolve-list/releases/tag/v1.22"
+    },
+    {
+      "version": "v1.21",
+      "date": "2026-09-08T14:15:39Z",
+      "source": "https://github.com/subtlesayak/open-resolve-list/releases/tag/v1.21"
+    },
+    {
+      "version": "v1.20",
+      "date": "2026-09-08T13:39:39Z",
+      "source": "https://github.com/subtlesayak/open-resolve-list/releases/tag/v1.20"
+    },
+    {
+      "version": "v1.19",
+      "date": "2026-09-08T13:11:47Z",
+      "source": "https://github.com/subtlesayak/open-resolve-list/releases/tag/v1.19"
+    },
+    {
+      "version": "v1.18",
+      "date": "2026-09-08T10:36:44Z",
+      "source": "https://github.com/subtlesayak/open-resolve-list/releases/tag/v1.18"
+    },
+    {
+      "version": "v1.17",
+      "date": "2026-09-08T09:41:42Z",
+      "source": "https://github.com/subtlesayak/open-resolve-list/releases/tag/v1.17"
+    },
+    {
+      "version": "v1.16",
+      "date": "2026-09-08T07:35:57Z",
+      "source": "https://github.com/subtlesayak/open-resolve-list/releases/tag/v1.16"
+    },
+    {
+      "version": "v1.15",
+      "date": "2026-09-08T06:59:13Z",
+      "source": "https://github.com/subtlesayak/open-resolve-list/releases/tag/v1.15"
+    },
+    {
+      "version": "v1.14",
+      "date": "2026-09-07T09:35:17Z",
+      "source": "https://github.com/subtlesayak/open-resolve-list/releases/tag/v1.14"
+    },
+    {
+      "version": "v1.13",
+      "date": "2026-09-07T09:20:30Z",
+      "source": "https://github.com/subtlesayak/open-resolve-list/releases/tag/v1.13"
+    },
+    {
+      "version": "v1.12",
+      "date": "2026-09-07T09:07:50Z",
+      "source": "https://github.com/subtlesayak/open-resolve-list/releases/tag/v1.12"
+    },
+    {
+      "version": "v1.11",
+      "date": "2026-09-06T17:52:42Z",
+      "source": "https://github.com/subtlesayak/open-resolve-list/releases/tag/v1.11"
+    },
+    {
+      "version": "v1.10",
+      "date": "2026-09-06T16:05:12Z",
+      "source": "https://github.com/subtlesayak/open-resolve-list/releases/tag/v1.10"
+    },
+    {
+      "version": "v1.8",
+      "date": "2026-09-06T12:03:26Z",
+      "source": "https://github.com/subtlesayak/open-resolve-list/releases/tag/v1.8"
+    },
+    {
+      "version": "v1.5",
+      "date": "2026-09-06T11:46:38Z",
+      "source": "https://github.com/subtlesayak/open-resolve-list/releases/tag/v1.5"
+    },
+    {
+      "version": "v1.4",
+      "date": "2026-09-06T11:40:18Z",
+      "source": "https://github.com/subtlesayak/open-resolve-list/releases/tag/v1.4"
+    },
+    {
+      "version": "v1.0",
+      "date": "2026-09-06T11:28:49Z",
+      "source": "https://github.com/subtlesayak/open-resolve-list/releases/tag/v1.0"
+    },
+    {
+      "version": "v1.1",
+      "date": "2026-09-06T11:19:27Z",
+      "source": "https://github.com/subtlesayak/open-resolve-list/releases/tag/v1.1"
+    }
+  ]
+}

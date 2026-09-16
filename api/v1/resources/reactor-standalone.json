@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "reactor-standalone",
+    "name": "Reactor-Standalone",
+    "creator": "Kartaverse",
+    "url": "https://github.com/Kartaverse/Reactor-Standalone",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Fusion, motion graphics, visual effects, and package management",
+    "kind": "reactor-package",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "fusion",
+      "installation",
+      "package manager",
+      "reactor"
+    ],
+    "description": "Standalone desktop package manager for community Fusion/Resolve tools. Beta; package compatibility varies.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "platformNotes": "Windows;macOS;Linux",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/Kartaverse/Reactor-Standalone#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/Kartaverse/Reactor-Standalone/releases/tag/4.0.5",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Kartaverse/Reactor-Standalone",
+      "url": "https://github.com/Kartaverse/Reactor-Standalone",
+      "kind": "stable-release",
+      "version": "4.0.5",
+      "source": "https://github.com/Kartaverse/Reactor-Standalone/releases/tag/4.0.5",
+      "date": "2025-11-07T14:46:09Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2025-11-07T14:46:09Z",
+    "activityDate": "2026-08-30T09:32:05Z",
+    "stars": 100,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

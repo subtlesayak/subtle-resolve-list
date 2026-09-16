@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "davinci-resolve-advanced-panel-manual",
+    "name": "DaVinci Resolve Advanced Panel Manual",
+    "creator": "Blackmagic Design",
+    "url": "https://documents.blackmagicdesign.com/UserManuals/DaVinciResolveAdvancedPanel.pdf",
+    "origin": "external",
+    "official": true,
+    "reference": true,
+    "category": "Official Blackmagic Design resources",
+    "kind": "control-surface",
+    "tasks": [
+      "learning",
+      "color"
+    ],
+    "tags": [
+      "advanced panel",
+      "color grading",
+      "hardware",
+      "manual"
+    ],
+    "description": "Operation reference for the Resolve Advanced Panel color-grading control surface. Support listing dated 2024-09-04.",
+    "access": "🆓 Public reference; original terms apply",
+    "accessGroup": "public",
+    "platforms": [],
+    "platformNotes": "📖 Reference",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "free",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "reference scope",
+        "level": "documented",
+        "source": "https://documents.blackmagicdesign.com/UserManuals/DaVinciResolveAdvancedPanel.pdf?_v=1725433210000",
+        "checked_at": "2026-09-08",
+        "note": "Official support feed title and description reviewed; destination returned successfully. Reference documentation, not installation testing or current software compatibility."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "DaVinci Resolve Advanced Panel Manual",
+      "url": "https://documents.blackmagicdesign.com/UserManuals/DaVinciResolveAdvancedPanel.pdf",
+      "kind": "not-applicable",
+      "version": null,
+      "source": "https://documents.blackmagicdesign.com/UserManuals/DaVinciResolveAdvancedPanel.pdf?_v=1725433210000",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-08",
+      "note": "Reference with no numbered edition established from the support listing. The listing date is not a software release date."
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

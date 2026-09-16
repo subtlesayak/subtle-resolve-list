@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "buckswood-post-plugins",
+    "name": "buckswood-post-plugins",
+    "creator": "LudwigKienle",
+    "url": "https://github.com/LudwigKienle/buckswood-post-plugins",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Fusion, motion graphics, visual effects, and package management",
+    "kind": "dctl",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "color grading",
+      "dctl",
+      "debanding",
+      "film",
+      "film emulation",
+      "lens effects",
+      "openfx"
+    ],
+    "description": "Buckswood OpenFX/DCTL collection for lens effects, film emulation, cinematic effects, and debanding. Check current public release assets.",
+    "access": "Free; original code MIT, third-party terms separate",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "platformNotes": "Resolve build targets documented; Linux references apply to Baselight, not confirmed Resolve support.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/LudwigKienle/buckswood-post-plugins#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/LudwigKienle/buckswood-post-plugins/releases/tag/deband-v1.0.0",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "LudwigKienle/buckswood-post-plugins",
+      "url": "https://github.com/LudwigKienle/buckswood-post-plugins",
+      "kind": "stable-release",
+      "version": "deband-v1.0.0",
+      "source": "https://github.com/LudwigKienle/buckswood-post-plugins/releases/tag/deband-v1.0.0",
+      "date": "2026-08-11T12:35:36Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2026-08-11T12:35:36Z",
+    "activityDate": "2026-08-11T12:34:54Z",
+    "stars": 7,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "resolve-batch-rename",
+    "name": "resolve-batch-rename",
+    "creator": "postflows",
+    "url": "https://github.com/postflows/resolve-batch-rename",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Productivity scripts, workflow bridges, and integrations",
+    "kind": "workflow-app",
+    "tasks": [
+      "workflow"
+    ],
+    "tags": [
+      "batch rename",
+      "clip renaming",
+      "timeline renaming"
+    ],
+    "description": "Batch-rename Media Pool clips and timelines with previews, counters, and filename restoration. Resolve Studio 20+.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "platformNotes": "Windows;macOS",
+    "requirements": {
+      "editions": [
+        "Studio"
+      ],
+      "resolve": [
+        {
+          "edition": "Studio",
+          "min": "20"
+        }
+      ],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/postflows/resolve-batch-rename#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/postflows/resolve-batch-rename/commit/617103c843b9c13538a15145fe5e886cc2d2224b",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      },
+      {
+        "field": "Resolve edition and version range",
+        "level": "documented",
+        "source": "https://github.com/postflows/resolve-batch-rename#readme",
+        "checked_at": "2026-09-06",
+        "note": "Structured from the existing source-backed catalogue description; no new installation test: Batch-rename Media Pool clips and timelines with previews, counters, and filename restoration. Resolve Studio 20+."
+      }
+    ],
+    "unknownFields": [
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "postflows/resolve-batch-rename",
+      "url": "https://github.com/postflows/resolve-batch-rename",
+      "kind": "commit",
+      "version": "617103c843b9c13538a15145fe5e886cc2d2224b",
+      "source": "https://github.com/postflows/resolve-batch-rename/commit/617103c843b9c13538a15145fe5e886cc2d2224b",
+      "date": "2026-03-11T17:55:54Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2026-03-11T17:55:54Z",
+    "stars": 2,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

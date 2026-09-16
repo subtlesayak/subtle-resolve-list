@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "purzos-ofx",
+    "name": "purzos-ofx",
+    "creator": "purzbeats",
+    "url": "https://github.com/purzbeats/purzos-ofx",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Fusion, motion graphics, visual effects, and package management",
+    "kind": "ofx",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "analog video",
+      "crt",
+      "glitch",
+      "openfx",
+      "retro",
+      "vhs"
+    ],
+    "description": "Purzos collection of retro, analog, glitch, CRT, and VHS OpenFX effects.",
+    "access": "Free; MIT stated upstream",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "platformNotes": "Windows/Linux x64 and macOS ARM64 packages; macOS builds are unsigned.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/purzbeats/purzos-ofx#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/purzbeats/purzos-ofx/releases/tag/v0.2.0",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "purzbeats/purzos-ofx",
+      "url": "https://github.com/purzbeats/purzos-ofx",
+      "kind": "stable-release",
+      "version": "v0.2.0",
+      "source": "https://github.com/purzbeats/purzos-ofx/releases/tag/v0.2.0",
+      "date": "2026-07-10T14:53:18Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2026-07-10T14:53:18Z",
+    "activityDate": "2026-07-10T16:44:57Z",
+    "stars": 24,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "davinci-dctl",
+    "name": "davinci-dctl",
+    "creator": "Georj01",
+    "url": "https://github.com/Georj01/davinci-dctl",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Color grading, DCTLs, film looks, and color science",
+    "kind": "dctl",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "color grading",
+      "dctl",
+      "visual effects"
+    ],
+    "description": "Minimalist DCTL visual tools and effects.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "platformNotes": "Windows;macOS",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/Georj01/davinci-dctl#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/Georj01/davinci-dctl/commit/8a51f004f9426f97e5469cbff05b6fd5e76f61ea",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Georj01/davinci-dctl",
+      "url": "https://github.com/Georj01/davinci-dctl",
+      "kind": "commit",
+      "version": "8a51f004f9426f97e5469cbff05b6fd5e76f61ea",
+      "source": "https://github.com/Georj01/davinci-dctl/commit/8a51f004f9426f97e5469cbff05b6fd5e76f61ea",
+      "date": "2026-07-16T11:14:13Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2026-07-16T11:14:14Z",
+    "stars": 2,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "premiere-agent",
+    "name": "premiere-agent",
+    "creator": "Kemerd",
+    "url": "https://github.com/Kemerd/premiere-agent",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Productivity scripts, workflow bridges, and integrations",
+    "kind": "subtitle-tool",
+    "tasks": [
+      "workflow"
+    ],
+    "tags": [
+      "ai",
+      "fcpxml",
+      "xml",
+      "transcription",
+      "claude",
+      "codex",
+      "rough cut",
+      "automation"
+    ],
+    "description": "Agent-assisted editing workflow exporting FCPXML for Resolve, FCP7 XML for Premiere and SRT subtitles. Speech, visual and audio preprocessing runs locally; Claude Code or Codex can receive derived material for editing decisions. Python, FFmpeg and model downloads required. Florence-2 dependency has noncommercial terms according to the README; repository reuse license is not established.",
+    "access": "Public; agent costs and dependency terms separate",
+    "accessGroup": "public",
+    "platforms": [],
+    "platformNotes": "Exact operating-system and Resolve edition compatibility are not established. Agent-assisted editing workflow exporting FCPXML for Resolve, FCP7 XML for Premiere and SRT subtitles. Speech, visual and audio preprocessing runs locally; Claude Code or Codex can receive derived material for editing decisions. Python, FFmpeg and model downloads required. Florence-2 dependency has noncommercial terms according to the README; repository reuse license is not established.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "hybrid",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": "Python 3, FFmpeg, AI model downloads and a supported coding agent; GPU recommended",
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/Kemerd/premiere-agent/commit/77ed50f4bff14b67b054a64d26aedd7ec217b701",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://github.com/Kemerd/premiere-agent",
+        "checked_at": "2026-09-08",
+        "note": "Agent-assisted editing workflow exporting FCPXML for Resolve, FCP7 XML for Premiere and SRT subtitles. Speech, visual and audio preprocessing runs locally; Claude Code or Codex can receive derived material for editing decisions. Python, FFmpeg and model downloads required. Florence-2 dependency has noncommercial terms according to the README; repository reuse license is not established."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Kemerd/premiere-agent",
+      "url": "https://github.com/Kemerd/premiere-agent",
+      "kind": "commit",
+      "version": "77ed50f4bff14b67b054a64d26aedd7ec217b701",
+      "source": "https://github.com/Kemerd/premiere-agent/commit/77ed50f4bff14b67b054a64d26aedd7ec217b701",
+      "date": "2026-07-08T05:45:08Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2026-07-08T05:45:11Z",
+    "stars": 15,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

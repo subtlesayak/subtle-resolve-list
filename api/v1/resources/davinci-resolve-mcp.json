@@ -1,0 +1,174 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "davinci-resolve-mcp",
+    "name": "davinci-resolve-mcp",
+    "creator": "samuelgursky",
+    "url": "https://github.com/samuelgursky/davinci-resolve-mcp",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "AI assistants, MCP servers, and ComfyUI integrations",
+    "kind": "mcp-server",
+    "tasks": [
+      "workflow",
+      "media"
+    ],
+    "tags": [
+      "ai",
+      "automation",
+      "mcp",
+      "rendering",
+      "timeline"
+    ],
+    "description": "AI-client access to media, timeline, rendering, and other Resolve operations through MCP. Studio workflow.",
+    "access": "Public; AI costs separate",
+    "accessGroup": "public",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "platformNotes": "Windows;macOS;Linux",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/samuelgursky/davinci-resolve-mcp#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/samuelgursky/davinci-resolve-mcp/releases/tag/v4.5.2",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "samuelgursky/davinci-resolve-mcp",
+      "url": "https://github.com/samuelgursky/davinci-resolve-mcp",
+      "kind": "stable-release",
+      "version": "v4.5.2",
+      "source": "https://github.com/samuelgursky/davinci-resolve-mcp/releases/tag/v4.5.2",
+      "date": "2026-09-14T20:58:48Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2026-09-14T20:58:48Z",
+    "activityDate": "2026-09-14T20:58:47Z",
+    "stars": 2823,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": [
+      {
+        "name": "samuelgursky/davinci-resolve-mcp",
+        "url": "https://github.com/samuelgursky/davinci-resolve-mcp",
+        "from": "v2.212.4",
+        "to": "v2.213.2",
+        "release": "v1.19",
+        "catalogue_date": "2026-09-08",
+        "upstream_date": "2026-09-08",
+        "source": "https://github.com/samuelgursky/davinci-resolve-mcp/releases/tag/v2.213.2",
+        "summary": "Retrieves complete Resolve 21.1 transcripts with segment text, timestamps, speakers and optional word timings; retains the 21.0 clip-property fallback.",
+        "changes": [
+          "Retrieves complete Resolve 21.1 transcripts with segment text, timestamps, speakers and optional word timings; retains the 21.0 clip-property fallback.",
+          "Restores timeline marks after a single-frame capture and corrects relative versus absolute frame offsets.",
+          "Provider marks the 21.1 transcript API as reported, not exercised on its test machine."
+        ],
+        "changelogs": [
+          {
+            "label": "Full source changelog",
+            "url": "https://github.com/samuelgursky/davinci-resolve-mcp/releases/tag/v2.213.2"
+          }
+        ]
+      },
+      {
+        "name": "samuelgursky/davinci-resolve-mcp",
+        "url": "https://github.com/samuelgursky/davinci-resolve-mcp",
+        "from": "v2.210.0",
+        "to": "v2.212.4",
+        "release": "v1.15",
+        "catalogue_date": "2026-09-08",
+        "upstream_date": "2026-09-08",
+        "source": "https://github.com/samuelgursky/davinci-resolve-mcp/releases/tag/v2.212.4",
+        "summary": "Updates Node and Python dependency manifests and removes unused uuid dependency. Provider reports remaining transitive advisories.",
+        "changes": [
+          "Aligns the root and advanced Node dependency manifests with updated MCP SDK, XML, ZIP, image, schema, YAML and PostgreSQL libraries.",
+          "Removes the unused uuid dependency; retains better-sqlite3 11.x.",
+          "Raises the Python MCP SDK minimum to 1.30 while retaining the below-2 cap; raises pyaaf2 to 1.7.1.",
+          "Provider reports unchanged Resolve behavior and five remaining transitive Node dependency advisories."
+        ],
+        "changelogs": [
+          {
+            "label": "Full source changelog",
+            "url": "https://github.com/samuelgursky/davinci-resolve-mcp/releases/tag/v2.212.4"
+          }
+        ]
+      },
+      {
+        "name": "DaVinci Resolve MCP",
+        "url": "https://github.com/samuelgursky/davinci-resolve-mcp",
+        "from": "v2.208.1",
+        "to": "v2.210.0",
+        "release": "v1.14",
+        "catalogue_date": "2026-09-07",
+        "upstream_date": "2026-09-07T00:35:38Z",
+        "source": "https://github.com/samuelgursky/davinci-resolve-mcp/releases/tag/v2.210.0",
+        "summary": "Broader safe-mode coverage and consistent destructive-action classifications.",
+        "changes": [
+          "Classifies all 108 registered destructive actions and expands safe-mode blocking to 35 high or critical actions.",
+          "Recognizes source-clip deletion and external camera-sidecar modification risks.",
+          "Separates assessed medium-risk actions from unrated operations.",
+          "Isolates saved user preferences in tests and adds guards for complete risk classification and consistent inspection/gating."
+        ],
+        "changelogs": [
+          {
+            "label": "Full source changelog",
+            "url": "https://github.com/samuelgursky/davinci-resolve-mcp/releases/tag/v2.210.0"
+          }
+        ]
+      },
+      {
+        "name": "samuelgursky/davinci-resolve-mcp",
+        "url": "https://github.com/samuelgursky/davinci-resolve-mcp",
+        "from": "v2.213.2",
+        "to": "v4.5.2",
+        "release": "v1.22",
+        "catalogue_date": "2026-09-15",
+        "upstream_date": "2026-09-14",
+        "source": "https://github.com/samuelgursky/davinci-resolve-mcp/releases/tag/v4.5.2",
+        "summary": "Corrects granular-tool risk ratings and audit outcomes in the latest release.",
+        "changes": [
+          "Aligns 20 granular-tool classifications with the compound-server assessments.",
+          "Raises destructive clip deletion to critical risk and grade copying/scene-cut detection to high risk.",
+          "Distinguishes pending confirmation from completed operations and records failed calls."
+        ],
+        "changelogs": [
+          {
+            "label": "Full source changelog",
+            "url": "https://github.com/samuelgursky/davinci-resolve-mcp/releases/tag/v4.5.2"
+          }
+        ]
+      }
+    ]
+  }
+}

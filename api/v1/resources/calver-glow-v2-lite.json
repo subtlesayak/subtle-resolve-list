@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "calver-glow-v2-lite",
+    "name": "Calver Glow V2 Lite",
+    "creator": "Calver - Digital Creative School",
+    "url": "https://www.patreon.com/calverschool/posts/calver-glow-v2-123021297",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Community discoveries",
+    "kind": "fusion-macro",
+    "tasks": [],
+    "tags": [
+      "drfx",
+      "fusion",
+      "glow",
+      "highlight effects"
+    ],
+    "description": "Glow effect with curve-controlled threshold and look, distributed as a DRFX for Resolve and Fusion. Public Lite download link is present; the full edition is separate.",
+    "access": "🆓 Public Lite download; separate full edition",
+    "accessGroup": "public",
+    "platforms": [],
+    "platformNotes": "❔ Not established",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://www.patreon.com/calverschool/posts/calver-glow-v2-123021297",
+        "checked_at": "2026-09-06",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Calver Glow V2 Lite",
+      "url": "https://www.patreon.com/calverschool/posts/calver-glow-v2-123021297",
+      "kind": "vendor-version",
+      "version": "V2 Lite",
+      "source": "https://www.patreon.com/calverschool/posts/calver-glow-v2-123021297",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-06"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

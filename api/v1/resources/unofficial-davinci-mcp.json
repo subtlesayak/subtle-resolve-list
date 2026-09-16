@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "unofficial-davinci-mcp",
+    "name": "unofficial-davinci-mcp",
+    "creator": "wassermanproductions",
+    "url": "https://github.com/wassermanproductions/unofficial-davinci-mcp",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "AI assistants, MCP servers, and ComfyUI integrations",
+    "kind": "mcp-server",
+    "tasks": [
+      "workflow",
+      "media"
+    ],
+    "tags": [
+      "ai",
+      "automation",
+      "fcpxml",
+      "lut",
+      "mcp",
+      "timeline exchange"
+    ],
+    "description": "MCP integration with live Studio control and a Free-edition interchange workflow using FCPXML/LUTs. Studio 21 verified upstream.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [
+      "macOS",
+      "Linux"
+    ],
+    "platformNotes": "macOS;Linux",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/wassermanproductions/unofficial-davinci-mcp#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/wassermanproductions/unofficial-davinci-mcp/commit/22580fb5b35c280aeac05923f6ca784c620a0dc2",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "wassermanproductions/unofficial-davinci-mcp",
+      "url": "https://github.com/wassermanproductions/unofficial-davinci-mcp",
+      "kind": "commit",
+      "version": "22580fb5b35c280aeac05923f6ca784c620a0dc2",
+      "source": "https://github.com/wassermanproductions/unofficial-davinci-mcp/commit/22580fb5b35c280aeac05923f6ca784c620a0dc2",
+      "date": "2026-07-20T08:12:14Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2026-07-20T08:12:15Z",
+    "stars": 34,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

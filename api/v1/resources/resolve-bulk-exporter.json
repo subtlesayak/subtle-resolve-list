@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "resolve-bulk-exporter",
+    "name": "resolve-bulk-exporter",
+    "creator": "austinwitherspoon",
+    "url": "https://github.com/austinwitherspoon/resolve-bulk-exporter",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Encoding, codecs, proxy generation, rendering, and project servers",
+    "kind": "encoder",
+    "tasks": [
+      "media"
+    ],
+    "tags": [
+      "automation",
+      "batch export",
+      "python",
+      "render queue"
+    ],
+    "description": "Queue multiple timelines for bulk export using the Resolve Python API.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows"
+    ],
+    "platformNotes": "Tested only on Windows 10 with Resolve 17 Studio.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/austinwitherspoon/resolve-bulk-exporter#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/austinwitherspoon/resolve-bulk-exporter/commit/56890736eaae0b8aa12b8277f118c10310881d3b",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "austinwitherspoon/resolve-bulk-exporter",
+      "url": "https://github.com/austinwitherspoon/resolve-bulk-exporter",
+      "kind": "commit",
+      "version": "56890736eaae0b8aa12b8277f118c10310881d3b",
+      "source": "https://github.com/austinwitherspoon/resolve-bulk-exporter/commit/56890736eaae0b8aa12b8277f118c10310881d3b",
+      "date": "2021-02-28T02:21:23Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2021-02-28T02:21:23Z",
+    "stars": 13,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

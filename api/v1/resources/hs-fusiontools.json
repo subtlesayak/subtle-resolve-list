@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "hs-fusiontools",
+    "name": "HS_fusionTools",
+    "creator": "hiroshisaito",
+    "url": "https://github.com/hiroshisaito/HS_fusionTools",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Fusion, motion graphics, visual effects, and package management",
+    "kind": "fusion-macro",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "environment map",
+      "fusion",
+      "image mapping",
+      "latlong",
+      "relighting"
+    ],
+    "description": "Environment relighting and latlong/angular image-mapping macros.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "platformNotes": "Tested in Fusion 16; upstream describes Resolve compatibility as probable, not verified.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/hiroshisaito/HS_fusionTools#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/hiroshisaito/HS_fusionTools/commit/91feadd35e8df2e50f8b54b9df0426821088a2b8",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "hiroshisaito/HS_fusionTools",
+      "url": "https://github.com/hiroshisaito/HS_fusionTools",
+      "kind": "commit",
+      "version": "91feadd35e8df2e50f8b54b9df0426821088a2b8",
+      "source": "https://github.com/hiroshisaito/HS_fusionTools/commit/91feadd35e8df2e50f8b54b9df0426821088a2b8",
+      "date": "2020-03-08T09:52:05Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2020-03-08T09:52:25Z",
+    "stars": 9,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

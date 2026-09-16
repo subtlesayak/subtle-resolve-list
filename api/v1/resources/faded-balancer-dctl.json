@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "faded-balancer-dctl",
+    "name": "Faded-Balancer-DCTL",
+    "creator": "fabiocolor",
+    "url": "https://github.com/fabiocolor/Faded-Balancer-DCTL",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Color grading, DCTLs, film looks, and color science",
+    "kind": "dctl",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "color balance",
+      "film",
+      "film restoration",
+      "film scanning"
+    ],
+    "description": "Rebalances faded film scans.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "platformNotes": "Windows;macOS",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/fabiocolor/Faded-Balancer-DCTL#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/fabiocolor/Faded-Balancer-DCTL/releases/tag/v1.7.0",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "fabiocolor/Faded-Balancer-DCTL",
+      "url": "https://github.com/fabiocolor/Faded-Balancer-DCTL",
+      "kind": "stable-release",
+      "version": "v1.7.0",
+      "source": "https://github.com/fabiocolor/Faded-Balancer-DCTL/releases/tag/v1.7.0",
+      "date": "2026-07-11T17:18:25Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2026-07-11T17:18:25Z",
+    "activityDate": "2026-07-11T17:48:21Z",
+    "stars": 22,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

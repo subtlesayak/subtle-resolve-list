@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "rcm-wide-gamut-print-film-powergrades",
+    "name": "RCM Wide Gamut Print Film PowerGrades",
+    "creator": "Juan Melara",
+    "url": "https://juanmelara.com.au/products/rcm-davinci-wide-gamut-print-film-emulation-powergrades",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Community discoveries",
+    "kind": "powergrade",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "powergrade",
+      "kodak",
+      "fujifilm",
+      "2383",
+      "2393",
+      "3510",
+      "3513di",
+      "3521xd",
+      "rcm",
+      "davinci wide gamut",
+      "hdr"
+    ],
+    "description": "Kodak and Fujifilm print-film PowerGrades for Resolve Color Management and DaVinci Wide Gamut, covering SDR and HDR workflows. Includes setup and node-graph guidance.",
+    "access": "💰 Paid",
+    "accessGroup": "paid",
+    "platforms": [],
+    "platformNotes": "❔ Not established",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "one-time",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "purpose and requirements",
+        "level": "documented",
+        "source": "https://juanmelara.com.au/products/rcm-davinci-wide-gamut-print-film-emulation-powergrades",
+        "checked_at": "2026-09-08",
+        "note": "Provider description reviewed; no catalogue installation testing. Unspecified compatibility remains unverified."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing",
+      "tool version"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "RCM Wide Gamut Print Film PowerGrades",
+      "url": "https://juanmelara.com.au/products/rcm-davinci-wide-gamut-print-film-emulation-powergrades",
+      "kind": "unverified",
+      "version": null,
+      "source": "https://juanmelara.com.au/products/rcm-davinci-wide-gamut-print-film-emulation-powergrades",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-08"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

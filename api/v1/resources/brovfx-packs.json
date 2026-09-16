@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "brovfx-packs",
+    "name": "BroVFX packs",
+    "creator": "BroVFX",
+    "url": "https://brovfx.com/en",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Community discoveries",
+    "kind": "workflow-app",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "titles",
+      "credits",
+      "transition",
+      "glitch",
+      "camera movement",
+      "motion graphics"
+    ],
+    "description": "Creator collection of titles, transitions and effects, including Cinema Title Pack, Glitch Pack, Camera Move, Motion Toolkit and bundles. Lists Resolve 17+ on PC and Mac. The specific free title tool mentioned in the discussion was not identified.",
+    "access": "💰 Paid packs and bundles",
+    "accessGroup": "paid",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "platformNotes": "🪟 Windows · 🍎 macOS",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "one-time",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://brovfx.com/en",
+        "checked_at": "2026-09-08",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "purpose and access",
+        "level": "documented",
+        "source": "https://brovfx.com/en",
+        "checked_at": "2026-09-08",
+        "note": "Creator listing reviewed; not installation tested."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing",
+      "tool version"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "BroVFX packs",
+      "url": "https://brovfx.com/en",
+      "kind": "unverified",
+      "version": null,
+      "source": "https://brovfx.com/en",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-08"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

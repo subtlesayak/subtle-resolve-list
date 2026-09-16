@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "barkted",
+    "name": "BarkTed",
+    "creator": "TeddieWang",
+    "url": "https://github.com/TeddieWang/BarkTed",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Subtitles, transcription, dialogue cleanup, and automatic editing",
+    "kind": "subtitle-tool",
+    "tasks": [
+      "captions"
+    ],
+    "tags": [
+      "whisper",
+      "subtitles",
+      "transcription",
+      "translation",
+      "multilingual",
+      "translategemma",
+      "apple silicon"
+    ],
+    "description": "Local Whisper transcription and subtitle translation for Apple Silicon Macs running Resolve Studio 21+. Installer bundles the runtime and transcription model. Optional TranslateGemma translation runs locally; API translation sends subtitle text to the chosen provider and may incur charges. Intel Macs, Windows and Linux are not supported by this installer.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [
+      "macOS"
+    ],
+    "platformNotes": "Provider-documented distribution targets; no installation testing. See description for platform and host caveats.",
+    "requirements": {
+      "editions": [
+        "Studio"
+      ],
+      "resolve": [
+        {
+          "min": "21"
+        }
+      ],
+      "architectures": [
+        "arm64"
+      ],
+      "gpu": null,
+      "processing": "hybrid",
+      "pricing": "free",
+      "account": "unknown",
+      "dependencies": "Optional translation model download or external translation API",
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/TeddieWang/BarkTed#readme",
+        "checked_at": "2026-09-15",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/TeddieWang/BarkTed/releases/tag/v1.0.0",
+        "checked_at": "2026-09-15T11:10:26.592Z",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://github.com/TeddieWang/BarkTed#readme",
+        "checked_at": "2026-09-15",
+        "note": "Local Whisper transcription and subtitle translation for Apple Silicon Macs running Resolve Studio 21+. Installer bundles the runtime and transcription model. Optional TranslateGemma translation runs locally; API translation sends subtitle text to the chosen provider and may incur charges. Intel Macs, Windows and Linux are not supported by this installer."
+      }
+    ],
+    "unknownFields": [],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "TeddieWang/BarkTed",
+      "url": "https://github.com/TeddieWang/BarkTed",
+      "kind": "stable-release",
+      "version": "v1.0.0",
+      "source": "https://github.com/TeddieWang/BarkTed/releases/tag/v1.0.0",
+      "date": "2026-09-12T07:16:10Z",
+      "checked_at": "2026-09-15T11:10:26.592Z"
+    },
+    "releaseDate": "2026-09-12T07:16:10Z",
+    "activityDate": "2026-09-12T07:16:09Z",
+    "stars": 2,
+    "metadataChecked": "2026-09-15T11:10:26.592Z",
+    "history": []
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "davinci-resolve-container",
+    "name": "DaVinci-Resolve-Container",
+    "creator": "Distortions81",
+    "url": "https://github.com/Distortions81/DaVinci-Resolve-Container",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Linux installation, compatibility, and troubleshooting",
+    "kind": "workflow-app",
+    "tasks": [
+      "linux"
+    ],
+    "tags": [
+      "linux",
+      "container",
+      "docker",
+      "distrobox",
+      "fedora",
+      "amd",
+      "nvidia",
+      "rocm"
+    ],
+    "description": "Community Fedora container setup for Resolve Free or Studio 21.1 on Linux using Docker or Distrobox. Documents AMD ROCm/OpenCL and NVIDIA container setup. Provider tested AMD/X11; NVIDIA and Wayland validation remains incomplete. Supply the official Resolve installer and any required Studio license separately.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [
+      "Linux"
+    ],
+    "platformNotes": "Provider-documented distribution targets; no installation testing. See description for platform and host caveats.",
+    "requirements": {
+      "editions": [
+        "Free",
+        "Studio"
+      ],
+      "resolve": [
+        {
+          "min": "21.1",
+          "max": "21.1"
+        }
+      ],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "free",
+      "account": "unknown",
+      "dependencies": "Docker or Distrobox, matching GPU drivers and official Resolve installer",
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/Distortions81/DaVinci-Resolve-Container#readme",
+        "checked_at": "2026-09-15",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/Distortions81/DaVinci-Resolve-Container/commit/3a2831dc925133dc1613cc17a7501b15c7d01d6d",
+        "checked_at": "2026-09-15T11:10:26.592Z",
+        "note": "Source revision, not a software release."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://github.com/Distortions81/DaVinci-Resolve-Container#readme",
+        "checked_at": "2026-09-15",
+        "note": "Community Fedora container setup for Resolve Free or Studio 21.1 on Linux using Docker or Distrobox. Documents AMD ROCm/OpenCL and NVIDIA container setup. Provider tested AMD/X11; NVIDIA and Wayland validation remains incomplete. Supply the official Resolve installer and any required Studio license separately."
+      }
+    ],
+    "unknownFields": [
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Distortions81/DaVinci-Resolve-Container",
+      "url": "https://github.com/Distortions81/DaVinci-Resolve-Container",
+      "kind": "commit",
+      "version": "3a2831dc925133dc1613cc17a7501b15c7d01d6d",
+      "source": "https://github.com/Distortions81/DaVinci-Resolve-Container/commit/3a2831dc925133dc1613cc17a7501b15c7d01d6d",
+      "date": "2026-09-10T14:24:51Z",
+      "checked_at": "2026-09-15T11:10:26.592Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2026-09-10T14:24:54Z",
+    "stars": 2,
+    "metadataChecked": "2026-09-15T11:10:26.592Z",
+    "history": []
+  }
+}

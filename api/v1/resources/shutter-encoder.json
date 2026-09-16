@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "shutter-encoder",
+    "name": "Shutter Encoder",
+    "creator": "shutterencoder.com",
+    "url": "https://www.shutterencoder.com/",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Encoding and delivery",
+    "kind": "subtitle-tool",
+    "tasks": [
+      "media"
+    ],
+    "tags": [
+      "dnxhr",
+      "edl",
+      "ffmpeg",
+      "prores",
+      "quality control",
+      "rewrap",
+      "subtitles",
+      "transcoding"
+    ],
+    "description": "Standalone FFmpeg-based media preparation and delivery companion: DNxHR/ProRes conversion, rewrap, subtitles, cut detection, EDL export, and QC functions. Official builds include Windows x64, macOS Intel/Apple Silicon, and Linux. This is a companion application, not a Resolve plugin.",
+    "access": "🆓 Free; optional donations",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "platformNotes": "🪟 🍎 🐧",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://www.shutterencoder.com/",
+        "checked_at": "2026-09-06T12:10:21.846Z",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://www.shutterencoder.com/",
+        "checked_at": "2026-09-06T12:10:21.846Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Shutter Encoder",
+      "url": "https://www.shutterencoder.com/",
+      "kind": "vendor-version",
+      "version": "20.3",
+      "source": "https://www.shutterencoder.com/",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-06T12:10:21.846Z"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

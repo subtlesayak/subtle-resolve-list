@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "snapper",
+    "name": "snapper",
+    "creator": "in03",
+    "url": "https://github.com/in03/snapper",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Productivity scripts, workflow bridges, and integrations",
+    "kind": "workflow-app",
+    "tasks": [
+      "workflow"
+    ],
+    "tags": [
+      "scripting",
+      "snapshot",
+      "timeline"
+    ],
+    "description": "Timeline snapshot utility using the Resolve scripting API. Studio with local scripting; current documentation targets Resolve 18.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "OS support not established by the reviewed documentation.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/in03/snapper/releases/tag/v0.3.2",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "in03/snapper",
+      "url": "https://github.com/in03/snapper",
+      "kind": "stable-release",
+      "version": "v0.3.2",
+      "source": "https://github.com/in03/snapper/releases/tag/v0.3.2",
+      "date": "2023-04-13T04:33:28Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2023-04-13T04:33:28Z",
+    "activityDate": "2026-09-14T20:09:42Z",
+    "stars": 8,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

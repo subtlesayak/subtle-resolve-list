@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "auto-rename-for-davinci-resolve",
+    "name": "Auto-Rename-for-DaVinci-Resolve",
+    "creator": "neezr",
+    "url": "https://github.com/neezr/Auto-Rename-for-DaVinci-Resolve",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Fusion, motion graphics, visual effects, and package management",
+    "kind": "other",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "automation",
+      "fusion",
+      "node renaming",
+      "organization"
+    ],
+    "description": "Auto-rename Fusion MediaIn, Background, Text, and MultiMerge nodes based on their contents.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "platformNotes": "Windows;macOS;Linux",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/neezr/Auto-Rename-for-DaVinci-Resolve#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/neezr/Auto-Rename-for-DaVinci-Resolve/commit/96973fbf90fc6f50671db1088c5ab8df366eeccf",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "neezr/Auto-Rename-for-DaVinci-Resolve",
+      "url": "https://github.com/neezr/Auto-Rename-for-DaVinci-Resolve",
+      "kind": "commit",
+      "version": "96973fbf90fc6f50671db1088c5ab8df366eeccf",
+      "source": "https://github.com/neezr/Auto-Rename-for-DaVinci-Resolve/commit/96973fbf90fc6f50671db1088c5ab8df366eeccf",
+      "date": "2026-04-11T14:08:45Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2026-04-11T14:08:51Z",
+    "stars": 17,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "tasks": [
+    {
+      "id": "captions",
+      "label": "Captions & dialogue",
+      "count": 29
+    },
+    {
+      "id": "color",
+      "label": "Color & film looks",
+      "count": 116
+    },
+    {
+      "id": "fusion",
+      "label": "Fusion & animation",
+      "count": 126
+    },
+    {
+      "id": "workflow",
+      "label": "Workflow & automation",
+      "count": 106
+    },
+    {
+      "id": "media",
+      "label": "Media & delivery",
+      "count": 41
+    },
+    {
+      "id": "audio",
+      "label": "Audio",
+      "count": 10
+    },
+    {
+      "id": "development",
+      "label": "Development",
+      "count": 12
+    },
+    {
+      "id": "learning",
+      "label": "Learning & references",
+      "count": 46
+    },
+    {
+      "id": "hardware",
+      "label": "Hardware",
+      "count": 14
+    },
+    {
+      "id": "linux",
+      "label": "Linux setup",
+      "count": 13
+    }
+  ]
+}

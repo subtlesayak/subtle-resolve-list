@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "free-dctl",
+    "name": "free-DCTL",
+    "creator": "bobtronic73",
+    "url": "https://github.com/bobtronic73/free-DCTL",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Color grading, DCTLs, film looks, and color science",
+    "kind": "dctl",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "color math",
+      "color matrix",
+      "dctl",
+      "inverse matrix"
+    ],
+    "description": "3x3 color-matrix and inverse-matrix DCTLs with a reusable color-math header.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "OS support not established by the reviewed documentation.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/bobtronic73/free-DCTL/commit/5e1d7383909eb523d13b65edef53ebb4cb0f6ad4",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "bobtronic73/free-DCTL",
+      "url": "https://github.com/bobtronic73/free-DCTL",
+      "kind": "commit",
+      "version": "5e1d7383909eb523d13b65edef53ebb4cb0f6ad4",
+      "source": "https://github.com/bobtronic73/free-DCTL/commit/5e1d7383909eb523d13b65edef53ebb4cb0f6ad4",
+      "date": "2024-12-11T05:44:46Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2024-12-11T05:44:56Z",
+    "stars": 19,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "cinematch",
+    "name": "CineMatch",
+    "creator": "FilmConvert",
+    "url": "https://www.filmconvert.com/plugin/cinematch",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Color / Film",
+    "kind": "lut",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "camera matching",
+      "color matching",
+      "exposure",
+      "lut",
+      "white balance"
+    ],
+    "description": "Camera-profile matching with exposure, white balance, and LUT generation. FilmConvert lists Resolve support; select its Resolve download rather than another host's package.",
+    "access": "Paid; watermarked trial",
+    "accessGroup": "mixed",
+    "platforms": [],
+    "platformNotes": "❔ Confirm current installer",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://www.filmconvert.com/download/software-updates?Product=cinematch",
+        "checked_at": "2026-09-06T12:10:22.035Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "CineMatch",
+      "url": "https://www.filmconvert.com/plugin/cinematch",
+      "kind": "vendor-version",
+      "version": "1.36",
+      "source": "https://www.filmconvert.com/download/software-updates?Product=cinematch",
+      "date": "2026-07-29",
+      "date_kind": "release",
+      "checked_at": "2026-09-06T12:10:22.035Z"
+    },
+    "releaseDate": "2026-07-29",
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

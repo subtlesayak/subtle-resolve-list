@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "open-display-transform",
+    "name": "open-display-transform",
+    "creator": "jedypod",
+    "url": "https://github.com/jedypod/open-display-transform",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Color grading, DCTLs, film looks, and color science",
+    "kind": "dctl",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "dctl",
+      "display transform",
+      "hdr",
+      "scene linear",
+      "sdr",
+      "wide gamut"
+    ],
+    "description": "Scene-linear, wide-gamut image rendering for SDR/HDR; includes Resolve Studio DCTLs.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "Unverified",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/jedypod/open-display-transform/releases/tag/v1.1.0",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "jedypod/open-display-transform",
+      "url": "https://github.com/jedypod/open-display-transform",
+      "kind": "stable-release",
+      "version": "v1.1.0",
+      "source": "https://github.com/jedypod/open-display-transform/releases/tag/v1.1.0",
+      "date": "2026-01-22T04:47:43Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2026-01-22T04:47:43Z",
+    "activityDate": "2026-02-09T21:40:50Z",
+    "stars": 519,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "anamorphictool-ofx-suite",
+    "name": "AnamorphicTool OFX Suite",
+    "creator": "AnamorphicTool",
+    "url": "https://anamorphictool.gumroad.com/l/ofx",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Community discoveries",
+    "kind": "ofx",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "anamorphic",
+      "lens",
+      "astigmatism",
+      "chromatic aberration",
+      "vignette",
+      "sharpen",
+      "alignment",
+      "ofx"
+    ],
+    "description": "AnamorphicFX and AnamorphicUtility OFX effects for Resolve 17+: lens geometry, astigmatism, chromatic aberration, vignette, horizontal sharpening and alignment. Both components are listed as v1.1. Windows/macOS distribution; Metal on Apple Silicon, NVIDIA CUDA and CPU fallback are documented. Exact Resolve edition and release date are not established.",
+    "access": "💰 Paid two-seat license",
+    "accessGroup": "paid",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "platformNotes": "🪟 Windows · 🍎 macOS",
+    "requirements": {
+      "editions": [],
+      "resolve": [
+        {
+          "min": "17"
+        }
+      ],
+      "architectures": [],
+      "gpu": "Apple Silicon Metal or NVIDIA CUDA (RTX 20+); CPU fallback",
+      "processing": "local",
+      "pricing": "one-time",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://anamorphictool.gumroad.com/l/ofx",
+        "checked_at": "2026-09-15",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://anamorphictool.gumroad.com/l/ofx",
+        "checked_at": "2026-09-15",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://anamorphictool.gumroad.com/l/ofx",
+        "checked_at": "2026-09-15",
+        "note": "AnamorphicFX and AnamorphicUtility OFX effects for Resolve 17+: lens geometry, astigmatism, chromatic aberration, vignette, horizontal sharpening and alignment. Both components are listed as v1.1. Windows/macOS distribution; Metal on Apple Silicon, NVIDIA CUDA and CPU fallback are documented. Exact Resolve edition and release date are not established."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "architecture"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "AnamorphicTool OFX Suite",
+      "url": "https://anamorphictool.gumroad.com/l/ofx",
+      "kind": "vendor-version",
+      "version": "1.1",
+      "source": "https://anamorphictool.gumroad.com/l/ofx",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-15",
+      "note": "Version stated by creator; release date not established."
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

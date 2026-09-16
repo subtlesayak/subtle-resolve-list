@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "resolve-immich-export",
+    "name": "resolve-immich-export",
+    "creator": "adrian-goe",
+    "url": "https://github.com/adrian-goe/resolve-immich-export",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Productivity scripts, workflow bridges, and integrations",
+    "kind": "workflow-app",
+    "tasks": [
+      "workflow"
+    ],
+    "tags": [
+      "automation",
+      "immich",
+      "media sharing",
+      "render upload"
+    ],
+    "description": "Uploads completed Resolve renders to an Immich server and selected album. Beta; Studio 21+, an Immich instance, and API key required. README release links contain placeholders.",
+    "access": "Public; Immich hosting separate",
+    "accessGroup": "public",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "platformNotes": "Windows;macOS",
+    "requirements": {
+      "editions": [
+        "Studio"
+      ],
+      "resolve": [
+        {
+          "edition": "Studio",
+          "min": "21"
+        }
+      ],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/adrian-goe/resolve-immich-export#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/adrian-goe/resolve-immich-export/releases/tag/v0.1.0",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "Resolve edition and version range",
+        "level": "documented",
+        "source": "https://github.com/adrian-goe/resolve-immich-export#readme",
+        "checked_at": "2026-09-06",
+        "note": "Structured from the existing source-backed catalogue description; no new installation test: Uploads completed Resolve renders to an Immich server and selected album. Beta; Studio 21+, an Immich instance, and API key required. README release links contain placeholders."
+      }
+    ],
+    "unknownFields": [
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "adrian-goe/resolve-immich-export",
+      "url": "https://github.com/adrian-goe/resolve-immich-export",
+      "kind": "prerelease",
+      "version": "v0.1.0",
+      "source": "https://github.com/adrian-goe/resolve-immich-export/releases/tag/v0.1.0",
+      "date": "2026-04-14T15:38:56Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2026-04-14T15:38:56Z",
+    "activityDate": "2026-04-14T15:38:56Z",
+    "stars": 0,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

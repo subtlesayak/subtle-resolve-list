@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "deliveryqc-beta",
+    "name": "DeliveryQC Beta",
+    "creator": "MeterPlugs Audio",
+    "url": "https://deliveryqc.com/",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Community discoveries",
+    "kind": "workflow-app",
+    "tasks": [
+      "audio"
+    ],
+    "tags": [
+      "audio",
+      "fairlight",
+      "wav",
+      "loudness",
+      "true peak",
+      "qc",
+      "delivery",
+      "broadcast"
+    ],
+    "description": "Browser-based loudness and true-peak checks for exported WAV audio, with plots and PDF reports. Supports 44.1/48 kHz and mono through 7.1.4. Audio analysis stays in the browser, but anonymized measurement metrics and web analytics are sent. Companion delivery-QC tool for exported Fairlight mixes.",
+    "access": "🆓 Free browser tool",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "❓ Unverified",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "local",
+      "pricing": "free",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://deliveryqc.com/",
+        "checked_at": "2026-09-08",
+        "note": "Browser-based loudness and true-peak checks for exported WAV audio, with plots and PDF reports. Supports 44.1/48 kHz and mono through 7.1.4. Audio analysis stays in the browser, but anonymized measurement metrics and web analytics are sent. Companion delivery-QC tool for exported Fairlight mixes."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "tool version"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "DeliveryQC Beta",
+      "url": "https://deliveryqc.com/",
+      "kind": "unverified",
+      "version": null,
+      "source": "https://deliveryqc.com/",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-08"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "patchwork",
+    "name": "patchwork",
+    "creator": "in03",
+    "url": "https://github.com/in03/patchwork",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Encoding, codecs, proxy generation, rendering, and project servers",
+    "kind": "encoder",
+    "tasks": [
+      "media"
+    ],
+    "tags": [
+      "ffmpeg",
+      "incremental rendering",
+      "render patching"
+    ],
+    "description": "Early prototype for patching changed render segments with Resolve and FFmpeg. Roadmap still lists codec patching and automatic change detection as unfinished.",
+    "access": "Free; prototype",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "OS support not established by the reviewed documentation.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/in03/patchwork/commit/836f8b2b676bf8b7b2aab78c248e9888894b2d43",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "in03/patchwork",
+      "url": "https://github.com/in03/patchwork",
+      "kind": "commit",
+      "version": "836f8b2b676bf8b7b2aab78c248e9888894b2d43",
+      "source": "https://github.com/in03/patchwork/commit/836f8b2b676bf8b7b2aab78c248e9888894b2d43",
+      "date": "2023-03-06T01:44:53Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2024-05-30T10:51:19Z",
+    "stars": 7,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

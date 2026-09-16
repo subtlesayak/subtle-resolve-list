@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "davinci-resolve-utilities",
+    "name": "DaVinci-Resolve-Utilities",
+    "creator": "jjsawdon",
+    "url": "https://github.com/jjsawdon/DaVinci-Resolve-Utilities",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Productivity scripts, workflow bridges, and integrations",
+    "kind": "template",
+    "tasks": [
+      "workflow"
+    ],
+    "tags": [
+      "cache",
+      "project templates",
+      "proxy",
+      "youtube chapters"
+    ],
+    "description": "Proxy/cache utilities, YouTube chapter export, and project-template helpers.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "platformNotes": "Windows;macOS;Linux",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/jjsawdon/DaVinci-Resolve-Utilities#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/jjsawdon/DaVinci-Resolve-Utilities/commit/6381241efbdd9c1da4cfe51860e1e737a8eaa645",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "jjsawdon/DaVinci-Resolve-Utilities",
+      "url": "https://github.com/jjsawdon/DaVinci-Resolve-Utilities",
+      "kind": "commit",
+      "version": "6381241efbdd9c1da4cfe51860e1e737a8eaa645",
+      "source": "https://github.com/jjsawdon/DaVinci-Resolve-Utilities/commit/6381241efbdd9c1da4cfe51860e1e737a8eaa645",
+      "date": "2025-02-14T23:10:29Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2025-02-14T23:10:32Z",
+    "stars": 44,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

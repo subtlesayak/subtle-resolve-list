@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "ntsc-rs",
+    "name": "ntsc-rs",
+    "creator": "ntsc-rs",
+    "url": "https://github.com/ntsc-rs/ntsc-rs",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Fusion, motion graphics, visual effects, and package management",
+    "kind": "ofx",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "analog video",
+      "ntsc",
+      "openfx",
+      "retro",
+      "vhs"
+    ],
+    "description": "VHS, NTSC, and analog-video effects, including an OpenFX plugin.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "platformNotes": "Windows;macOS;Linux",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/ntsc-rs/ntsc-rs/releases/latest",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/ntsc-rs/ntsc-rs/releases/tag/v0.9.6",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "ntsc-rs/ntsc-rs",
+      "url": "https://github.com/ntsc-rs/ntsc-rs",
+      "kind": "stable-release",
+      "version": "v0.9.6",
+      "source": "https://github.com/ntsc-rs/ntsc-rs/releases/tag/v0.9.6",
+      "date": "2026-09-05T21:29:35Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2026-09-05T21:29:35Z",
+    "activityDate": "2026-09-06T18:14:58Z",
+    "stars": 2576,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

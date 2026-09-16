@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "pluginlibrary-resolve",
+    "name": "PluginLibrary-Resolve",
+    "creator": "Akascape",
+    "url": "https://github.com/Akascape/PluginLibrary-Resolve",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Directories covering free and commercial products",
+    "kind": "collection",
+    "tasks": [
+      "learning"
+    ],
+    "tags": [
+      "directory",
+      "launcher",
+      "plugin manager",
+      "resource discovery"
+    ],
+    "description": "Launcher/catalogue linking to free and commercial plugins; it does not grant paid-product licenses.",
+    "access": "Mixed",
+    "accessGroup": "mixed",
+    "platforms": [],
+    "platformNotes": "Unverified",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/Akascape/PluginLibrary-Resolve/releases/tag/Installer",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Akascape/PluginLibrary-Resolve",
+      "url": "https://github.com/Akascape/PluginLibrary-Resolve",
+      "kind": "stable-release",
+      "version": "Installer",
+      "source": "https://github.com/Akascape/PluginLibrary-Resolve/releases/tag/Installer",
+      "date": "2024-09-26T07:16:10Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2024-09-26T07:16:10Z",
+    "activityDate": "2026-08-23T17:35:29Z",
+    "stars": 10,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

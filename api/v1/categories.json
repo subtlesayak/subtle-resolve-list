@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "categories": [
+    "AI assistants, MCP servers, and ComfyUI integrations",
+    "Audio / Fairlight companions",
+    "Color / Film",
+    "Color and PowerGrades",
+    "Color grading, DCTLs, film looks, and color science",
+    "Color tools",
+    "Community discoveries",
+    "Developer libraries and scripting references",
+    "Directories covering free and commercial products",
+    "Effects / Fusion",
+    "Effects and animation",
+    "Encoding and delivery",
+    "Encoding, codecs, proxy generation, rendering, and project servers",
+    "Fusion, animation, and effects",
+    "Fusion, motion graphics, visual effects, and package management",
+    "Hardware, control surfaces, MIDI, and Speed Editor tools",
+    "Linux installation, compatibility, and troubleshooting",
+    "Official Blackmagic Design resources",
+    "Productivity scripts, workflow bridges, and integrations",
+    "Script collections and workflow tools",
+    "Subtitles, transcription, dialogue cleanup, and automatic editing",
+    "Templates and discovery",
+    "Workflow / Media management",
+    "Workflow and pipeline"
+  ]
+}

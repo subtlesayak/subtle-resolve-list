@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "datamoshfuse",
+    "name": "DatamoshFuse",
+    "creator": "Akascape",
+    "url": "https://akascape.gumroad.com/l/datamoshfuse",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Effects and animation",
+    "kind": "fuse",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "datamosh",
+      "ffmpeg",
+      "frame repetition",
+      "glitch",
+      "video corruption"
+    ],
+    "description": "Bundle of Datamosh Classic and Datamosh Live Fuses for video-corruption and frame-repetition effects. Requires FFmpeg; works with Resolve Free or Studio.",
+    "access": "💰 Paid",
+    "accessGroup": "paid",
+    "platforms": [],
+    "platformNotes": "❔ Not established",
+    "requirements": {
+      "editions": [
+        "Free",
+        "Studio"
+      ],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": "FFmpeg is required.",
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://akascape.gumroad.com/l/datamoshfuse",
+        "checked_at": "2026-09-07",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://akascape.gumroad.com/l/datamoshfuse",
+        "checked_at": "2026-09-07",
+        "note": "Datamosh Classic and Live have separate versions; platform support remains unverified."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "DatamoshFuse",
+      "url": "https://akascape.gumroad.com/l/datamoshfuse",
+      "kind": "vendor-version",
+      "version": "Classic 0.4 / Live 0.1",
+      "source": "https://akascape.gumroad.com/l/datamoshfuse",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-07"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

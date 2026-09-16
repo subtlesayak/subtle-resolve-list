@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "resolve-dctls",
+    "name": "resolve_DCTLs",
+    "creator": "mitkunz",
+    "url": "https://github.com/mitkunz/resolve_DCTLs",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Color grading, DCTLs, film looks, and color science",
+    "kind": "dctl",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "dctl",
+      "film",
+      "grey card",
+      "letterbox",
+      "saturation",
+      "technicolor"
+    ],
+    "description": "Grading DCTLs including Technicolor-style RGB mixing, film saturation, adjustable grey cards, and letterboxing. GPL-3.0.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "Unverified",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/mitkunz/resolve_DCTLs/commit/0a2db1314be8e7311509fc608a819fabec11a3f9",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "mitkunz/resolve_DCTLs",
+      "url": "https://github.com/mitkunz/resolve_DCTLs",
+      "kind": "commit",
+      "version": "0a2db1314be8e7311509fc608a819fabec11a3f9",
+      "source": "https://github.com/mitkunz/resolve_DCTLs/commit/0a2db1314be8e7311509fc608a819fabec11a3f9",
+      "date": "2025-07-20T20:16:50Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2025-07-20T20:16:51Z",
+    "stars": 22,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

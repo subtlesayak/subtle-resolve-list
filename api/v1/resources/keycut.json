@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "keycut",
+    "name": "KeyCut",
+    "creator": "KeyCut",
+    "url": "https://getkeycut.com/",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Community discoveries",
+    "kind": "control-surface",
+    "tasks": [
+      "hardware"
+    ],
+    "tags": [
+      "shortcuts",
+      "keyboard",
+      "ipad",
+      "iphone",
+      "control surface",
+      "wifi"
+    ],
+    "description": "iPad/iPhone shortcut reference and control surface for Resolve, Premiere and Final Cut. Live control uses a Mac helper over local Wi-Fi and requires a lifetime purchase or subscription.",
+    "access": "🆓 Shortcut reference; 💰 live control unlock",
+    "accessGroup": "public",
+    "platforms": [],
+    "platformNotes": "macOS · iOS",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "local",
+      "pricing": "mixed",
+      "account": "unknown",
+      "dependencies": "iPhone or iPad and Mac Helper for live control",
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://getkeycut.com/",
+        "checked_at": "2026-09-08",
+        "note": "iPad/iPhone shortcut reference and control surface for Resolve, Premiere and Final Cut. Live control uses a Mac helper over local Wi-Fi and requires a lifetime purchase or subscription."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "tool version"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "KeyCut",
+      "url": "https://getkeycut.com/",
+      "kind": "unverified",
+      "version": null,
+      "source": "https://getkeycut.com/",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-08"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

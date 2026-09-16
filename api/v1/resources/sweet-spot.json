@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "sweet-spot",
+    "name": "Sweet Spot",
+    "creator": "Cullen Kelly Color",
+    "url": "https://cullenkellycolor.com/toolkit/sweet-spot",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Community discoveries",
+    "kind": "lut",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "lut",
+      "exposure",
+      "metering",
+      "middle gray"
+    ],
+    "description": "Exposure metering LUT that highlights a narrow range around middle gray for on-set camera and monitor use.",
+    "access": "🆓 Free; creator download form required",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "❔ Not established",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "free",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "purpose and access",
+        "level": "documented",
+        "source": "https://cullenkellycolor.com/toolkit/sweet-spot",
+        "checked_at": "2026-09-08",
+        "note": "Creator listing reviewed; not installation tested."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing",
+      "tool version"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Sweet Spot",
+      "url": "https://cullenkellycolor.com/toolkit/sweet-spot",
+      "kind": "unverified",
+      "version": null,
+      "source": "https://cullenkellycolor.com/toolkit/sweet-spot",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-08"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

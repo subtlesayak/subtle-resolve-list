@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "davinci-resolve-functions-toolkit",
+    "name": "Davinci-Resolve-Functions-Toolkit",
+    "creator": "FusionPixelStudio",
+    "url": "https://github.com/FusionPixelStudio/Davinci-Resolve-Functions-Toolkit",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Developer libraries and scripting references",
+    "kind": "template",
+    "tasks": [
+      "workflow",
+      "development",
+      "learning"
+    ],
+    "tags": [
+      "api",
+      "code snippets",
+      "javascript",
+      "lua",
+      "python",
+      "vscode"
+    ],
+    "description": "VS Code toolkit with Resolve API snippets and scripting templates for Lua, Python, and JavaScript.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "OS support not established by the reviewed documentation.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/FusionPixelStudio/Davinci-Resolve-Functions-Toolkit/releases/tag/pre-release",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "FusionPixelStudio/Davinci-Resolve-Functions-Toolkit",
+      "url": "https://github.com/FusionPixelStudio/Davinci-Resolve-Functions-Toolkit",
+      "kind": "prerelease",
+      "version": "pre-release",
+      "source": "https://github.com/FusionPixelStudio/Davinci-Resolve-Functions-Toolkit/releases/tag/pre-release",
+      "date": "2024-11-11T21:06:33Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2024-11-11T21:06:33Z",
+    "activityDate": "2025-03-02T19:07:16Z",
+    "stars": 11,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

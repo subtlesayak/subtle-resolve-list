@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "dctl-matrix-maker",
+    "name": "dctl-matrix-maker",
+    "creator": "ctcwired",
+    "url": "https://github.com/ctcwired/dctl-matrix-maker",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Developer libraries and scripting references",
+    "kind": "dctl",
+    "tasks": [
+      "workflow",
+      "development",
+      "learning"
+    ],
+    "tags": [
+      "calibration",
+      "color matrix",
+      "colorchecker",
+      "dctl",
+      "python"
+    ],
+    "description": "Python color-matrix solver using paired ColorChecker images; generates a DCTL. Requires colour-science; linear image data is preferred.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "OS support not established by the reviewed documentation.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/ctcwired/dctl-matrix-maker/commit/4a9ee67405d1ce8c8c2699cdc9baaa805f101206",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "ctcwired/dctl-matrix-maker",
+      "url": "https://github.com/ctcwired/dctl-matrix-maker",
+      "kind": "commit",
+      "version": "4a9ee67405d1ce8c8c2699cdc9baaa805f101206",
+      "source": "https://github.com/ctcwired/dctl-matrix-maker/commit/4a9ee67405d1ce8c8c2699cdc9baaa805f101206",
+      "date": "2024-07-26T17:11:12Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2024-07-26T17:11:12Z",
+    "stars": 20,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

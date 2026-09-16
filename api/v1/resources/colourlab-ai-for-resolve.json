@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "colourlab-ai-for-resolve",
+    "name": "Colourlab AI for Resolve",
+    "creator": "Colourlab.ai",
+    "url": "https://colourlab.ai/colourlab-ai-for-davinci-resolve/",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Color and PowerGrades",
+    "kind": "powergrade",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "ai",
+      "color grading",
+      "color matching",
+      "look development",
+      "reference matching"
+    ],
+    "description": "Reference matching through a Resolve plugin and desktop app. Official page specifies Resolve 18–20, including Free. Pro adds LookDesigner and GrainLab; newer-host support needs confirmation.",
+    "access": "💳 Subscription plans",
+    "accessGroup": "public",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "platformNotes": "🪟 Windows · 🍎 macOS",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://colourlab.ai/colourlab-ai-for-davinci-resolve/",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://colourlab.ai/downloads/",
+        "checked_at": "2026-09-06T12:10:31.938Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Colourlab AI for Resolve",
+      "url": "https://colourlab.ai/colourlab-ai-for-davinci-resolve/",
+      "kind": "vendor-version",
+      "version": "3.4",
+      "source": "https://colourlab.ai/downloads/",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-06T12:10:31.938Z"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

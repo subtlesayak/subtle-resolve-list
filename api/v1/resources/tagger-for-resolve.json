@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "tagger-for-resolve",
+    "name": "Tagger for Resolve",
+    "creator": "Tagger",
+    "url": "https://tagger.mov/",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Community discoveries",
+    "kind": "workflow-app",
+    "tasks": [
+      "workflow",
+      "captions"
+    ],
+    "tags": [
+      "ai",
+      "keywords",
+      "metadata",
+      "shot tagging",
+      "transcription"
+    ],
+    "description": "Adds AI keywords, descriptions and shot metadata to the Media Pool, plus local audio transcription. Requires Resolve Studio. Selected low-resolution frames are sent to an AI service for visual analysis; audio transcription runs locally.",
+    "access": "🆓 First 20 files; 💰 One-time Pro license",
+    "accessGroup": "mixed",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "platformNotes": "🪟 Windows · 🍎 macOS",
+    "requirements": {
+      "editions": [
+        "Studio"
+      ],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "hybrid",
+      "pricing": "one-time",
+      "account": "unknown",
+      "dependencies": "Selected low-resolution frames go to an AI service; audio transcription runs locally.",
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://tagger.mov/",
+        "checked_at": "2026-09-07",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://tagger.mov/",
+        "checked_at": "2026-09-07",
+        "note": "First 20 files are free; a one-time Pro license expands access."
+      }
+    ],
+    "unknownFields": [
+      "Resolve version",
+      "architecture",
+      "tool version"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Tagger for Resolve",
+      "url": "https://tagger.mov/",
+      "kind": "unverified",
+      "version": null,
+      "source": "https://tagger.mov/",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-07"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

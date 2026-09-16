@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "pixel-dither",
+    "name": "Pixel Dither",
+    "creator": "Akascape",
+    "url": "https://akascape.gumroad.com/l/pixeldither",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Effects and animation",
+    "kind": "other",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "dither",
+      "handheld game",
+      "pixel art",
+      "retro"
+    ],
+    "description": "Produces pixelated, dithered imagery inspired by low-color handheld-game displays. Requires Resolve 17+ Free or Studio.",
+    "access": "💰 Paid",
+    "accessGroup": "paid",
+    "platforms": [],
+    "platformNotes": "❔ Not established",
+    "requirements": {
+      "editions": [
+        "Free",
+        "Studio"
+      ],
+      "resolve": [
+        {
+          "min": "17"
+        }
+      ],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://akascape.gumroad.com/l/pixeldither",
+        "checked_at": "2026-09-07",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "Resolve edition and version range",
+        "level": "documented",
+        "source": "https://akascape.gumroad.com/l/pixeldither",
+        "checked_at": "2026-09-07",
+        "note": "Structured from the existing source-backed catalogue description; no new installation test: Produces pixelated, dithered imagery inspired by low-color handheld-game displays. Requires Resolve 17+ Free or Studio."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Pixel Dither",
+      "url": "https://akascape.gumroad.com/l/pixeldither",
+      "kind": "vendor-version",
+      "version": "0.1",
+      "source": "https://akascape.gumroad.com/l/pixeldither",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-07"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

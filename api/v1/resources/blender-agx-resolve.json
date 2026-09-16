@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "blender-agx-resolve",
+    "name": "Blender-AgX-Resolve",
+    "creator": "EaryChow",
+    "url": "https://github.com/EaryChow/Blender-AgX-Resolve",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Color grading, DCTLs, film looks, and color science",
+    "kind": "dctl",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "agx",
+      "blender",
+      "color management",
+      "display transform"
+    ],
+    "description": "Experimental AgX fork with defaults aimed at Blender matching, separate working primaries, and added controls. Distinct from sobotka/AgX-Resolve; not installation-tested.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [],
+    "platformNotes": "Unverified",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/EaryChow/Blender-AgX-Resolve/commit/aebed5d908839250195f3ed5c679b0512fae074e",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "EaryChow/Blender-AgX-Resolve",
+      "url": "https://github.com/EaryChow/Blender-AgX-Resolve",
+      "kind": "commit",
+      "version": "aebed5d908839250195f3ed5c679b0512fae074e",
+      "source": "https://github.com/EaryChow/Blender-AgX-Resolve/commit/aebed5d908839250195f3ed5c679b0512fae074e",
+      "date": "2025-10-05T20:52:11Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2025-10-05T20:53:19Z",
+    "stars": 3,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

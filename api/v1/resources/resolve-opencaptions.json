@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "resolve-opencaptions",
+    "name": "Resolve-OpenCaptions",
+    "creator": "david-ca6",
+    "url": "https://github.com/david-ca6/Resolve-OpenCaptions",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Subtitles, transcription, dialogue cleanup, and automatic editing",
+    "kind": "subtitle-tool",
+    "tasks": [
+      "captions"
+    ],
+    "tags": [
+      "captions",
+      "editable titles",
+      "subtitles",
+      "text plus"
+    ],
+    "description": "Converts subtitles into editable Text+ clips; explicitly supports Free and Studio.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "platformNotes": "Windows;macOS;Linux",
+    "requirements": {
+      "editions": [
+        "Free",
+        "Studio"
+      ],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "free",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/david-ca6/Resolve-OpenCaptions#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/david-ca6/Resolve-OpenCaptions/releases/tag/0.01.02",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://github.com/david-ca6/Resolve-OpenCaptions",
+        "checked_at": "2026-09-06",
+        "note": "Upstream explicitly supports Resolve Free and Studio. Processing location not established."
+      }
+    ],
+    "unknownFields": [
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "david-ca6/Resolve-OpenCaptions",
+      "url": "https://github.com/david-ca6/Resolve-OpenCaptions",
+      "kind": "stable-release",
+      "version": "0.01.02",
+      "source": "https://github.com/david-ca6/Resolve-OpenCaptions/releases/tag/0.01.02",
+      "date": "2026-08-10T17:42:47Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2026-08-10T17:42:47Z",
+    "activityDate": "2026-08-10T17:42:46Z",
+    "stars": 36,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

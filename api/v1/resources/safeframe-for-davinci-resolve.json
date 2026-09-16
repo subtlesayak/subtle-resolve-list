@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "safeframe-for-davinci-resolve",
+    "name": "SafeFrame for DaVinci Resolve",
+    "creator": "Creovanta",
+    "url": "https://creovanta.com/plugins/safeframe-davinci-resolve",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Community discoveries",
+    "kind": "workflow-app",
+    "tasks": [
+      "workflow"
+    ],
+    "tags": [
+      "safe area",
+      "safe zone",
+      "vertical",
+      "social",
+      "reels",
+      "shorts",
+      "tiktok",
+      "overlay"
+    ],
+    "description": "Social-video safe-zone overlays for TikTok, Reels, Shorts and Snapchat, launched through Workspace Scripts. Creator lists Resolve 18+ Free/Studio, but exact later-version behavior is not independently tested. Current download costs $2.99+; version 2.0.1 improves installation lookup, errors and success checks.",
+    "access": "💰 Paid download",
+    "accessGroup": "paid",
+    "platforms": [],
+    "platformNotes": "❓ Unverified",
+    "requirements": {
+      "editions": [
+        "Free",
+        "Studio"
+      ],
+      "resolve": [
+        {
+          "min": "18"
+        }
+      ],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "one-time",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://creovanta.com/plugins/safeframe-davinci-resolve",
+        "checked_at": "2026-09-08",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://creovanta.com/plugins/safeframe-davinci-resolve",
+        "checked_at": "2026-09-08",
+        "note": "Social-video safe-zone overlays for TikTok, Reels, Shorts and Snapchat, launched through Workspace Scripts. Creator lists Resolve 18+ Free/Studio, but exact later-version behavior is not independently tested. Current download costs $2.99+; version 2.0.1 improves installation lookup, errors and success checks."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "SafeFrame for DaVinci Resolve",
+      "url": "https://creovanta.com/plugins/safeframe-davinci-resolve",
+      "kind": "vendor-version",
+      "version": "2.0.1",
+      "source": "https://creovanta.com/plugins/safeframe-davinci-resolve",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-08",
+      "note": "Version named by original provider. "
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "davinci-resolve-fusion-expressions",
+    "name": "davinci-resolve-fusion-expressions",
+    "creator": "mrJohnHolt",
+    "url": "https://github.com/mrJohnHolt/davinci-resolve-fusion-expressions",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Fusion, motion graphics, visual effects, and package management",
+    "kind": "fusion-macro",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "expressions",
+      "fusion",
+      "macros",
+      "templates"
+    ],
+    "description": "Expressions, macros, and reusable visual templates.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [],
+    "platformNotes": "Unverified",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/mrJohnHolt/davinci-resolve-fusion-expressions/commit/c1c5b7866f14a7b6bf3b6ee8064a3f0e48653783",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "mrJohnHolt/davinci-resolve-fusion-expressions",
+      "url": "https://github.com/mrJohnHolt/davinci-resolve-fusion-expressions",
+      "kind": "commit",
+      "version": "c1c5b7866f14a7b6bf3b6ee8064a3f0e48653783",
+      "source": "https://github.com/mrJohnHolt/davinci-resolve-fusion-expressions/commit/c1c5b7866f14a7b6bf3b6ee8064a3f0e48653783",
+      "date": "2026-06-05T08:11:06Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2026-06-05T08:11:06Z",
+    "stars": 2,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

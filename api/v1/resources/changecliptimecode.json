@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "changecliptimecode",
+    "name": "ChangeClipTimecode",
+    "creator": "IgorRidanovic",
+    "url": "https://github.com/IgorRidanovic/ChangeClipTimecode",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Productivity scripts, workflow bridges, and integrations",
+    "kind": "workflow-app",
+    "tasks": [
+      "workflow"
+    ],
+    "tags": [
+      "batch editing",
+      "metadata",
+      "timecode"
+    ],
+    "description": "Batch-change source clip start timecodes in the current bin. Requires Resolve Studio.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "OS support not established by the reviewed documentation.",
+    "requirements": {
+      "editions": [
+        "Studio"
+      ],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/IgorRidanovic/ChangeClipTimecode/commit/1ac55d45b9e5ddeababbe2644845020b951b010c",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      },
+      {
+        "field": "Resolve edition",
+        "level": "documented",
+        "source": "https://github.com/IgorRidanovic/ChangeClipTimecode",
+        "checked_at": "2026-09-07T09:22:47.337Z",
+        "note": "Structured from the existing source-backed catalogue description; no new installation test: Batch-change source clip start timecodes in the current bin. Requires Resolve Studio."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "IgorRidanovic/ChangeClipTimecode",
+      "url": "https://github.com/IgorRidanovic/ChangeClipTimecode",
+      "kind": "commit",
+      "version": "1ac55d45b9e5ddeababbe2644845020b951b010c",
+      "source": "https://github.com/IgorRidanovic/ChangeClipTimecode/commit/1ac55d45b9e5ddeababbe2644845020b951b010c",
+      "date": "2021-07-14T06:20:23Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2021-07-14T06:20:23Z",
+    "stars": 15,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

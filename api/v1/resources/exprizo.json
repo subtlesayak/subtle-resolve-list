@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "exprizo",
+    "name": "Exprizo",
+    "creator": "Clipizo",
+    "url": "https://clipizo.com/exprizo",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Community discoveries",
+    "kind": "workflow-app",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "fusion",
+      "expression",
+      "preset",
+      "modifier",
+      "text",
+      "automation"
+    ],
+    "description": "Saves and reapplies Fusion expression presets across controls. Version 1.1 improves Text+ modifier support, search and responsiveness. Works in Fusion; includes license activation and updates within v1.x.",
+    "access": "💰 Paid license",
+    "accessGroup": "paid",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "platformNotes": "🪟 Windows · 🍎 macOS",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "one-time",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://clipizo.com/exprizo",
+        "checked_at": "2026-09-08",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://clipizo.com/exprizo",
+        "checked_at": "2026-09-08",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "purpose and access",
+        "level": "documented",
+        "source": "https://clipizo.com/exprizo",
+        "checked_at": "2026-09-08",
+        "note": "Creator listing reviewed; not installation tested."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Exprizo",
+      "url": "https://clipizo.com/exprizo",
+      "kind": "vendor-version",
+      "version": "1.1",
+      "source": "https://clipizo.com/exprizo",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-08"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

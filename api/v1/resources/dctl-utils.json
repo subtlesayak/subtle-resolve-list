@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "dctl-utils",
+    "name": "dctl-utils",
+    "creator": "ra100",
+    "url": "https://github.com/ra100/dctl-utils",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Color grading, DCTLs, film looks, and color science",
+    "kind": "dctl",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "dctl",
+      "hue",
+      "luminance",
+      "saturation",
+      "skin tones"
+    ],
+    "description": "Skin-tone indicator DCTL with hue, saturation, and luminance tolerances.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "OS support not established by the reviewed documentation.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/ra100/dctl-utils/commit/cdd8037e8988d8112d7a1f6a3fda97a2ddd129e8",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "ra100/dctl-utils",
+      "url": "https://github.com/ra100/dctl-utils",
+      "kind": "commit",
+      "version": "cdd8037e8988d8112d7a1f6a3fda97a2ddd129e8",
+      "source": "https://github.com/ra100/dctl-utils/commit/cdd8037e8988d8112d7a1f6a3fda97a2ddd129e8",
+      "date": "2023-12-20T15:55:02Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2023-12-20T15:57:13Z",
+    "stars": 19,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "wipptemplates-editorcollection",
+    "name": "WippTemplates EditorCollection",
+    "creator": "wipptemplates.com",
+    "url": "https://wipptemplates.com/products/editorcollection",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Effects / Fusion",
+    "kind": "template",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "animation",
+      "editing",
+      "templates",
+      "toolkit"
+    ],
+    "description": "Editing and animation toolkit for Resolve Free and Studio; current product page lists Resolve 20 and 21. Individual effects can carry a rendering-performance cost.",
+    "access": "Paid collection",
+    "accessGroup": "paid",
+    "platforms": [],
+    "platformNotes": "❔ Unverified",
+    "requirements": {
+      "editions": [
+        "Free",
+        "Studio"
+      ],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "Resolve edition",
+        "level": "documented",
+        "source": "https://wipptemplates.com/products/editorcollection",
+        "checked_at": "2026-09-06T12:10:25.673Z",
+        "note": "Structured from the existing source-backed catalogue description; no new installation test: Editing and animation toolkit for Resolve Free and Studio; current product page lists Resolve 20 and 21. Individual effects can carry a rendering-performance cost."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve version",
+      "architecture",
+      "processing",
+      "tool version"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "WippTemplates EditorCollection",
+      "url": "https://wipptemplates.com/products/editorcollection",
+      "kind": "unverified",
+      "version": null,
+      "source": "https://wipptemplates.com/updates",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-06T12:10:25.673Z"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

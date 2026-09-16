@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "dafusion",
+    "name": "DaFusion",
+    "creator": "rne1223",
+    "url": "https://github.com/rne1223/DaFusion",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Fusion, motion graphics, visual effects, and package management",
+    "kind": "fuse",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "examples",
+      "fuse",
+      "fusion",
+      "learning"
+    ],
+    "description": "Learning-oriented/sample Fusion Fuses.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "Unverified",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/rne1223/DaFusion/commit/ed04f40eadcf87958878b7f67a9ad3395ee175a6",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "rne1223/DaFusion",
+      "url": "https://github.com/rne1223/DaFusion",
+      "kind": "commit",
+      "version": "ed04f40eadcf87958878b7f67a9ad3395ee175a6",
+      "source": "https://github.com/rne1223/DaFusion/commit/ed04f40eadcf87958878b7f67a9ad3395ee175a6",
+      "date": "2021-02-26T21:15:28Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2021-02-26T21:15:34Z",
+    "stars": 1,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

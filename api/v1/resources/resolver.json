@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "resolver",
+    "name": "resolver",
+    "creator": "DMiradakis",
+    "url": "https://github.com/DMiradakis/resolver",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Productivity scripts, workflow bridges, and integrations",
+    "kind": "workflow-app",
+    "tasks": [
+      "workflow"
+    ],
+    "tags": [
+      "archive",
+      "cli",
+      "project management",
+      "render export"
+    ],
+    "description": "CLI for self-contained Resolve project workflows: scaffold project folders, export render artifacts, and archive projects.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "Unverified",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/DMiradakis/resolver/releases/tag/v0.0.17",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "DMiradakis/resolver",
+      "url": "https://github.com/DMiradakis/resolver",
+      "kind": "stable-release",
+      "version": "v0.0.17",
+      "source": "https://github.com/DMiradakis/resolver/releases/tag/v0.0.17",
+      "date": "2026-05-19T20:22:06Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2026-05-19T20:22:06Z",
+    "activityDate": "2026-06-09T08:00:50Z",
+    "stars": 5,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

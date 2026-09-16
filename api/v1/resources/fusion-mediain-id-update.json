@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "fusion-mediain-id-update",
+    "name": "Fusion-MediaIn-ID-Update-",
+    "creator": "postflows",
+    "url": "https://github.com/postflows/Fusion-MediaIn-ID-Update-",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Productivity scripts, workflow bridges, and integrations",
+    "kind": "workflow-app",
+    "tasks": [
+      "workflow"
+    ],
+    "tags": [
+      "fusion",
+      "media pool",
+      "media relinking",
+      "project transfer"
+    ],
+    "description": "Repair Fusion MediaIn IDs after transferring projects by matching files in the current Media Pool. Filename collisions can choose the wrong source.",
+    "access": "Free; MIT stated upstream",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "platformNotes": "Windows;macOS;Linux",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/postflows/Fusion-MediaIn-ID-Update-#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/postflows/Fusion-MediaIn-ID-Update-/commit/99797ede9151cdb34c85419543082985a4372310",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "postflows/Fusion-MediaIn-ID-Update-",
+      "url": "https://github.com/postflows/Fusion-MediaIn-ID-Update-",
+      "kind": "commit",
+      "version": "99797ede9151cdb34c85419543082985a4372310",
+      "source": "https://github.com/postflows/Fusion-MediaIn-ID-Update-/commit/99797ede9151cdb34c85419543082985a4372310",
+      "date": "2026-04-20T18:52:43Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2026-04-20T18:52:44Z",
+    "stars": 2,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

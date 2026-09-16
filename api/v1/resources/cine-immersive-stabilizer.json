@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "cine-immersive-stabilizer",
+    "name": "cine-immersive-stabilizer",
+    "creator": "silverqsy",
+    "url": "https://github.com/silverqsy/cine-immersive-stabilizer",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Fusion, motion graphics, visual effects, and package management",
+    "kind": "other",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "braw",
+      "gyro",
+      "immersive",
+      "imu",
+      "pano map",
+      "stabilization",
+      "ursa cine"
+    ],
+    "description": "Convert URSA Cine Immersive BRAW gyro/IMU data into Fusion PanoMap rotation keyframes.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [
+      "macOS"
+    ],
+    "platformNotes": "macOS 13+ on Apple Silicon documented.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/silverqsy/cine-immersive-stabilizer#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/silverqsy/cine-immersive-stabilizer/releases/tag/v1.0.0",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "silverqsy/cine-immersive-stabilizer",
+      "url": "https://github.com/silverqsy/cine-immersive-stabilizer",
+      "kind": "stable-release",
+      "version": "v1.0.0",
+      "source": "https://github.com/silverqsy/cine-immersive-stabilizer/releases/tag/v1.0.0",
+      "date": "2026-04-17T13:42:17Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2026-04-17T13:42:17Z",
+    "activityDate": "2026-04-17T14:06:52Z",
+    "stars": 10,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

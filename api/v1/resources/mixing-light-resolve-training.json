@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "mixing-light-resolve-training",
+    "name": "Mixing Light Resolve training",
+    "creator": "Mixing Light",
+    "url": "https://mixinglight.com/",
+    "origin": "external",
+    "official": false,
+    "reference": true,
+    "category": "Community discoveries",
+    "kind": "reference",
+    "tasks": [],
+    "tags": [
+      "color grading",
+      "finishing",
+      "training",
+      "tutorial"
+    ],
+    "description": "Color-grading and finishing tutorials, Resolve courses and practice projects. Tutorial-library membership and standalone course access are separate products; check each course’s host version and access period.",
+    "access": "💰 Membership and standalone courses",
+    "accessGroup": "paid",
+    "platforms": [],
+    "platformNotes": "📖 Browser reference; lesson requirements vary",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Mixing Light Resolve training",
+      "url": "https://mixinglight.com/",
+      "kind": "not-applicable",
+      "version": null,
+      "source": "https://mixinglight.com/",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-07",
+      "note": "Reference or collection with no single software release version."
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "autohotkey-bome-midi-2-key",
+    "name": "AutoHotKey_Bome_MIDI_2_Key",
+    "creator": "RudyB24",
+    "url": "https://github.com/RudyB24/AutoHotKey_Bome_MIDI_2_Key",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Hardware, control surfaces, MIDI, and Speed Editor tools",
+    "kind": "control-surface",
+    "tasks": [
+      "hardware"
+    ],
+    "tags": [
+      "autohotkey",
+      "controller",
+      "keyboard shortcuts",
+      "midi"
+    ],
+    "description": "Maps incoming MIDI messages to Resolve keyboard shortcuts.",
+    "access": "Public; dependencies separate",
+    "accessGroup": "public",
+    "platforms": [
+      "Windows"
+    ],
+    "platformNotes": "Windows",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/RudyB24/AutoHotKey_Bome_MIDI_2_Key#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/RudyB24/AutoHotKey_Bome_MIDI_2_Key/commit/982024b9f7753189b9d379ac9f8f3b8647218c42",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "RudyB24/AutoHotKey_Bome_MIDI_2_Key",
+      "url": "https://github.com/RudyB24/AutoHotKey_Bome_MIDI_2_Key",
+      "kind": "commit",
+      "version": "982024b9f7753189b9d379ac9f8f3b8647218c42",
+      "source": "https://github.com/RudyB24/AutoHotKey_Bome_MIDI_2_Key/commit/982024b9f7753189b9d379ac9f8f3b8647218c42",
+      "date": "2022-11-08T10:10:40Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2022-11-08T10:10:40Z",
+    "stars": 21,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

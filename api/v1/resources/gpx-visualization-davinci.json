@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "gpx-visualization-davinci",
+    "name": "GPX-Visualization-Davinci",
+    "creator": "VladasTamosiunas",
+    "url": "https://github.com/VladasTamosiunas/GPX-Visualization-Davinci",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Fusion, motion graphics, visual effects, and package management",
+    "kind": "other",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "fusion",
+      "gps",
+      "gpx",
+      "map",
+      "overlay",
+      "route"
+    ],
+    "description": "Generate Fusion map and GPS-track overlays from GPX data synchronized to video.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "platformNotes": "Windows;macOS;Linux",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/VladasTamosiunas/GPX-Visualization-Davinci#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/VladasTamosiunas/GPX-Visualization-Davinci/commit/be0d17d13eccc1d5781fdfab9e24b53cda27080c",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "VladasTamosiunas/GPX-Visualization-Davinci",
+      "url": "https://github.com/VladasTamosiunas/GPX-Visualization-Davinci",
+      "kind": "commit",
+      "version": "be0d17d13eccc1d5781fdfab9e24b53cda27080c",
+      "source": "https://github.com/VladasTamosiunas/GPX-Visualization-Davinci/commit/be0d17d13eccc1d5781fdfab9e24b53cda27080c",
+      "date": "2025-03-12T19:34:07Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2025-03-12T19:34:07Z",
+    "stars": 14,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

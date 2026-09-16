@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "dmc-baldavengerofx-macosarm64",
+    "name": "DMC-BaldavengerOFX-MacOSarm64",
+    "creator": "Demystify-Color",
+    "url": "https://github.com/Demystify-Color/DMC-BaldavengerOFX-MacOSarm64",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Fusion, motion graphics, visual effects, and package management",
+    "kind": "ofx",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "color grading",
+      "image processing",
+      "openfx",
+      "universal binary"
+    ],
+    "description": "Baldavenger OpenFX collection rebuilt as macOS universal binaries. A distinct distribution port of the original plugins.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [
+      "macOS"
+    ],
+    "platformNotes": "Intel and Apple Silicon universal builds.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/Demystify-Color/DMC-BaldavengerOFX-MacOSarm64#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/Demystify-Color/DMC-BaldavengerOFX-MacOSarm64/commit/b232dd8c25e71819cb538c3417bfe0f1f18bb3c6",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Demystify-Color/DMC-BaldavengerOFX-MacOSarm64",
+      "url": "https://github.com/Demystify-Color/DMC-BaldavengerOFX-MacOSarm64",
+      "kind": "commit",
+      "version": "b232dd8c25e71819cb538c3417bfe0f1f18bb3c6",
+      "source": "https://github.com/Demystify-Color/DMC-BaldavengerOFX-MacOSarm64/commit/b232dd8c25e71819cb538c3417bfe0f1f18bb3c6",
+      "date": "2026-05-28T12:27:53Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2026-05-28T12:27:53Z",
+    "stars": 13,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "syncpass",
+    "name": "SyncPass",
+    "creator": "JKL Editing",
+    "url": "https://jklediting.com/syncpass",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Community discoveries",
+    "kind": "workflow-app",
+    "tasks": [
+      "captions"
+    ],
+    "tags": [
+      "transcription",
+      "whisper",
+      "paper edit",
+      "documentary",
+      "rough cut",
+      "word",
+      "script",
+      "dialogue"
+    ],
+    "description": "Resolve Studio text-based rough assembly and Word edit-script export using local Whisper transcripts. Version 1.0 beta offers a 30-day trial for Windows 10/11 x64 and Apple Silicon macOS. Requires Python 3.13. Supports one video track and up to eight locked audio tracks; no J/L cuts or Linux build yet. Optional AI export shares transcripts with the assistant you choose.",
+    "access": "💰 Free 30-day beta trial; final pricing not established",
+    "accessGroup": "paid",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "platformNotes": "🪟 Windows · 🍎 macOS",
+    "requirements": {
+      "editions": [
+        "Studio"
+      ],
+      "resolve": [],
+      "architectures": [
+        "x64",
+        "arm64"
+      ],
+      "gpu": null,
+      "processing": "hybrid",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": "Python 3.13 and initial Whisper model download",
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://jklediting.com/syncpass",
+        "checked_at": "2026-09-08",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://jklediting.com/syncpass",
+        "checked_at": "2026-09-08",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://jklediting.com/syncpass",
+        "checked_at": "2026-09-08",
+        "note": "Resolve Studio text-based rough assembly and Word edit-script export using local Whisper transcripts. Version 1.0 beta offers a 30-day trial for Windows 10/11 x64 and Apple Silicon macOS. Requires Python 3.13. Supports one video track and up to eight locked audio tracks; no J/L cuts or Linux build yet. Optional AI export shares transcripts with the assistant you choose."
+      }
+    ],
+    "unknownFields": [
+      "Resolve version"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "SyncPass",
+      "url": "https://jklediting.com/syncpass",
+      "kind": "vendor-version",
+      "version": "1.0 beta",
+      "source": "https://jklediting.com/syncpass",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-08",
+      "note": "Version named by original provider. "
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "resolve-configurator",
+    "name": "resolve-configurator",
+    "creator": "stoatworks-labs",
+    "url": "https://github.com/stoatworks-labs/resolve-configurator",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Productivity scripts, workflow bridges, and integrations",
+    "kind": "workflow-app",
+    "tasks": [
+      "workflow"
+    ],
+    "tags": [
+      "csv",
+      "project setup",
+      "bins",
+      "timeline",
+      "session",
+      "scaffold",
+      "automation"
+    ],
+    "description": "Builds project bins and empty timeline scaffolds from session CSV files, with background media and smart-bin recipes. Uses Resolve Studio external scripting. Provides desktop packages plus a Python 3.11+ source installation; Intel Mac users follow the Python installation path.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "platformNotes": "Provider-documented distribution targets; no installation testing. See description for platform and host caveats.",
+    "requirements": {
+      "editions": [
+        "Studio"
+      ],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "local",
+      "pricing": "free",
+      "account": "unknown",
+      "dependencies": "Resolve Studio; Python 3.11+ for source installation",
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/stoatworks-labs/resolve-configurator#readme",
+        "checked_at": "2026-09-15",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/stoatworks-labs/resolve-configurator/releases/tag/v0.1.5",
+        "checked_at": "2026-09-15T11:10:28.438Z",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://github.com/stoatworks-labs/resolve-configurator#readme",
+        "checked_at": "2026-09-15",
+        "note": "Builds project bins and empty timeline scaffolds from session CSV files, with background media and smart-bin recipes. Uses Resolve Studio external scripting. Provides desktop packages plus a Python 3.11+ source installation; Intel Mac users follow the Python installation path."
+      }
+    ],
+    "unknownFields": [
+      "Resolve version",
+      "architecture"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "stoatworks-labs/resolve-configurator",
+      "url": "https://github.com/stoatworks-labs/resolve-configurator",
+      "kind": "stable-release",
+      "version": "v0.1.5",
+      "source": "https://github.com/stoatworks-labs/resolve-configurator/releases/tag/v0.1.5",
+      "date": "2026-09-04T22:48:51Z",
+      "checked_at": "2026-09-15T11:10:28.438Z"
+    },
+    "releaseDate": "2026-09-04T22:48:51Z",
+    "activityDate": "2026-09-10T13:42:27Z",
+    "stars": 0,
+    "metadataChecked": "2026-09-15T11:10:28.438Z",
+    "history": []
+  }
+}

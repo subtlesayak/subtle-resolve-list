@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "davinciresolve-cliplister",
+    "name": "DaVinciResolve-ClipLister",
+    "creator": "IgorRidanovic",
+    "url": "https://github.com/IgorRidanovic/DaVinciResolve-ClipLister",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Productivity scripts, workflow bridges, and integrations",
+    "kind": "workflow-app",
+    "tasks": [
+      "workflow"
+    ],
+    "tags": [
+      "clip list",
+      "csv",
+      "export",
+      "html",
+      "metadata"
+    ],
+    "description": "Export bin clip metadata as CSV or HTML. Legacy example of the Resolve 15 scripting API.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "OS support not established by the reviewed documentation.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/IgorRidanovic/DaVinciResolve-ClipLister/commit/e0921c1d9c395b43fd3634768292965c6fbb295f",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "IgorRidanovic/DaVinciResolve-ClipLister",
+      "url": "https://github.com/IgorRidanovic/DaVinciResolve-ClipLister",
+      "kind": "commit",
+      "version": "e0921c1d9c395b43fd3634768292965c6fbb295f",
+      "source": "https://github.com/IgorRidanovic/DaVinciResolve-ClipLister/commit/e0921c1d9c395b43fd3634768292965c6fbb295f",
+      "date": "2018-09-14T05:37:41Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2018-09-14T05:38:40Z",
+    "stars": 32,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

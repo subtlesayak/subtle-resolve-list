@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "davinciresolverpc",
+    "name": "DavinciResolveRPC",
+    "creator": "elpideus",
+    "url": "https://github.com/elpideus/DavinciResolveRPC",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Productivity scripts, workflow bridges, and integrations",
+    "kind": "workflow-app",
+    "tasks": [
+      "workflow"
+    ],
+    "tags": [
+      "discord",
+      "rich presence",
+      "project",
+      "timeline",
+      "status"
+    ],
+    "description": "Discord Rich Presence utility displaying the active Resolve project and timeline. Requires Discord desktop and Resolve external scripting; project names become visible through Discord.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows"
+    ],
+    "platformNotes": "Windows 10+. README claims Free/Studio 18+, but its external Python API needs Studio on Resolve 21.1; earlier Free compatibility is unverified.",
+    "requirements": {
+      "editions": [
+        "Studio"
+      ],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "free",
+      "account": "unknown",
+      "dependencies": "Discord desktop and Resolve external scripting",
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/elpideus/DavinciResolveRPC#readme",
+        "checked_at": "2026-09-08",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/elpideus/DavinciResolveRPC/releases/tag/v1.0.1",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://github.com/elpideus/DavinciResolveRPC",
+        "checked_at": "2026-09-08",
+        "note": "Windows 10+. README claims Free/Studio 18+, but its external Python API needs Studio on Resolve 21.1; earlier Free compatibility is unverified."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://www.blackmagicdesign.com/support/readme/59dd4eef1f4941c29fb8dc48b33f5c87",
+        "checked_at": "2026-09-08",
+        "note": "Resolve 21.1 Python/advanced scripting requires Studio; this limits the upstream Free compatibility claim."
+      }
+    ],
+    "unknownFields": [
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "elpideus/DavinciResolveRPC",
+      "url": "https://github.com/elpideus/DavinciResolveRPC",
+      "kind": "stable-release",
+      "version": "v1.0.1",
+      "source": "https://github.com/elpideus/DavinciResolveRPC/releases/tag/v1.0.1",
+      "date": "2026-06-06T11:16:28Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2026-06-06T11:16:28Z",
+    "activityDate": "2026-06-06T11:45:00Z",
+    "stars": 4,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

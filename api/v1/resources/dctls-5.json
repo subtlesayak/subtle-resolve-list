@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "dctls-5",
+    "name": "DCTLs",
+    "creator": "kubabar",
+    "url": "https://github.com/kubabar/DCTLs",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Color grading, DCTLs, film looks, and color science",
+    "kind": "dctl",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "color conversion",
+      "color space",
+      "dctl",
+      "xyz"
+    ],
+    "description": "Technical color-space conversion tools, including XYZ conversion.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "Unverified",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/kubabar/DCTLs/commit/0236a8b8d57560f36592407f73b82f4410a52276",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "kubabar/DCTLs",
+      "url": "https://github.com/kubabar/DCTLs",
+      "kind": "commit",
+      "version": "0236a8b8d57560f36592407f73b82f4410a52276",
+      "source": "https://github.com/kubabar/DCTLs/commit/0236a8b8d57560f36592407f73b82f4410a52276",
+      "date": "2024-03-03T00:23:47Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2024-03-03T00:23:47Z",
+    "stars": 2,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

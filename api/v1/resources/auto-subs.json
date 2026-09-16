@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "auto-subs",
+    "name": "auto-subs",
+    "creator": "tmoroney",
+    "url": "https://github.com/tmoroney/auto-subs",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Subtitles, transcription, dialogue cleanup, and automatic editing",
+    "kind": "subtitle-tool",
+    "tasks": [
+      "captions"
+    ],
+    "tags": [
+      "animated text",
+      "captions",
+      "speech to text",
+      "subtitles",
+      "transcription"
+    ],
+    "description": "Local transcription and styled/animated subtitle workflows, with standalone and Resolve integration.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "platformNotes": "Windows;macOS;Linux",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "local",
+      "pricing": "free",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/tmoroney/auto-subs#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/tmoroney/auto-subs/releases/tag/v3.8.0",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://github.com/tmoroney/auto-subs",
+        "checked_at": "2026-09-06",
+        "note": "Local transcription is documented; Resolve edition and host-version requirements are not inferred."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "tmoroney/auto-subs",
+      "url": "https://github.com/tmoroney/auto-subs",
+      "kind": "stable-release",
+      "version": "v3.8.0",
+      "source": "https://github.com/tmoroney/auto-subs/releases/tag/v3.8.0",
+      "date": "2026-07-21T18:41:14Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2026-07-21T18:41:14Z",
+    "activityDate": "2026-09-12T16:39:00Z",
+    "stars": 4207,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

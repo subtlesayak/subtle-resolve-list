@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "cdl2resolve",
+    "name": "CDL2Resolve",
+    "creator": "ambustion",
+    "url": "https://github.com/ambustion/CDL2Resolve",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Productivity scripts, workflow bridges, and integrations",
+    "kind": "workflow-app",
+    "tasks": [
+      "workflow"
+    ],
+    "tags": [
+      "cdl",
+      "color decisions",
+      "color grading",
+      "import"
+    ],
+    "description": "Import folders of CDL color decisions into a Resolve timeline.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "OS support not established by the reviewed documentation.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/ambustion/CDL2Resolve/commit/68870167c2fe3ce22be1a4a7589c843f28df0dae",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "ambustion/CDL2Resolve",
+      "url": "https://github.com/ambustion/CDL2Resolve",
+      "kind": "commit",
+      "version": "68870167c2fe3ce22be1a4a7589c843f28df0dae",
+      "source": "https://github.com/ambustion/CDL2Resolve/commit/68870167c2fe3ce22be1a4a7589c843f28df0dae",
+      "date": "2021-06-02T14:44:52Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2021-06-02T14:45:02Z",
+    "stars": 6,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

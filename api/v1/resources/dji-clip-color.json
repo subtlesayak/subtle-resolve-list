@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "dji-clip-color",
+    "name": "dji-clip-color",
+    "creator": "erik-sutton95",
+    "url": "https://github.com/erik-sutton95/dji-clip-color",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Productivity scripts, workflow bridges, and integrations",
+    "kind": "workflow-app",
+    "tasks": [
+      "workflow"
+    ],
+    "tags": [
+      "dji",
+      "d log",
+      "d log m",
+      "hlg",
+      "metadata",
+      "clip color",
+      "camera",
+      "organization"
+    ],
+    "description": "Identifies DJI camera profiles from clip metadata and assigns Resolve clip colors for D-Log, D-Log 2, D-Log M and HLG. It organizes media rather than applying a color transform. Windows requires 64-bit Python 3. Python scripting requires Studio in Resolve 21.1.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "platformNotes": "Provider-documented distribution targets; no installation testing. See description for platform and host caveats.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "local",
+      "pricing": "free",
+      "account": "unknown",
+      "dependencies": "Python 3; Resolve scripting access, requiring Studio in 21.1",
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/erik-sutton95/dji-clip-color#readme",
+        "checked_at": "2026-09-15",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/erik-sutton95/dji-clip-color/commit/db33e02ddf41fcf650aebd4fae19dc86bd70cc61",
+        "checked_at": "2026-09-15T11:10:26.592Z",
+        "note": "Source revision, not a software release."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://github.com/erik-sutton95/dji-clip-color#readme",
+        "checked_at": "2026-09-15",
+        "note": "Identifies DJI camera profiles from clip metadata and assigns Resolve clip colors for D-Log, D-Log 2, D-Log M and HLG. It organizes media rather than applying a color transform. Windows requires 64-bit Python 3. Python scripting requires Studio in Resolve 21.1."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "erik-sutton95/dji-clip-color",
+      "url": "https://github.com/erik-sutton95/dji-clip-color",
+      "kind": "commit",
+      "version": "db33e02ddf41fcf650aebd4fae19dc86bd70cc61",
+      "source": "https://github.com/erik-sutton95/dji-clip-color/commit/db33e02ddf41fcf650aebd4fae19dc86bd70cc61",
+      "date": "2026-09-08T19:17:42Z",
+      "checked_at": "2026-09-15T11:10:26.592Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2026-09-08T19:18:15Z",
+    "stars": 9,
+    "metadataChecked": "2026-09-15T11:10:26.592Z",
+    "history": []
+  }
+}

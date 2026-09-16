@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "davinci-shortform-overlays",
+    "name": "davinci-shortform-overlays",
+    "creator": "Creative-Crafter",
+    "url": "https://github.com/Creative-Crafter/davinci-shortform-overlays",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Fusion, motion graphics, visual effects, and package management",
+    "kind": "fusion-macro",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "drfx",
+      "overlays",
+      "reels",
+      "safe zones",
+      "shorts",
+      "tiktok",
+      "vertical video"
+    ],
+    "description": "Fusion generator with switchable TikTok, Shorts, and Reels safe-zone overlays; distributed as a .drfx template. Check guides against current platform layouts.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "platformNotes": "Windows;macOS;Linux",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/Creative-Crafter/davinci-shortform-overlays#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/Creative-Crafter/davinci-shortform-overlays/releases/tag/v1.0.2",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Creative-Crafter/davinci-shortform-overlays",
+      "url": "https://github.com/Creative-Crafter/davinci-shortform-overlays",
+      "kind": "stable-release",
+      "version": "v1.0.2",
+      "source": "https://github.com/Creative-Crafter/davinci-shortform-overlays/releases/tag/v1.0.2",
+      "date": "2026-08-21T15:35:09Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2026-08-21T15:35:09Z",
+    "activityDate": "2026-08-21T15:35:09Z",
+    "stars": 6,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

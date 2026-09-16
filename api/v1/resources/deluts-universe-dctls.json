@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "deluts-universe-dctls",
+    "name": "DELUTS Universe DCTLs",
+    "creator": "James Miller / DELUTS",
+    "url": "https://jamesmiller.sellfy.store/p/davinci-resolve-studio-dctl/",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Color and PowerGrades",
+    "kind": "powergrade",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "color grading",
+      "dctl",
+      "film",
+      "lens effects",
+      "texture"
+    ],
+    "description": "Studio DCTL collection for color, lens effects, film texture, and utilities. Installation paths cover three OSes; test the demo for GPU compatibility. The listed minimum-version text is ambiguous.",
+    "access": "💳 Paid; demo sets available",
+    "accessGroup": "paid",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "platformNotes": "🪟 Windows · 🍎 macOS · 🐧 Linux",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://jamesmiller.sellfy.store/p/davinci-resolve-studio-dctl/",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing",
+      "tool version"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "DELUTS Universe DCTLs",
+      "url": "https://jamesmiller.sellfy.store/p/davinci-resolve-studio-dctl/",
+      "kind": "unverified",
+      "version": null,
+      "source": "https://jamesmiller.sellfy.store/p/davinci-resolve-studio-dctl/",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-06T12:10:32.364Z"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "protune-transforms",
+    "name": "protune-transforms",
+    "creator": "xtremestuff",
+    "url": "https://github.com/xtremestuff/protune-transforms",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Color grading, DCTLs, film looks, and color science",
+    "kind": "dctl",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "camera transform",
+      "color management",
+      "gopro",
+      "gp log",
+      "protune"
+    ],
+    "description": "GoPro Protune and GP-Log transforms for managed color workflows.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux",
+      "iPadOS"
+    ],
+    "platformNotes": "iPad workflow restrictions vary with Resolve version.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/xtremestuff/protune-transforms#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/xtremestuff/protune-transforms/releases/tag/4.0",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "xtremestuff/protune-transforms",
+      "url": "https://github.com/xtremestuff/protune-transforms",
+      "kind": "stable-release",
+      "version": "4.0",
+      "source": "https://github.com/xtremestuff/protune-transforms/releases/tag/4.0",
+      "date": "2026-05-24T01:22:53Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2026-05-24T01:22:53Z",
+    "activityDate": "2026-05-24T01:22:53Z",
+    "stars": 177,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

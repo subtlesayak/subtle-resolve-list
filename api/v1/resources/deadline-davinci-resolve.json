@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "deadline-davinci-resolve",
+    "name": "deadline-davinci-resolve",
+    "creator": "Puppetworks-Animation-Studio",
+    "url": "https://github.com/Puppetworks-Animation-Studio/deadline-davinci-resolve",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Encoding, codecs, proxy generation, rendering, and project servers",
+    "kind": "encoder",
+    "tasks": [
+      "media"
+    ],
+    "tags": [
+      "deadline",
+      "distributed rendering",
+      "render farm"
+    ],
+    "description": "Thinkbox Deadline render-farm integration. Check current compatibility carefully.",
+    "access": "Public; infrastructure separate",
+    "accessGroup": "public",
+    "platforms": [],
+    "platformNotes": "Unverified",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/Puppetworks-Animation-Studio/deadline-davinci-resolve/commit/43764c3cefdd8d5e5f9ea238fde7a16c73df119f",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Puppetworks-Animation-Studio/deadline-davinci-resolve",
+      "url": "https://github.com/Puppetworks-Animation-Studio/deadline-davinci-resolve",
+      "kind": "commit",
+      "version": "43764c3cefdd8d5e5f9ea238fde7a16c73df119f",
+      "source": "https://github.com/Puppetworks-Animation-Studio/deadline-davinci-resolve/commit/43764c3cefdd8d5e5f9ea238fde7a16c73df119f",
+      "date": "2020-12-02T09:17:27Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2020-12-02T09:17:35Z",
+    "stars": 38,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

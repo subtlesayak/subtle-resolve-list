@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "typeflare",
+    "name": "TypeFlare",
+    "creator": "Tagger",
+    "url": "https://tagger.mov/typeflare/",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Community discoveries",
+    "kind": "subtitle-tool",
+    "tasks": [
+      "captions"
+    ],
+    "tags": [
+      "captions",
+      "whisper",
+      "translation",
+      "fusion",
+      "text plus",
+      "srt"
+    ],
+    "description": "Local Whisper transcription and translation with editable word-level Text+ Fusion captions. Free tier has unlimited SRT and 60-second Fusion exports; Pro adds presets and styling. macOS 12+ and Windows 10+.",
+    "access": "🆓 Free SRT and limited Fusion exports; 💰 Pro",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "Windows · macOS",
+    "requirements": {
+      "editions": [
+        "Free"
+      ],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "local",
+      "pricing": "mixed",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://tagger.mov/typeflare/",
+        "checked_at": "2026-09-08",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://tagger.mov/typeflare/",
+        "checked_at": "2026-09-08",
+        "note": "Local Whisper transcription and translation with editable word-level Text+ Fusion captions. Free tier has unlimited SRT and 60-second Fusion exports; Pro adds presets and styling. macOS 12+ and Windows 10+."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve version",
+      "architecture"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "TypeFlare",
+      "url": "https://tagger.mov/typeflare/",
+      "kind": "vendor-version",
+      "version": "1.5.5",
+      "source": "https://tagger.mov/typeflare/",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-08",
+      "note": "Current version explicitly named on creator page; no release date established."
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

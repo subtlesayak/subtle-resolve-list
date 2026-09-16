@@ -1,0 +1,104 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "auto-editor",
+    "name": "auto-editor",
+    "creator": "WyattBlue",
+    "url": "https://github.com/WyattBlue/auto-editor",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Subtitles, transcription, dialogue cleanup, and automatic editing",
+    "kind": "subtitle-tool",
+    "tasks": [
+      "captions",
+      "media"
+    ],
+    "tags": [
+      "automatic editing",
+      "nle",
+      "standalone",
+      "timeline export"
+    ],
+    "description": "Standalone automatic editing with NLE timeline-export workflows; not a native Resolve plugin.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [],
+    "platformNotes": "Unverified",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": "Standalone command-line application with NLE timeline export; not a native Resolve plugin."
+    },
+    "evidence": [
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/WyattBlue/auto-editor/releases/tag/31.6.0",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://github.com/WyattBlue/auto-editor/releases/tag/31.6.0",
+        "checked_at": "2026-09-07",
+        "note": "Resolve version and edition compatibility are not established by the recorded release notes."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "WyattBlue/auto-editor",
+      "url": "https://github.com/WyattBlue/auto-editor",
+      "kind": "stable-release",
+      "version": "31.6.0",
+      "source": "https://github.com/WyattBlue/auto-editor/releases/tag/31.6.0",
+      "date": "2026-09-06T21:01:15Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2026-09-06T21:01:15Z",
+    "activityDate": "2026-09-13T04:43:15Z",
+    "stars": 5217,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": [
+      {
+        "name": "auto-editor",
+        "url": "https://github.com/WyattBlue/auto-editor",
+        "from": "31.5.0",
+        "to": "31.6.0",
+        "release": "v1.14",
+        "catalogue_date": "2026-09-07",
+        "upstream_date": "2026-09-06T21:01:15Z",
+        "source": "https://github.com/WyattBlue/auto-editor/releases/tag/31.6.0",
+        "summary": "Audio tone and overlay generators; source-stream handling and decoder fixes.",
+        "changes": [
+          "Adds MIDI-pitched tone generation with sine, saw, square and triangle waves.",
+          "Imports all source streams through add, including audio-only sources.",
+          "Supports drawbox as a separate overlay generator.",
+          "Skips undecodable audio streams and identifies missing codecs in errors.",
+          "Updates bundled x265 to 4.3 and libvpx to 1.17.0."
+        ],
+        "changelogs": [
+          {
+            "label": "Full source changelog",
+            "url": "https://github.com/WyattBlue/auto-editor/releases/tag/31.6.0"
+          }
+        ]
+      }
+    ]
+  }
+}

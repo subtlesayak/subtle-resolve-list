@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "fusionjson",
+    "name": "fusionjson",
+    "creator": "Spicy-Acorn",
+    "url": "https://github.com/Spicy-Acorn/fusionjson",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Fusion, motion graphics, visual effects, and package management",
+    "kind": "other",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "data",
+      "file io",
+      "fusion",
+      "json",
+      "nodes"
+    ],
+    "description": "Fusion nodes for JSON file reading, writing, and value manipulation.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "OS support not established by the reviewed documentation.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/Spicy-Acorn/fusionjson/releases/tag/v0.7.0",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Spicy-Acorn/fusionjson",
+      "url": "https://github.com/Spicy-Acorn/fusionjson",
+      "kind": "stable-release",
+      "version": "v0.7.0",
+      "source": "https://github.com/Spicy-Acorn/fusionjson/releases/tag/v0.7.0",
+      "date": "2020-03-30T20:37:44Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2020-03-30T20:37:44Z",
+    "activityDate": "2020-03-30T20:37:44Z",
+    "stars": 9,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

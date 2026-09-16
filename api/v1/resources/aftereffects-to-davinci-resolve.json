@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "aftereffects-to-davinci-resolve",
+    "name": "AfterEffects_to_DaVinci_Resolve",
+    "creator": "IgorRidanovic",
+    "url": "https://github.com/IgorRidanovic/AfterEffects_to_DaVinci_Resolve",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Productivity scripts, workflow bridges, and integrations",
+    "kind": "workflow-app",
+    "tasks": [
+      "workflow"
+    ],
+    "tags": [
+      "after effects",
+      "interoperability",
+      "render import"
+    ],
+    "description": "Brings After Effects renders into Resolve workflows.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [
+      "Windows"
+    ],
+    "platformNotes": "Distributed Windows version; other platforms require customization.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/IgorRidanovic/AfterEffects_to_DaVinci_Resolve#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/IgorRidanovic/AfterEffects_to_DaVinci_Resolve/commit/461e6c5787c729505b6e634578f610621e7b39db",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "IgorRidanovic/AfterEffects_to_DaVinci_Resolve",
+      "url": "https://github.com/IgorRidanovic/AfterEffects_to_DaVinci_Resolve",
+      "kind": "commit",
+      "version": "461e6c5787c729505b6e634578f610621e7b39db",
+      "source": "https://github.com/IgorRidanovic/AfterEffects_to_DaVinci_Resolve/commit/461e6c5787c729505b6e634578f610621e7b39db",
+      "date": "2019-04-03T17:31:57Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2019-04-03T17:31:58Z",
+    "stars": 39,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "polyamath-vonk-ultra-fuses",
+    "name": "PolyaMath-Vonk-Ultra-Fuses",
+    "creator": "NishadDeulkar",
+    "url": "https://github.com/NishadDeulkar/PolyaMath-Vonk-Ultra-Fuses",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Fusion, motion graphics, visual effects, and package management",
+    "kind": "fuse",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "fusion",
+      "fuse",
+      "vonk",
+      "json",
+      "math",
+      "geometry",
+      "animation",
+      "motion graphics",
+      "points",
+      "edges",
+      "lua"
+    ],
+    "description": "Lua Fuses extending Vonk Ultra JSON nodes for point, edge and graph animation. Requires Resolve 19+ and Vonk Ultra v2+. Creator uses Windows and Resolve Free; some render nodes are experimental.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "platformNotes": "Creator reports Windows use; macOS and Linux installation paths are documented, but not tested by the creator. Modified nodes can share names with original Vonk nodes.",
+    "requirements": {
+      "editions": [
+        "Free"
+      ],
+      "resolve": [
+        {
+          "min": "19"
+        }
+      ],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "free",
+      "account": "unknown",
+      "dependencies": "Vonk Ultra v2 or newer, installed through Reactor",
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/NishadDeulkar/PolyaMath-Vonk-Ultra-Fuses#readme",
+        "checked_at": "2026-09-08",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/NishadDeulkar/PolyaMath-Vonk-Ultra-Fuses/commit/5aea4c478056b6e6becacbe0148ebe67996b63cf",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://github.com/NishadDeulkar/PolyaMath-Vonk-Ultra-Fuses",
+        "checked_at": "2026-09-08",
+        "note": "README documents Resolve 19+ Free, Windows use and installation paths for macOS/Linux. Creator has not verified Studio; experimental nodes and naming conflicts are described. No catalogue installation test."
+      }
+    ],
+    "unknownFields": [
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "NishadDeulkar/PolyaMath-Vonk-Ultra-Fuses",
+      "url": "https://github.com/NishadDeulkar/PolyaMath-Vonk-Ultra-Fuses",
+      "kind": "commit",
+      "version": "5aea4c478056b6e6becacbe0148ebe67996b63cf",
+      "source": "https://github.com/NishadDeulkar/PolyaMath-Vonk-Ultra-Fuses/commit/5aea4c478056b6e6becacbe0148ebe67996b63cf",
+      "date": "2026-09-08T14:08:11Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2026-09-08T14:08:11Z",
+    "stars": 2,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": [
+      {
+        "name": "NishadDeulkar/PolyaMath-Vonk-Ultra-Fuses",
+        "url": "https://github.com/NishadDeulkar/PolyaMath-Vonk-Ultra-Fuses",
+        "from": "84a83d263e05a5d4f6c22458aaf0fd703459026b",
+        "to": "5aea4c478056b6e6becacbe0148ebe67996b63cf",
+        "release": "v1.22",
+        "catalogue_date": "2026-09-15",
+        "upstream_date": "2026-09-08",
+        "source": "https://github.com/NishadDeulkar/PolyaMath-Vonk-Ultra-Fuses/commit/5aea4c478056b6e6becacbe0148ebe67996b63cf",
+        "summary": "Revises the documented Vonk Ultra dependency. This is a README revision.",
+        "changes": [
+          "Current README requires Vonk Ultra through Reactor without assigning a numeric minimum."
+        ],
+        "changelogs": [
+          {
+            "label": "Full source changelog",
+            "url": "https://github.com/NishadDeulkar/PolyaMath-Vonk-Ultra-Fuses/commit/5aea4c478056b6e6becacbe0148ebe67996b63cf"
+          }
+        ]
+      }
+    ]
+  }
+}

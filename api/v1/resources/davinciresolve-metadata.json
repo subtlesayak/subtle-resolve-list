@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "davinciresolve-metadata",
+    "name": "DaVinciResolve-metadata",
+    "creator": "deric",
+    "url": "https://github.com/deric/DaVinciResolve-metadata",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Productivity scripts, workflow bridges, and integrations",
+    "kind": "workflow-app",
+    "tasks": [
+      "workflow"
+    ],
+    "tags": [
+      "camera metadata",
+      "exif",
+      "exiftool",
+      "media pool",
+      "metadata"
+    ],
+    "description": "Synchronize camera EXIF metadata into the Resolve Media Pool using ExifTool.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "platformNotes": "Windows;macOS;Linux",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/deric/DaVinciResolve-metadata#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/deric/DaVinciResolve-metadata/releases/tag/v2.0.0",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "deric/DaVinciResolve-metadata",
+      "url": "https://github.com/deric/DaVinciResolve-metadata",
+      "kind": "stable-release",
+      "version": "v2.0.0",
+      "source": "https://github.com/deric/DaVinciResolve-metadata/releases/tag/v2.0.0",
+      "date": "2023-11-28T08:52:37Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2023-11-28T08:52:37Z",
+    "activityDate": "2025-10-13T08:04:47Z",
+    "stars": 70,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

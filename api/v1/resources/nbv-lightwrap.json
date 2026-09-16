@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "nbv-lightwrap",
+    "name": "NBV-Lightwrap",
+    "creator": "NBVFilms",
+    "url": "https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.NBVFilms.Lightwrap/com.NBVFilms.Lightwrap.atom",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Community discoveries",
+    "kind": "reactor-package",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "light wrap",
+      "compositing",
+      "edges",
+      "color cast",
+      "keying",
+      "macro"
+    ],
+    "description": "Fusion light-wrap macro with edge controls and a color-cast option for matching foreground edges to background luminance and hue. Distributed through Reactor; exact Resolve edition and OS requirements are not established.",
+    "access": "📦 Public Reactor package; check package license",
+    "accessGroup": "paid",
+    "platforms": [],
+    "platformNotes": "❔ Not established",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.NBVFilms.Lightwrap/com.NBVFilms.Lightwrap.atom",
+        "checked_at": "2026-09-15",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.NBVFilms.Lightwrap/com.NBVFilms.Lightwrap.atom",
+        "checked_at": "2026-09-15",
+        "note": "Fusion light-wrap macro with edge controls and a color-cast option for matching foreground edges to background luminance and hue. Distributed through Reactor; exact Resolve edition and OS requirements are not established."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "NBV-Lightwrap",
+      "url": "https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.NBVFilms.Lightwrap/com.NBVFilms.Lightwrap.atom",
+      "kind": "package-version",
+      "version": "1",
+      "source": "https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.NBVFilms.Lightwrap/com.NBVFilms.Lightwrap.atom",
+      "date": "2026-09-11",
+      "date_kind": "Reactor manifest date",
+      "checked_at": "2026-09-15"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "pybmd",
+    "name": "pybmd",
+    "creator": "WheheoHu",
+    "url": "https://github.com/WheheoHu/pybmd",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Developer libraries and scripting references",
+    "kind": "workflow-app",
+    "tasks": [
+      "workflow",
+      "development",
+      "learning"
+    ],
+    "tags": [
+      "api",
+      "python",
+      "scripting",
+      "wrapper"
+    ],
+    "description": "Python wrapper around the Resolve API.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "platformNotes": "Windows;macOS",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/WheheoHu/pybmd#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/WheheoHu/pybmd/releases/tag/v2026.2.0",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "WheheoHu/pybmd",
+      "url": "https://github.com/WheheoHu/pybmd",
+      "kind": "stable-release",
+      "version": "v2026.2.0",
+      "source": "https://github.com/WheheoHu/pybmd/releases/tag/v2026.2.0",
+      "date": "2026-07-10T06:34:58Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2026-07-10T06:34:58Z",
+    "activityDate": "2026-07-10T06:54:16Z",
+    "stars": 34,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

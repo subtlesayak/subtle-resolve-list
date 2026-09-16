@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "proto-v3",
+    "name": "Proto V3",
+    "creator": "StirlingSupplyCo.",
+    "url": "https://stirlingsupply.co/products/proto-v3",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Effects and animation",
+    "kind": "other",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "distortion",
+      "glow",
+      "presets",
+      "visual effects"
+    ],
+    "description": "Distortion and glow effects with presets. Current release requires Resolve 20.",
+    "access": "💳 Paid",
+    "accessGroup": "paid",
+    "platforms": [],
+    "platformNotes": "❔ Not established",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://stirlingsupply.co/products/proto-v3",
+        "checked_at": "2026-09-06T12:10:31.397Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Proto V3",
+      "url": "https://stirlingsupply.co/products/proto-v3",
+      "kind": "vendor-version",
+      "version": "V3.11",
+      "source": "https://stirlingsupply.co/products/proto-v3",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-06T12:10:31.397Z"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

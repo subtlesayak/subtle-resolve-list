@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "davinci-resolve-micro-color-panel-quick-start-guide",
+    "name": "DaVinci Resolve Micro Color Panel Quick Start Guide",
+    "creator": "Blackmagic Design",
+    "url": "https://documents.blackmagicdesign.com/InstallationGuides/DaVinciMicroColorPanelQSG.pdf",
+    "origin": "external",
+    "official": true,
+    "reference": true,
+    "category": "Official Blackmagic Design resources",
+    "kind": "reference",
+    "tasks": [
+      "learning"
+    ],
+    "tags": [
+      "micro color panel",
+      "setup",
+      "quick start",
+      "hardware"
+    ],
+    "description": "Quick setup reference for the Resolve Micro Color Panel. Support listing dated 2024-04-15.",
+    "access": "🆓 Public reference; original terms apply",
+    "accessGroup": "public",
+    "platforms": [],
+    "platformNotes": "📖 Reference",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "free",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "reference scope",
+        "level": "documented",
+        "source": "https://documents.blackmagicdesign.com/InstallationGuides/DaVinciMicroColorPanelQSG.pdf?_v=1713164412000",
+        "checked_at": "2026-09-08",
+        "note": "Official support feed title and description reviewed; destination returned successfully. Reference documentation, not installation testing or current software compatibility."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "DaVinci Resolve Micro Color Panel Quick Start Guide",
+      "url": "https://documents.blackmagicdesign.com/InstallationGuides/DaVinciMicroColorPanelQSG.pdf",
+      "kind": "not-applicable",
+      "version": null,
+      "source": "https://documents.blackmagicdesign.com/InstallationGuides/DaVinciMicroColorPanelQSG.pdf?_v=1713164412000",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-08",
+      "note": "Reference with no numbered edition established from the support listing. The listing date is not a software release date."
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

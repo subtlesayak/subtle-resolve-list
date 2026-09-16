@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "nx-liquidglass",
+    "name": "Nx LiquidGlass",
+    "creator": "Nx Color",
+    "url": "https://ko-fi.com/s/8d429085e2",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Color and PowerGrades",
+    "kind": "powergrade",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "dctl",
+      "glass",
+      "magnification",
+      "refraction"
+    ],
+    "description": "Refraction and magnification DCTL. Requires Resolve Studio 19+; creator lists Metal, CUDA, and OpenCL support. Ko-fi listing points to the creator’s website download.",
+    "access": "🆓 Free; store download",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "platformNotes": "🪟 Windows · 🍎 macOS · 🐧 Linux",
+    "requirements": {
+      "editions": [
+        "Studio"
+      ],
+      "resolve": [
+        {
+          "edition": "Studio",
+          "min": "19"
+        }
+      ],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://ko-fi.com/s/8d429085e2",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "Resolve edition and version range",
+        "level": "documented",
+        "source": "https://ko-fi.com/s/8d429085e2",
+        "checked_at": "2026-09-06",
+        "note": "Structured from the existing source-backed catalogue description; no new installation test: Refraction and magnification DCTL. Requires Resolve Studio 19+; creator lists Metal, CUDA, and OpenCL support. Ko-fi listing points to the creator’s website download."
+      }
+    ],
+    "unknownFields": [
+      "architecture",
+      "processing",
+      "tool version"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Nx LiquidGlass",
+      "url": "https://ko-fi.com/s/8d429085e2",
+      "kind": "unverified",
+      "version": null,
+      "source": "https://ko-fi.com/s/8d429085e2",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-06T12:10:32.444Z"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

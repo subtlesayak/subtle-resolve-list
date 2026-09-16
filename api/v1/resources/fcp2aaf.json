@@ -1,0 +1,128 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "fcp2aaf",
+    "name": "fcp2aaf",
+    "creator": "Soonus",
+    "url": "https://fcp2aaf.com/",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Community discoveries",
+    "kind": "workflow-app",
+    "tasks": [
+      "audio"
+    ],
+    "tags": [
+      "audio",
+      "aaf",
+      "fcpxml",
+      "final cut",
+      "fairlight",
+      "markers",
+      "handoff"
+    ],
+    "description": "Converts Final Cut FCPXML to audio AAF for Resolve/Fairlight and other audio applications. Runs locally on Apple Silicon with macOS 14+. Free conversions are limited to five minutes; paid licenses periodically need an online check. Version 26.9.21 refines the UI and keeps excluded tracks out of the preview.",
+    "access": "🆓 Up to 5 minutes; 💰 paid passes or perpetual license",
+    "accessGroup": "paid",
+    "platforms": [
+      "macOS"
+    ],
+    "platformNotes": "🍎 macOS",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [
+        "arm64"
+      ],
+      "gpu": null,
+      "processing": "local",
+      "pricing": "mixed",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://fcp2aaf.com/",
+        "checked_at": "2026-09-15",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://fcp2aaf.com/changelog/",
+        "checked_at": "2026-09-15",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://fcp2aaf.com/",
+        "checked_at": "2026-09-08",
+        "note": "Converts Final Cut FCPXML to audio AAF for Resolve/Fairlight and other audio applications. Runs locally on Apple Silicon with macOS 14+. Free conversions are limited to five minutes; paid licenses periodically need an online check. Version 26.9.17 adds a marker panel, selective marker delivery and optional CSV/MIDI marker files."
+      },
+      {
+        "field": "changelog",
+        "level": "documented",
+        "source": "https://fcp2aaf.com/changelog/",
+        "checked_at": "2026-09-08",
+        "note": "Original provider release notes for 26.9.17."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://fcp2aaf.com/changelog/",
+        "checked_at": "2026-09-15",
+        "note": "Improves preview-track exclusion, interface behavior and AAF preparation feedback."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "fcp2aaf",
+      "url": "https://fcp2aaf.com/",
+      "kind": "vendor-version",
+      "version": "26.9.21",
+      "source": "https://fcp2aaf.com/changelog/",
+      "date": "2026-09-14",
+      "date_kind": "release",
+      "checked_at": "2026-09-15",
+      "note": "Original provider release/changelog reviewed. Catalogue review date is separate from the upstream release date."
+    },
+    "releaseDate": "2026-09-14",
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": [
+      {
+        "name": "fcp2aaf",
+        "url": "https://fcp2aaf.com/",
+        "from": "26.9.17",
+        "to": "26.9.21",
+        "release": "v1.22",
+        "catalogue_date": "2026-09-15",
+        "upstream_date": "2026-09-14",
+        "source": "https://fcp2aaf.com/changelog/",
+        "summary": "Improves preview-track exclusion, interface behavior and AAF preparation feedback.",
+        "changes": [
+          "Excluded tracks stop playing immediately and their clip cards are hidden.",
+          "Locks preparation controls during conversion and keeps Stop available.",
+          "Intermediate releases improve AAF-writing progress, effect reports, fades and volume parsing."
+        ],
+        "changelogs": [
+          {
+            "label": "Full source changelog",
+            "url": "https://fcp2aaf.com/changelog/"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "powergrade-library",
+    "name": "PowerGrade Library",
+    "creator": "yesjmo",
+    "url": "https://yesjmo.gumroad.com/l/powergradelibrary",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Color and PowerGrades",
+    "kind": "powergrade",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "color grading",
+      "dwg",
+      "look development",
+      "powergrade",
+      "rec709"
+    ],
+    "description": "Modular grading library, signature looks, and guides. Resolve 19+ Free or Studio; designed for DaVinci Wide Gamut with Rec.709 output.",
+    "access": "💳 Paid",
+    "accessGroup": "paid",
+    "platforms": [],
+    "platformNotes": "❔ Not established",
+    "requirements": {
+      "editions": [
+        "Free",
+        "Studio"
+      ],
+      "resolve": [
+        {
+          "min": "19"
+        }
+      ],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "Resolve edition and version range",
+        "level": "documented",
+        "source": "https://yesjmo.gumroad.com/l/powergradelibrary",
+        "checked_at": "2026-09-06T12:10:34.772Z",
+        "note": "Structured from the existing source-backed catalogue description; no new installation test: Modular grading library, signature looks, and guides. Resolve 19+ Free or Studio; designed for DaVinci Wide Gamut with Rec.709 output."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "architecture",
+      "processing",
+      "tool version"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "PowerGrade Library",
+      "url": "https://yesjmo.gumroad.com/l/powergradelibrary",
+      "kind": "unverified",
+      "version": null,
+      "source": "https://yesjmo.gumroad.com/l/powergradelibrary",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-06T12:10:34.772Z"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

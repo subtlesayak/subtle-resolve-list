@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "fusion-for-cartoons",
+    "name": "fusion-for-cartoons",
+    "creator": "bryab",
+    "url": "https://github.com/bryab/fusion-for-cartoons",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Fusion, motion graphics, visual effects, and package management",
+    "kind": "fusion-macro",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "animation",
+      "cartoon",
+      "compositing",
+      "fusion",
+      "rim light"
+    ],
+    "description": "Fusion macros for cartoon and animation compositing, including procedural rim-light masks.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [],
+    "platformNotes": "OS support not established by the reviewed documentation.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/bryab/fusion-for-cartoons/commit/cdc5045c08895f0f5c09891d4a7c27c4d4617036",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "bryab/fusion-for-cartoons",
+      "url": "https://github.com/bryab/fusion-for-cartoons",
+      "kind": "commit",
+      "version": "cdc5045c08895f0f5c09891d4a7c27c4d4617036",
+      "source": "https://github.com/bryab/fusion-for-cartoons/commit/cdc5045c08895f0f5c09891d4a7c27c4d4617036",
+      "date": "2025-06-17T15:09:52Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2025-06-17T15:09:55Z",
+    "stars": 6,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "corridorkey-runtime",
+    "name": "CorridorKey-Runtime",
+    "creator": "alexandremendoncaalvaro",
+    "url": "https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Fusion, motion graphics, visual effects, and package management",
+    "kind": "ofx",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "ai",
+      "background removal",
+      "keying",
+      "matte",
+      "openfx"
+    ],
+    "description": "Local AI keying with OpenFX, command-line, and desktop interfaces. Check its GPU support matrix.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "platformNotes": "Windows NVIDIA RTX; macOS Apple Silicon. Other GPU tracks vary.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": "Windows NVIDIA RTX; macOS Apple Silicon. Other GPU tracks vary.",
+      "processing": "local",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime/releases/tag/v0.7.3",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime",
+        "checked_at": "2026-09-06",
+        "note": "Local AI keying; consult the upstream GPU matrix for your exact build."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "alexandremendoncaalvaro/CorridorKey-Runtime",
+      "url": "https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime",
+      "kind": "stable-release",
+      "version": "v0.7.3",
+      "source": "https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime/releases/tag/v0.7.3",
+      "date": "2026-04-02T19:14:12Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2026-04-02T19:14:12Z",
+    "activityDate": "2026-08-05T20:48:46Z",
+    "stars": 750,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

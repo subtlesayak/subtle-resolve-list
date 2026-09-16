@@ -1,0 +1,93 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "resolve-codec-converter",
+    "name": "Resolve-Codec-Converter",
+    "creator": "MohammedBoulifa",
+    "url": "https://github.com/MohammedBoulifa/Resolve-Codec-Converter",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Encoding, codecs, proxy generation, rendering, and project servers",
+    "kind": "encoder",
+    "tasks": [
+      "media"
+    ],
+    "tags": [
+      "codec",
+      "transcode",
+      "h264",
+      "h265",
+      "dnxhr",
+      "prores",
+      "pcm",
+      "linux",
+      "ffmpeg"
+    ],
+    "description": "Linux batch transcoding GUI for H.264/H.265, DNxHR and ProRes, including PCM audio conversion and a video-passthrough audio mode. Useful for preparing footage for Resolve Free on Linux. The x64 AppImage bundles PyQt5/Qt5; FFmpeg must be installed separately. Release tag is a build label, not a numeric version.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [
+      "Linux"
+    ],
+    "platformNotes": "Provider-documented distribution targets; no installation testing. See description for platform and host caveats.",
+    "requirements": {
+      "editions": [
+        "Free",
+        "Studio"
+      ],
+      "resolve": [],
+      "architectures": [
+        "x64"
+      ],
+      "gpu": null,
+      "processing": "local",
+      "pricing": "free",
+      "account": "unknown",
+      "dependencies": "FFmpeg",
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/MohammedBoulifa/Resolve-Codec-Converter#readme",
+        "checked_at": "2026-09-15",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/MohammedBoulifa/Resolve-Codec-Converter/releases/tag/ResolveCodecConverter-x86_64",
+        "checked_at": "2026-09-15T11:10:30.401Z",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://github.com/MohammedBoulifa/Resolve-Codec-Converter#readme",
+        "checked_at": "2026-09-15",
+        "note": "Linux batch transcoding GUI for H.264/H.265, DNxHR and ProRes, including PCM audio conversion and a video-passthrough audio mode. Useful for preparing footage for Resolve Free on Linux. The x64 AppImage bundles PyQt5/Qt5; FFmpeg must be installed separately. Release tag is a build label, not a numeric version."
+      }
+    ],
+    "unknownFields": [
+      "Resolve version"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "MohammedBoulifa/Resolve-Codec-Converter",
+      "url": "https://github.com/MohammedBoulifa/Resolve-Codec-Converter",
+      "kind": "stable-release",
+      "version": "ResolveCodecConverter-x86_64",
+      "source": "https://github.com/MohammedBoulifa/Resolve-Codec-Converter/releases/tag/ResolveCodecConverter-x86_64",
+      "date": "2026-09-12T19:44:36Z",
+      "checked_at": "2026-09-15T11:10:30.401Z"
+    },
+    "releaseDate": "2026-09-12T19:44:36Z",
+    "activityDate": "2026-09-12T19:50:05Z",
+    "stars": 0,
+    "metadataChecked": "2026-09-15T11:10:30.401Z",
+    "history": []
+  }
+}

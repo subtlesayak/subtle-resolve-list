@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "kartaverse-docs",
+    "name": "Kartaverse-Docs",
+    "creator": "Kartaverse",
+    "url": "https://github.com/Kartaverse/Kartaverse-Docs",
+    "origin": "github",
+    "official": false,
+    "reference": true,
+    "category": "Fusion, motion graphics, visual effects, and package management",
+    "kind": "reactor-package",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "360 video",
+      "documentation",
+      "immersive",
+      "kartavr",
+      "vr"
+    ],
+    "description": "KartaVR and immersive-workflow documentation. KartaVR active support ended in January 2026, although packages remain available through Reactor.",
+    "access": "Free reference",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "Reference",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/Kartaverse/Kartaverse-Docs/commit/035fa0addc6669167cf740a326fa9be5bbebb3cf",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Kartaverse/Kartaverse-Docs",
+      "url": "https://github.com/Kartaverse/Kartaverse-Docs",
+      "kind": "commit",
+      "version": "035fa0addc6669167cf740a326fa9be5bbebb3cf",
+      "source": "https://github.com/Kartaverse/Kartaverse-Docs/commit/035fa0addc6669167cf740a326fa9be5bbebb3cf",
+      "date": "2026-07-08T14:10:33Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2026-07-08T14:10:33Z",
+    "stars": 11,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

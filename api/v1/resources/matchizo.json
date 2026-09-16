@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "matchizo",
+    "name": "Matchizo",
+    "creator": "Clipizo",
+    "url": "https://clipizo.com/matchizo",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Community discoveries",
+    "kind": "fuse",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "fusion",
+      "fuse",
+      "match cut",
+      "newspaper",
+      "word",
+      "transition"
+    ],
+    "description": "Fusion Fuse for multi-image and newspaper-word match cuts, with timing, highlights, camera movement and timeline markers. Distributed through the creator Discord.",
+    "access": "🆓 Free; Discord download",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "❔ Not established",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "free",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "purpose and access",
+        "level": "documented",
+        "source": "https://clipizo.com/matchizo",
+        "checked_at": "2026-09-08",
+        "note": "Creator listing reviewed; not installation tested."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing",
+      "tool version"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Matchizo",
+      "url": "https://clipizo.com/matchizo",
+      "kind": "unverified",
+      "version": null,
+      "source": "https://clipizo.com/matchizo",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-08"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

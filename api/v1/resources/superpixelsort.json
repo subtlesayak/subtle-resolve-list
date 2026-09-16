@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "superpixelsort",
+    "name": "SuperPixelSort",
+    "creator": "Akascape",
+    "url": "https://akascape.gumroad.com/l/superpixelsort",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Effects and animation",
+    "kind": "fuse",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "displacement",
+      "fusion",
+      "glitch",
+      "pixel sorting"
+    ],
+    "description": "Pixel-sorting Fuse with displacement and rank modes. Free edition has fewer features; Resolve 17+ Free or Studio.",
+    "access": "💰 Free edition / paid full edition",
+    "accessGroup": "mixed",
+    "platforms": [],
+    "platformNotes": "❔ Not established",
+    "requirements": {
+      "editions": [
+        "Free",
+        "Studio"
+      ],
+      "resolve": [
+        {
+          "min": "17"
+        }
+      ],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://akascape.gumroad.com/l/superpixelsort",
+        "checked_at": "2026-09-06T12:10:29.565Z",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "Resolve edition and version range",
+        "level": "documented",
+        "source": "https://akascape.gumroad.com/l/superpixelsort",
+        "checked_at": "2026-09-06T12:10:29.565Z",
+        "note": "Structured from the existing source-backed catalogue description; no new installation test: Pixel-sorting Fuse with displacement and rank modes. Free edition has fewer features; Resolve 17+ Free or Studio."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "SuperPixelSort",
+      "url": "https://akascape.gumroad.com/l/superpixelsort",
+      "kind": "vendor-version",
+      "version": "2.1",
+      "source": "https://akascape.gumroad.com/l/superpixelsort",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-06T12:10:29.565Z"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

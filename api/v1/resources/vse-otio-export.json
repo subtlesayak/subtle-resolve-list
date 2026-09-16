@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "vse-otio-export",
+    "name": "VSE_OTIO_Export",
+    "creator": "tin2tin",
+    "url": "https://github.com/tin2tin/VSE_OTIO_Export",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Productivity scripts, workflow bridges, and integrations",
+    "kind": "workflow-app",
+    "tasks": [
+      "workflow"
+    ],
+    "tags": [
+      "blender",
+      "opentimelineio",
+      "otio",
+      "timeline export",
+      "vse"
+    ],
+    "description": "Blender Video Sequence Editor timeline export through OpenTimelineIO.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [
+      "Windows"
+    ],
+    "platformNotes": "Windows setup documented; other platforms not established in this review.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/tin2tin/VSE_OTIO_Export#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/tin2tin/VSE_OTIO_Export/commit/1a71a18f190dc7f3e71839461ada76c225bd0d2b",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "tin2tin/VSE_OTIO_Export",
+      "url": "https://github.com/tin2tin/VSE_OTIO_Export",
+      "kind": "commit",
+      "version": "1a71a18f190dc7f3e71839461ada76c225bd0d2b",
+      "source": "https://github.com/tin2tin/VSE_OTIO_Export/commit/1a71a18f190dc7f3e71839461ada76c225bd0d2b",
+      "date": "2023-11-02T08:09:27Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2023-11-02T08:09:27Z",
+    "stars": 32,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

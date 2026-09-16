@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "resolveofx-ndioutput",
+    "name": "ResolveOFX_NDIOutput",
+    "creator": "lightsailvr",
+    "url": "https://github.com/lightsailvr/ResolveOFX_NDIOutput",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Encoding, codecs, proxy generation, rendering, and project servers",
+    "kind": "ofx",
+    "tasks": [
+      "media"
+    ],
+    "tags": [
+      "hdr",
+      "ndi",
+      "network video",
+      "openfx",
+      "output"
+    ],
+    "description": "NDI HDR network-video output through OpenFX. Resolve 17+; building from source requires the NDI Advanced SDK.",
+    "access": "Free; SDK terms separate",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "platformNotes": "Windows 10/11 x64; macOS 13+ Intel/Apple Silicon.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/lightsailvr/ResolveOFX_NDIOutput#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/lightsailvr/ResolveOFX_NDIOutput/releases/tag/v1.14.1",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "lightsailvr/ResolveOFX_NDIOutput",
+      "url": "https://github.com/lightsailvr/ResolveOFX_NDIOutput",
+      "kind": "stable-release",
+      "version": "v1.14.1",
+      "source": "https://github.com/lightsailvr/ResolveOFX_NDIOutput/releases/tag/v1.14.1",
+      "date": "2026-09-02T00:52:55Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2026-09-02T00:52:55Z",
+    "activityDate": "2026-09-02T00:55:43Z",
+    "stars": 6,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

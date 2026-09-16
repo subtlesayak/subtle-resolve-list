@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "davinci-resolve-wakatime",
+    "name": "davinci-resolve-wakatime",
+    "creator": "LucasHT22",
+    "url": "https://github.com/LucasHT22/davinci-resolve-wakatime",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Productivity scripts, workflow bridges, and integrations",
+    "kind": "workflow-app",
+    "tasks": [
+      "workflow"
+    ],
+    "tags": [
+      "activity tracking",
+      "time tracking",
+      "wakatime"
+    ],
+    "description": "WakaTime activity-tracking integration. External service terms are separate.",
+    "access": "Public + service",
+    "accessGroup": "public",
+    "platforms": [
+      "Windows"
+    ],
+    "platformNotes": "Windows checked in upstream table; Mac remains unconfirmed.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/LucasHT22/davinci-resolve-wakatime#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/LucasHT22/davinci-resolve-wakatime/commit/b6c2c3718a64d17562b4ed68a085c803e2cf2dcb",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "LucasHT22/davinci-resolve-wakatime",
+      "url": "https://github.com/LucasHT22/davinci-resolve-wakatime",
+      "kind": "commit",
+      "version": "b6c2c3718a64d17562b4ed68a085c803e2cf2dcb",
+      "source": "https://github.com/LucasHT22/davinci-resolve-wakatime/commit/b6c2c3718a64d17562b4ed68a085c803e2cf2dcb",
+      "date": "2025-06-16T21:06:09Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2025-06-16T21:06:09Z",
+    "stars": 22,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

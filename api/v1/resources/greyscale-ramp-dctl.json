@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "greyscale-ramp-dctl",
+    "name": "Greyscale Ramp DCTL",
+    "creator": "Cullen Kelly Color",
+    "url": "https://cullenkellycolor.com/toolkit/greyscale-ramp-dctl",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Community discoveries",
+    "kind": "dctl",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "dctl",
+      "grayscale",
+      "ramp",
+      "lut",
+      "look development"
+    ],
+    "description": "Grayscale diagnostic ramp for assessing LUTs, exposure bias and split-tone behavior during look development.",
+    "access": "🆓 Free; creator download form required",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "❔ Not established",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "free",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "purpose and access",
+        "level": "documented",
+        "source": "https://cullenkellycolor.com/toolkit/greyscale-ramp-dctl",
+        "checked_at": "2026-09-08",
+        "note": "Creator listing reviewed; not installation tested."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing",
+      "tool version"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Greyscale Ramp DCTL",
+      "url": "https://cullenkellycolor.com/toolkit/greyscale-ramp-dctl",
+      "kind": "unverified",
+      "version": null,
+      "source": "https://cullenkellycolor.com/toolkit/greyscale-ramp-dctl",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-08"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

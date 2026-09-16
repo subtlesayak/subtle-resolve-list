@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "resolve-learning-path",
+    "name": "Resolve learning path",
+    "creator": "Ripple Training",
+    "url": "https://www.rippletraining.com/product-category/davinci-resolve-learning-path/",
+    "origin": "external",
+    "official": false,
+    "reference": true,
+    "category": "Community discoveries",
+    "kind": "reference",
+    "tasks": [],
+    "tags": [
+      "color grading",
+      "editing",
+      "learning",
+      "media management",
+      "training"
+    ],
+    "description": "Resolve learning pathway covering editing, color and media management. Reviewed listings include Resolve 20 color grading and Resolve 19 media management; lesson and exercise compatibility follows each course.",
+    "access": "💰 Paid courses",
+    "accessGroup": "paid",
+    "platforms": [],
+    "platformNotes": "📖 Browser reference; lesson requirements vary",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Resolve learning path",
+      "url": "https://www.rippletraining.com/product-category/davinci-resolve-learning-path/",
+      "kind": "not-applicable",
+      "version": null,
+      "source": "https://www.rippletraining.com/product-category/davinci-resolve-learning-path/",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-07",
+      "note": "Reference or collection with no single software release version."
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

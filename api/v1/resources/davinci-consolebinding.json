@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "davinci-consolebinding",
+    "name": "DaVinci-ConsoleBinding",
+    "creator": "titasmallick",
+    "url": "https://github.com/titasmallick/DaVinci-ConsoleBinding",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Hardware, control surfaces, MIDI, and Speed Editor tools",
+    "kind": "control-surface",
+    "tasks": [
+      "hardware"
+    ],
+    "tags": [
+      "gamepad",
+      "controller",
+      "xinput",
+      "keyboard",
+      "mouse",
+      "shortcuts",
+      "control surface"
+    ],
+    "description": "Windows XInput controller bindings for Resolve using PowerShell/C# keyboard and mouse automation. Supports configurable gamepad actions and limits input to the foreground Resolve window; no Resolve scripting bridge is required.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows"
+    ],
+    "platformNotes": "Provider-documented distribution targets; no installation testing. See description for platform and host caveats.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "local",
+      "pricing": "free",
+      "account": "unknown",
+      "dependencies": "Windows PowerShell and an XInput controller",
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/titasmallick/DaVinci-ConsoleBinding#readme",
+        "checked_at": "2026-09-15",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/titasmallick/DaVinci-ConsoleBinding/commit/56e9759af9d44219cdc9a53b8adcab1926fa2055",
+        "checked_at": "2026-09-15T11:10:30.401Z",
+        "note": "Source revision, not a software release."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://github.com/titasmallick/DaVinci-ConsoleBinding#readme",
+        "checked_at": "2026-09-15",
+        "note": "Windows XInput controller bindings for Resolve using PowerShell/C# keyboard and mouse automation. Supports configurable gamepad actions and limits input to the foreground Resolve window; no Resolve scripting bridge is required."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "titasmallick/DaVinci-ConsoleBinding",
+      "url": "https://github.com/titasmallick/DaVinci-ConsoleBinding",
+      "kind": "commit",
+      "version": "56e9759af9d44219cdc9a53b8adcab1926fa2055",
+      "source": "https://github.com/titasmallick/DaVinci-ConsoleBinding/commit/56e9759af9d44219cdc9a53b8adcab1926fa2055",
+      "date": "2026-09-08T18:17:33Z",
+      "checked_at": "2026-09-15T11:10:30.401Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2026-09-08T18:17:42Z",
+    "stars": 0,
+    "metadataChecked": "2026-09-15T11:10:30.401Z",
+    "history": []
+  }
+}

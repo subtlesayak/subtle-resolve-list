@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "pna-colourise",
+    "name": "pna_colourise",
+    "creator": "stib",
+    "url": "https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.pureandapplied.colourise/com.pureandapplied.colourise.atom",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Community discoveries",
+    "kind": "reactor-package",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "colorize",
+      "colourise",
+      "duotone",
+      "tritone",
+      "luminance",
+      "gpu",
+      "fuse"
+    ],
+    "description": "GPU Fusion Fuse for solid-color luminance mapping, alpha-aware color multiplication, duotone and tritone looks. Part of stib’s Fuses and distributed through Reactor. Platform and exact host compatibility remain unverified.",
+    "access": "📦 Public Reactor package; check package license",
+    "accessGroup": "paid",
+    "platforms": [],
+    "platformNotes": "❔ Not established",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.pureandapplied.colourise/com.pureandapplied.colourise.atom",
+        "checked_at": "2026-09-15",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.pureandapplied.colourise/com.pureandapplied.colourise.atom",
+        "checked_at": "2026-09-15",
+        "note": "GPU Fusion Fuse for solid-color luminance mapping, alpha-aware color multiplication, duotone and tritone looks. Part of stib’s Fuses and distributed through Reactor. Platform and exact host compatibility remain unverified."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "pna_colourise",
+      "url": "https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.pureandapplied.colourise/com.pureandapplied.colourise.atom",
+      "kind": "package-version",
+      "version": "1.01",
+      "source": "https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.pureandapplied.colourise/com.pureandapplied.colourise.atom",
+      "date": "2026-09-10",
+      "date_kind": "Reactor manifest date",
+      "checked_at": "2026-09-15"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

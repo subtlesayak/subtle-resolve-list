@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "fusionscript-stubs",
+    "name": "fusionscript-stubs",
+    "creator": "czukowski",
+    "url": "https://github.com/czukowski/fusionscript-stubs",
+    "origin": "github",
+    "official": false,
+    "reference": true,
+    "category": "Developer libraries and scripting references",
+    "kind": "workflow-app",
+    "tasks": [
+      "workflow",
+      "development",
+      "learning"
+    ],
+    "tags": [
+      "api",
+      "fusion",
+      "ide",
+      "python",
+      "type stubs"
+    ],
+    "description": "Python type stubs providing IDE completion for the Fusion scripting API.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "Reference",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/czukowski/fusionscript-stubs/commit/7e37395d28773b495c64ff3a8964fc7d82a5da3a",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "czukowski/fusionscript-stubs",
+      "url": "https://github.com/czukowski/fusionscript-stubs",
+      "kind": "commit",
+      "version": "7e37395d28773b495c64ff3a8964fc7d82a5da3a",
+      "source": "https://github.com/czukowski/fusionscript-stubs/commit/7e37395d28773b495c64ff3a8964fc7d82a5da3a",
+      "date": "2026-07-11T10:10:38Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2026-07-11T10:11:09Z",
+    "stars": 16,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

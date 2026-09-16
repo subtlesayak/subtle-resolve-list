@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "dise",
+    "name": "DiSE",
+    "creator": "shaise",
+    "url": "https://github.com/shaise/DiSE",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Hardware, control surfaces, MIDI, and Speed Editor tools",
+    "kind": "control-surface",
+    "tasks": [
+      "hardware"
+    ],
+    "tags": [
+      "controller",
+      "diy",
+      "hardware",
+      "speed editor"
+    ],
+    "description": "DIY speed-editor hardware for Resolve and other video-editing applications.",
+    "access": "Public; build cost",
+    "accessGroup": "public",
+    "platforms": [],
+    "platformNotes": "Unverified",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/shaise/DiSE/releases/tag/DISE-V1.1",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "shaise/DiSE",
+      "url": "https://github.com/shaise/DiSE",
+      "kind": "stable-release",
+      "version": "DISE-V1.1",
+      "source": "https://github.com/shaise/DiSE/releases/tag/DISE-V1.1",
+      "date": "2022-09-24T19:45:23Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2022-09-24T19:45:23Z",
+    "activityDate": "2023-02-08T18:16:03Z",
+    "stars": 60,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

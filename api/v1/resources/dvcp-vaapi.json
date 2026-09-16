@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "dvcp-vaapi",
+    "name": "dvcp-vaapi",
+    "creator": "nowrep",
+    "url": "https://github.com/nowrep/dvcp-vaapi",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Encoding, codecs, proxy generation, rendering, and project servers",
+    "kind": "encoder",
+    "tasks": [
+      "media"
+    ],
+    "tags": [
+      "hardware encoding",
+      "vaapi",
+      "video encoding"
+    ],
+    "description": "VAAPI video encoder plugin. Check hardware, driver, and Resolve requirements.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [
+      "Linux"
+    ],
+    "platformNotes": "Linux",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/nowrep/dvcp-vaapi#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/nowrep/dvcp-vaapi/releases/tag/v0.3",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "nowrep/dvcp-vaapi",
+      "url": "https://github.com/nowrep/dvcp-vaapi",
+      "kind": "stable-release",
+      "version": "v0.3",
+      "source": "https://github.com/nowrep/dvcp-vaapi/releases/tag/v0.3",
+      "date": "2025-05-18T13:44:02Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2025-05-18T13:44:02Z",
+    "activityDate": "2025-05-18T08:57:44Z",
+    "stars": 40,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

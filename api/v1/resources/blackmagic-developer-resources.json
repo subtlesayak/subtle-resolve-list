@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "blackmagic-developer-resources",
+    "name": "Blackmagic developer resources",
+    "creator": "Blackmagic Design",
+    "url": "https://www.blackmagicdesign.com/developer/products/capture-and-playback/overview",
+    "origin": "external",
+    "official": true,
+    "reference": true,
+    "category": "Official Blackmagic Design resources",
+    "kind": "workflow-app",
+    "tasks": [],
+    "tags": [
+      "capture",
+      "decklink",
+      "developer resources",
+      "playback",
+      "sdk"
+    ],
+    "description": "Desktop Video SDK, capture/playback integration resources and links to developer support. Relevant to DeckLink and UltraStudio workflows; this SDK is separate from the Resolve scripting API.",
+    "access": "📦 Public SDK resources; hardware and license terms apply",
+    "accessGroup": "paid",
+    "platforms": [],
+    "platformNotes": "📖 Reference",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Blackmagic developer resources",
+      "url": "https://www.blackmagicdesign.com/developer/products/capture-and-playback/overview",
+      "kind": "not-applicable",
+      "version": null,
+      "source": "https://www.blackmagicdesign.com/developer/products/capture-and-playback/overview",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-06",
+      "note": "Reference, discussion or collection with no single product version."
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

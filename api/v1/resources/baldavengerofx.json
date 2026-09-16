@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "baldavengerofx",
+    "name": "BaldavengerOFX",
+    "creator": "ciqueira",
+    "url": "https://github.com/ciqueira/BaldavengerOFX",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Color grading, DCTLs, film looks, and color science",
+    "kind": "dctl",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "ofx",
+      "film",
+      "color",
+      "frequency",
+      "math",
+      "metal",
+      "cuda"
+    ],
+    "description": "Independently maintained Baldavenger OFX builds, including FilmGrade, VideoGrade, frequency tools and ResolveMath. Downloads and installation use MCNexus with a free key for each plugin.",
+    "access": "Free; GitHub-linked key required",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "platformNotes": "Windows x64 and macOS Intel/Apple Silicon; Metal on macOS, CUDA for Windows GPU plugins, CPU for selected tools. Distinct distribution of Paul Dore's suite.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "free",
+      "account": "required",
+      "dependencies": "MCNexus and per-plugin OpenKey association",
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/ciqueira/BaldavengerOFX#readme",
+        "checked_at": "2026-09-08",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/ciqueira/BaldavengerOFX/releases/tag/pd-latest",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://github.com/ciqueira/BaldavengerOFX",
+        "checked_at": "2026-09-08",
+        "note": "Windows x64 and macOS Intel/Apple Silicon; Metal on macOS, CUDA for Windows GPU plugins, CPU for selected tools. Distinct distribution of Paul Dore's suite."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "ciqueira/BaldavengerOFX",
+      "url": "https://github.com/ciqueira/BaldavengerOFX",
+      "kind": "stable-release",
+      "version": "pd-latest",
+      "source": "https://github.com/ciqueira/BaldavengerOFX/releases/tag/pd-latest",
+      "date": "2026-07-03T00:12:25Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2026-07-03T00:12:25Z",
+    "activityDate": "2026-07-20T19:57:30Z",
+    "stars": 1,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

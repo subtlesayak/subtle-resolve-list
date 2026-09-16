@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "enlightened-pickleball-scoreboard",
+    "name": "Enlightened-Pickleball-Scoreboard",
+    "creator": "captainch0mpy",
+    "url": "https://github.com/captainch0mpy/Enlightened-Pickleball-Scoreboard",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Fusion, motion graphics, visual effects, and package management",
+    "kind": "workflow-app",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "pickleball",
+      "scoreboard",
+      "sports",
+      "score",
+      "keyframes",
+      "titles",
+      "python"
+    ],
+    "description": "Fusion scoreboard assets and a Python scorekeeping panel for pickleball match edits, including keyframed score changes. Provider developed and tested on Windows; macOS/Linux paths are supplied without native tests. Python scripting requires Studio in Resolve 21.1.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "platformNotes": "Provider-documented distribution targets; no installation testing. See description for platform and host caveats.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "local",
+      "pricing": "free",
+      "account": "unknown",
+      "dependencies": "Python and Resolve scripting access; Studio required for Python in 21.1",
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/captainch0mpy/Enlightened-Pickleball-Scoreboard#readme",
+        "checked_at": "2026-09-15",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/captainch0mpy/Enlightened-Pickleball-Scoreboard/commit/202ac6b0fed79a8ff6c6a716df0c1f89ea50e0ef",
+        "checked_at": "2026-09-15T11:10:28.438Z",
+        "note": "Source revision, not a software release."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://github.com/captainch0mpy/Enlightened-Pickleball-Scoreboard#readme",
+        "checked_at": "2026-09-15",
+        "note": "Fusion scoreboard assets and a Python scorekeeping panel for pickleball match edits, including keyframed score changes. Provider developed and tested on Windows; macOS/Linux paths are supplied without native tests. Python scripting requires Studio in Resolve 21.1."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "captainch0mpy/Enlightened-Pickleball-Scoreboard",
+      "url": "https://github.com/captainch0mpy/Enlightened-Pickleball-Scoreboard",
+      "kind": "commit",
+      "version": "202ac6b0fed79a8ff6c6a716df0c1f89ea50e0ef",
+      "source": "https://github.com/captainch0mpy/Enlightened-Pickleball-Scoreboard/commit/202ac6b0fed79a8ff6c6a716df0c1f89ea50e0ef",
+      "date": "2026-09-12T04:40:59Z",
+      "checked_at": "2026-09-15T11:10:28.438Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2026-09-12T04:47:06Z",
+    "stars": 0,
+    "metadataChecked": "2026-09-15T11:10:28.438Z",
+    "history": []
+  }
+}

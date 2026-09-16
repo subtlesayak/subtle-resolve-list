@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "superpolygons",
+    "name": "SuperPolygons",
+    "creator": "Akascape",
+    "url": "https://akascape.gumroad.com/l/super-polygons-beta",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Effects and animation",
+    "kind": "other",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "fusion",
+      "low poly",
+      "tiles",
+      "triangulation",
+      "voronoi"
+    ],
+    "description": "Low-poly, triangulation, Voronoi, and tile effects inside Fusion. Resolve 17+ Free or Studio; suggested donations are optional.",
+    "access": "🆓 Free; store download",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "❔ Not established",
+    "requirements": {
+      "editions": [
+        "Free",
+        "Studio"
+      ],
+      "resolve": [
+        {
+          "min": "17"
+        }
+      ],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://akascape.gumroad.com/l/super-polygons-beta",
+        "checked_at": "2026-09-06T12:10:29.600Z",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "Resolve edition and version range",
+        "level": "documented",
+        "source": "https://akascape.gumroad.com/l/super-polygons-beta",
+        "checked_at": "2026-09-06T12:10:29.600Z",
+        "note": "Structured from the existing source-backed catalogue description; no new installation test: Low-poly, triangulation, Voronoi, and tile effects inside Fusion. Resolve 17+ Free or Studio; suggested donations are optional."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "SuperPolygons",
+      "url": "https://akascape.gumroad.com/l/super-polygons-beta",
+      "kind": "vendor-version",
+      "version": "0.3",
+      "source": "https://akascape.gumroad.com/l/super-polygons-beta",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-06T12:10:29.600Z"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

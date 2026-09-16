@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "resolve",
+    "name": "resolve",
+    "creator": "fat-tire",
+    "url": "https://github.com/fat-tire/resolve",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Linux installation, compatibility, and troubleshooting",
+    "kind": "workflow-app",
+    "tasks": [
+      "linux"
+    ],
+    "tags": [
+      "containers",
+      "installation",
+      "linux"
+    ],
+    "description": "Container scripts for building and running Resolve on Linux.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [
+      "Linux"
+    ],
+    "platformNotes": "Linux x86-64 with NVIDIA.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/fat-tire/resolve#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/fat-tire/resolve/commit/1c96f7c10caa810afc18311334541960a2a74207",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "fat-tire/resolve",
+      "url": "https://github.com/fat-tire/resolve",
+      "kind": "commit",
+      "version": "1c96f7c10caa810afc18311334541960a2a74207",
+      "source": "https://github.com/fat-tire/resolve/commit/1c96f7c10caa810afc18311334541960a2a74207",
+      "date": "2025-08-09T00:50:30Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2025-08-30T23:31:06Z",
+    "stars": 298,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

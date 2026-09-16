@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "yrgb-print-film-emulation-powergrades",
+    "name": "YRGB Print Film Emulation PowerGrades",
+    "creator": "Juan Melara",
+    "url": "https://juanmelara.com.au/products/davinci-yrgb-print-film-emulation-powergrades",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Community discoveries",
+    "kind": "powergrade",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "powergrade",
+      "kodak",
+      "2383",
+      "2393",
+      "fujifilm",
+      "3510",
+      "3513di",
+      "3521xd",
+      "250d",
+      "yrgb",
+      "print film"
+    ],
+    "description": "Editable Kodak 2383/2393 and Fujifilm 3510/3513DI/3521XD print-film PowerGrades for DaVinci YRGB. Includes separate purchase options combined with Kodak 250D negative emulation; successor to the bookmarked Kodak 2393 pack.",
+    "access": "💰 Paid",
+    "accessGroup": "paid",
+    "platforms": [],
+    "platformNotes": "❔ Not established",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "one-time",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "purpose and requirements",
+        "level": "documented",
+        "source": "https://juanmelara.com.au/products/davinci-yrgb-print-film-emulation-powergrades",
+        "checked_at": "2026-09-08",
+        "note": "Provider description reviewed; no catalogue installation testing. Unspecified compatibility remains unverified."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing",
+      "tool version"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "YRGB Print Film Emulation PowerGrades",
+      "url": "https://juanmelara.com.au/products/davinci-yrgb-print-film-emulation-powergrades",
+      "kind": "unverified",
+      "version": null,
+      "source": "https://juanmelara.com.au/products/davinci-yrgb-print-film-emulation-powergrades",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-08"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

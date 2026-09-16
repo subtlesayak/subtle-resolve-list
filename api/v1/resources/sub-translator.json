@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "sub-translator",
+    "name": "sub-translator",
+    "creator": "vkastrup",
+    "url": "https://github.com/vkastrup/sub-translator",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Subtitles, transcription, dialogue cleanup, and automatic editing",
+    "kind": "subtitle-tool",
+    "tasks": [
+      "captions"
+    ],
+    "tags": [
+      "subtitles",
+      "translation",
+      "llm",
+      "ollama",
+      "srt",
+      "multilingual"
+    ],
+    "description": "LLM subtitle translation from the command line or a Resolve Studio Workflow Integration. Supports multiple subtitle formats and cloud providers or local Ollama; review translated text before delivery.",
+    "access": "Public; provider costs vary",
+    "accessGroup": "public",
+    "platforms": [],
+    "platformNotes": "Resolve integration requires Studio. CLI output can be imported separately. Cloud providers need their own accounts/keys; local Ollama is separate.",
+    "requirements": {
+      "editions": [
+        "Studio"
+      ],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "hybrid",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": "Python and a supported LLM provider or local Ollama",
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/vkastrup/sub-translator/commit/130e3850b01a7840d739b60e10e5add7c2323dda",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://github.com/vkastrup/sub-translator",
+        "checked_at": "2026-09-08",
+        "note": "Resolve integration requires Studio. CLI output can be imported separately. Cloud providers need their own accounts/keys; local Ollama is separate."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve version",
+      "architecture"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "vkastrup/sub-translator",
+      "url": "https://github.com/vkastrup/sub-translator",
+      "kind": "commit",
+      "version": "130e3850b01a7840d739b60e10e5add7c2323dda",
+      "source": "https://github.com/vkastrup/sub-translator/commit/130e3850b01a7840d739b60e10e5add7c2323dda",
+      "date": "2026-07-22T13:25:09Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2026-07-22T13:29:06Z",
+    "stars": 0,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

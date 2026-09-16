@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "neat-video",
+    "name": "Neat Video",
+    "creator": "neatvideo.com",
+    "url": "https://www.neatvideo.com/",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Effects / Fusion",
+    "kind": "other",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "deflicker",
+      "denoise",
+      "noise reduction",
+      "restoration"
+    ],
+    "description": "Noise and flicker reduction with documented Resolve support. Select the matching host/version package and verify its OS/GPU requirements.",
+    "access": "Commercial plugin",
+    "accessGroup": "public",
+    "platforms": [],
+    "platformNotes": "❔ Confirm Resolve edition",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://www.neatvideo.com/download",
+        "checked_at": "2026-09-06T12:10:25.343Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Neat Video",
+      "url": "https://www.neatvideo.com/",
+      "kind": "vendor-version",
+      "version": "6.1.3",
+      "source": "https://www.neatvideo.com/download",
+      "date": "2026-05-26",
+      "date_kind": "release",
+      "checked_at": "2026-09-06T12:10:25.343Z"
+    },
+    "releaseDate": "2026-05-26",
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

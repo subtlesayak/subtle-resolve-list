@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "control-booster-opensourcecode",
+    "name": "Control-Booster-OpenSourceCode",
+    "creator": "FoxDanger",
+    "url": "https://github.com/FoxDanger/Control-Booster-OpenSourceCode",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Hardware, control surfaces, MIDI, and Speed Editor tools",
+    "kind": "control-surface",
+    "tasks": [
+      "hardware"
+    ],
+    "tags": [
+      "autohotkey",
+      "controller mapping",
+      "osc",
+      "tangent"
+    ],
+    "description": "Source release of the Control Booster OSC/Tangent mapping utility built with AutoHotkey.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [
+      "Windows"
+    ],
+    "platformNotes": "Windows implementation; macOS code is an early prototype.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/FoxDanger/Control-Booster-OpenSourceCode#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/FoxDanger/Control-Booster-OpenSourceCode/commit/5ceb600a79c6a3ef861106b710dc4fe1f2826aa9",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "FoxDanger/Control-Booster-OpenSourceCode",
+      "url": "https://github.com/FoxDanger/Control-Booster-OpenSourceCode",
+      "kind": "commit",
+      "version": "5ceb600a79c6a3ef861106b710dc4fe1f2826aa9",
+      "source": "https://github.com/FoxDanger/Control-Booster-OpenSourceCode/commit/5ceb600a79c6a3ef861106b710dc4fe1f2826aa9",
+      "date": "2024-06-18T15:11:26Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2024-06-18T15:11:27Z",
+    "stars": 8,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

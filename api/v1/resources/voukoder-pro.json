@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "voukoder-pro",
+    "name": "Voukoder Pro",
+    "creator": "voukoder.org",
+    "url": "https://www.voukoder.org/",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Encoding and delivery",
+    "kind": "encoder",
+    "tasks": [
+      "media"
+    ],
+    "tags": [
+      "connector",
+      "encoding",
+      "export",
+      "ffmpeg"
+    ],
+    "description": "FFmpeg-based encoding service with a Resolve Studio connector. The current connector matrix supports Windows x64 and macOS Apple Silicon beta; Windows ARM64 and Linux connectors remain in development. Current Pro licensing is paid despite older articles describing the predecessor as free.",
+    "access": "💳 Paid; trial available",
+    "accessGroup": "paid",
+    "platforms": [],
+    "platformNotes": "🪟 🍎",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://www.voukoder.org/forum/thread/783-downloads-instructions/",
+        "checked_at": "2026-09-06T12:10:22.020Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Voukoder Pro",
+      "url": "https://www.voukoder.org/",
+      "kind": "vendor-version",
+      "version": "Windows 3.2.2; macOS beta 3.2.4",
+      "source": "https://www.voukoder.org/forum/thread/783-downloads-instructions/",
+      "date": "2026-08-08",
+      "date_kind": "Windows download update",
+      "checked_at": "2026-09-06T12:10:22.020Z"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

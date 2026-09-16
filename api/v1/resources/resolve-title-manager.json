@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "resolve-title-manager",
+    "name": "resolve-title-manager",
+    "creator": "postflows",
+    "url": "https://github.com/postflows/resolve-title-manager",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Productivity scripts, workflow bridges, and integrations",
+    "kind": "fusion-macro",
+    "tasks": [
+      "workflow"
+    ],
+    "tags": [
+      "batch editing",
+      "macros",
+      "text plus",
+      "title styles"
+    ],
+    "description": "Copy selected Text+ styles and Fusion macro parameters across clips. Studio required; selected-clip sourcing needs 21.0.4+, with playhead fallback on older versions.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "platformNotes": "Windows;macOS",
+    "requirements": {
+      "editions": [
+        "Studio"
+      ],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/postflows/resolve-title-manager#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/postflows/resolve-title-manager/commit/950d30b55eea2bfdf764600fb4892a64a95279d6",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      },
+      {
+        "field": "Resolve edition",
+        "level": "documented",
+        "source": "https://github.com/postflows/resolve-title-manager#readme",
+        "checked_at": "2026-09-06",
+        "note": "Structured from the existing source-backed catalogue description; no new installation test: Copy selected Text+ styles and Fusion macro parameters across clips. Studio required; selected-clip sourcing needs 21.0.4+, with playhead fallback on older versions."
+      }
+    ],
+    "unknownFields": [
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "postflows/resolve-title-manager",
+      "url": "https://github.com/postflows/resolve-title-manager",
+      "kind": "commit",
+      "version": "950d30b55eea2bfdf764600fb4892a64a95279d6",
+      "source": "https://github.com/postflows/resolve-title-manager/commit/950d30b55eea2bfdf764600fb4892a64a95279d6",
+      "date": "2026-08-27T21:04:44Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2026-08-27T21:04:44Z",
+    "stars": 0,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

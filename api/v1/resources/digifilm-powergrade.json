@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "digifilm-powergrade",
+    "name": "DIGIFILM PowerGrade",
+    "creator": "Melior Studios",
+    "url": "https://meliorstudios.com/digifilm",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Community discoveries",
+    "kind": "powergrade",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "powergrade",
+      "digifilm",
+      "film emulation",
+      "16mm",
+      "35mm",
+      "halation",
+      "grain"
+    ],
+    "description": "Film-look PowerGrade collection with a modular look table, grading nodes and tutorials. Current header advertises 4.5; older 2.5/Resolve 19 wording remains elsewhere, so confirm current host requirements before purchase.",
+    "access": "💰 Paid",
+    "accessGroup": "paid",
+    "platforms": [],
+    "platformNotes": "❔ Not established",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "one-time",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://meliorstudios.com/digifilm",
+        "checked_at": "2026-09-08",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "purpose and requirements",
+        "level": "documented",
+        "source": "https://meliorstudios.com/digifilm",
+        "checked_at": "2026-09-08",
+        "note": "Provider description reviewed; no catalogue installation testing. Unspecified compatibility remains unverified."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "DIGIFILM PowerGrade",
+      "url": "https://meliorstudios.com/digifilm",
+      "kind": "vendor-version",
+      "version": "4.5",
+      "source": "https://meliorstudios.com/digifilm",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-08"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

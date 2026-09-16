@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "awesome-davinci-resolve",
+    "name": "awesome-davinci-resolve",
+    "creator": "Greenysmac",
+    "url": "https://github.com/Greenysmac/awesome-davinci-resolve",
+    "origin": "github",
+    "official": false,
+    "reference": true,
+    "category": "Directories covering free and commercial products",
+    "kind": "dctl",
+    "tasks": [
+      "learning"
+    ],
+    "tags": [
+      "awesome list",
+      "directory",
+      "plugins",
+      "resource discovery"
+    ],
+    "description": "Broad community directory spanning AI tools, audio, DCTLs, effects, templates, and workflows.",
+    "access": "Free/paid product directory",
+    "accessGroup": "mixed",
+    "platforms": [],
+    "platformNotes": "Reference",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/Greenysmac/awesome-davinci-resolve/commit/6cfd3d5d99d9603b6d6e77536225b461df7ea45c",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Greenysmac/awesome-davinci-resolve",
+      "url": "https://github.com/Greenysmac/awesome-davinci-resolve",
+      "kind": "commit",
+      "version": "6cfd3d5d99d9603b6d6e77536225b461df7ea45c",
+      "source": "https://github.com/Greenysmac/awesome-davinci-resolve/commit/6cfd3d5d99d9603b6d6e77536225b461df7ea45c",
+      "date": "2026-09-07T00:53:06Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2026-09-07T00:53:29Z",
+    "stars": 300,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

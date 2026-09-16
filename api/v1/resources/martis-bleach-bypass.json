@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "martis-bleach-bypass",
+    "name": "Martis-Bleach-Bypass",
+    "creator": "lakravana",
+    "url": "https://github.com/lakravana/Martis-Bleach-Bypass",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Color grading, DCTLs, film looks, and color science",
+    "kind": "dctl",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "bleach bypass",
+      "color grading",
+      "dctl",
+      "film"
+    ],
+    "description": "Bleach-bypass-style DCTL look.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [],
+    "platformNotes": "Unverified",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/lakravana/Martis-Bleach-Bypass/releases/tag/1.0",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "lakravana/Martis-Bleach-Bypass",
+      "url": "https://github.com/lakravana/Martis-Bleach-Bypass",
+      "kind": "stable-release",
+      "version": "1.0",
+      "source": "https://github.com/lakravana/Martis-Bleach-Bypass/releases/tag/1.0",
+      "date": "2026-04-21T10:13:36Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2026-04-21T10:13:36Z",
+    "activityDate": "2026-07-10T16:29:19Z",
+    "stars": 0,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

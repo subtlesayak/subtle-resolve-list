@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "retimer-and-retimer3d",
+    "name": "Retimer and Retimer3D",
+    "creator": "Jacob Danell",
+    "url": "https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.JacobDanell.Retimer/com.JacobDanell.Retimer.atom",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Community discoveries",
+    "kind": "reactor-package",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "retime",
+      "speed",
+      "time",
+      "3d",
+      "frames",
+      "interpolation",
+      "fuse"
+    ],
+    "description": "Retimes Fusion footage or 3D scenes by accumulating frame steps. Provides nearest, blend and existing-subframe modes; it does not generate new subframes. Manifest version 1.5 has a September 2026 package date, while its embedded 1.5 changelog is dated December 2023.",
+    "access": "📦 Public Reactor package; check package license",
+    "accessGroup": "paid",
+    "platforms": [],
+    "platformNotes": "❔ Not established",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.JacobDanell.Retimer/com.JacobDanell.Retimer.atom",
+        "checked_at": "2026-09-15",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.JacobDanell.Retimer/com.JacobDanell.Retimer.atom",
+        "checked_at": "2026-09-15",
+        "note": "Retimes Fusion footage or 3D scenes by accumulating frame steps. Provides nearest, blend and existing-subframe modes; it does not generate new subframes. Manifest version 1.5 has a September 2026 package date, while its embedded 1.5 changelog is dated December 2023."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Retimer and Retimer3D",
+      "url": "https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.JacobDanell.Retimer/com.JacobDanell.Retimer.atom",
+      "kind": "package-version",
+      "version": "1.5",
+      "source": "https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.JacobDanell.Retimer/com.JacobDanell.Retimer.atom",
+      "date": "2026-09-10",
+      "date_kind": "Reactor manifest date",
+      "checked_at": "2026-09-15"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

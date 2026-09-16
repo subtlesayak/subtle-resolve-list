@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "fusion-tools",
+    "name": "Fusion-tools",
+    "creator": "fabiof17",
+    "url": "https://github.com/fabiof17/Fusion-tools",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Fusion, motion graphics, visual effects, and package management",
+    "kind": "fusion-macro",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "color compression",
+      "color expansion",
+      "fusion",
+      "macros"
+    ],
+    "description": "Fusion macros including color compression and expansion helpers.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [],
+    "platformNotes": "OS support not established by the reviewed documentation.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/fabiof17/Fusion-tools/commit/c4a27b381603815537e672714c0e0a597cc13452",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "fabiof17/Fusion-tools",
+      "url": "https://github.com/fabiof17/Fusion-tools",
+      "kind": "commit",
+      "version": "c4a27b381603815537e672714c0e0a597cc13452",
+      "source": "https://github.com/fabiof17/Fusion-tools/commit/c4a27b381603815537e672714c0e0a597cc13452",
+      "date": "2020-12-09T09:04:03Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2020-12-09T09:04:10Z",
+    "stars": 15,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

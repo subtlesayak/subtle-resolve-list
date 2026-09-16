@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "super-style-transfer-fuse",
+    "name": "Super-Style-Transfer-Fuse",
+    "creator": "Akascape",
+    "url": "https://github.com/Akascape/Super-Style-Transfer-Fuse",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Fusion, motion graphics, visual effects, and package management",
+    "kind": "fuse",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "ai",
+      "artistic",
+      "fusion",
+      "neural",
+      "style transfer"
+    ],
+    "description": "Neural artistic style transfer inside Fusion.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "Unverified",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/Akascape/Super-Style-Transfer-Fuse/releases/tag/dist",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Akascape/Super-Style-Transfer-Fuse",
+      "url": "https://github.com/Akascape/Super-Style-Transfer-Fuse",
+      "kind": "stable-release",
+      "version": "dist",
+      "source": "https://github.com/Akascape/Super-Style-Transfer-Fuse/releases/tag/dist",
+      "date": "2026-08-23T07:37:56Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2026-08-23T07:37:56Z",
+    "activityDate": "2026-08-23T17:06:54Z",
+    "stars": 4,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

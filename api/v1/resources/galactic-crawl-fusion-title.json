@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "galactic-crawl-fusion-title",
+    "name": "galactic-crawl-fusion-title",
+    "creator": "pacoestrada",
+    "url": "https://github.com/pacoestrada/galactic-crawl-fusion-title",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Fusion, motion graphics, visual effects, and package management",
+    "kind": "fusion-macro",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "title",
+      "text",
+      "crawl",
+      "stars",
+      "space",
+      "perspective",
+      "drfx"
+    ],
+    "description": "Editable perspective text crawl with a star-field background, distributed as a Fusion title/DRFX package for Resolve 21 on Linux. Initial provider checks are limited; not every control, export format or platform has been validated.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [
+      "Linux"
+    ],
+    "platformNotes": "Provider-documented distribution targets; no installation testing. See description for platform and host caveats.",
+    "requirements": {
+      "editions": [],
+      "resolve": [
+        {
+          "min": "21",
+          "max": "21"
+        }
+      ],
+      "architectures": [],
+      "gpu": null,
+      "processing": "local",
+      "pricing": "free",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/pacoestrada/galactic-crawl-fusion-title#readme",
+        "checked_at": "2026-09-15",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/pacoestrada/galactic-crawl-fusion-title/releases/tag/v0.1.0",
+        "checked_at": "2026-09-15T11:10:28.438Z",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://github.com/pacoestrada/galactic-crawl-fusion-title#readme",
+        "checked_at": "2026-09-15",
+        "note": "Editable perspective text crawl with a star-field background, distributed as a Fusion title/DRFX package for Resolve 21 on Linux. Initial provider checks are limited; not every control, export format or platform has been validated."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "architecture"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "pacoestrada/galactic-crawl-fusion-title",
+      "url": "https://github.com/pacoestrada/galactic-crawl-fusion-title",
+      "kind": "stable-release",
+      "version": "v0.1.0",
+      "source": "https://github.com/pacoestrada/galactic-crawl-fusion-title/releases/tag/v0.1.0",
+      "date": "2026-09-08T12:05:48Z",
+      "checked_at": "2026-09-15T11:10:28.438Z"
+    },
+    "releaseDate": "2026-09-08T12:05:48Z",
+    "activityDate": "2026-09-08T12:05:48Z",
+    "stars": 1,
+    "metadataChecked": "2026-09-15T11:10:28.438Z",
+    "history": []
+  }
+}

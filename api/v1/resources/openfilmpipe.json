@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "openfilmpipe",
+    "name": "Openfilmpipe",
+    "creator": "lupoter",
+    "url": "https://github.com/lupoter/Openfilmpipe",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Color grading, DCTLs, film looks, and color science",
+    "kind": "powergrade",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "film",
+      "powergrade",
+      "2383",
+      "lut",
+      "dwg",
+      "rec709",
+      "print"
+    ],
+    "description": "Film-emulation PowerGrade with a DaVinci Wide Gamut to Rec.709 rendering workflow. Repository includes Open Film Pipe V1.3.drx and a 2383 LUT; connect the bundled LUT to the named node as documented. No published GitHub release or reuse license established.",
+    "access": "Free download; reuse license not established",
+    "accessGroup": "mixed",
+    "platforms": [],
+    "platformNotes": "Exact operating-system and Resolve edition compatibility are not established. Film-emulation PowerGrade with a DaVinci Wide Gamut to Rec.709 rendering workflow. Repository includes Open Film Pipe V1.3.drx and a 2383 LUT; connect the bundled LUT to the named node as documented. No published GitHub release or reuse license established.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "free",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/lupoter/Openfilmpipe/commit/6f6714f83829c75765db089cbac9353a65571db3",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://github.com/lupoter/Openfilmpipe",
+        "checked_at": "2026-09-08",
+        "note": "Film-emulation PowerGrade with a DaVinci Wide Gamut to Rec.709 rendering workflow. Repository includes Open Film Pipe V1.3.drx and a 2383 LUT; connect the bundled LUT to the named node as documented. No published GitHub release or reuse license established."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "lupoter/Openfilmpipe",
+      "url": "https://github.com/lupoter/Openfilmpipe",
+      "kind": "commit",
+      "version": "6f6714f83829c75765db089cbac9353a65571db3",
+      "source": "https://github.com/lupoter/Openfilmpipe/commit/6f6714f83829c75765db089cbac9353a65571db3",
+      "date": "2026-01-25T08:51:46Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2026-01-25T08:51:46Z",
+    "stars": 10,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

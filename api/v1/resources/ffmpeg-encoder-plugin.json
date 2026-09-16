@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "ffmpeg-encoder-plugin",
+    "name": "ffmpeg_encoder_plugin",
+    "creator": "EdvinNilsson",
+    "url": "https://github.com/EdvinNilsson/ffmpeg_encoder_plugin",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Encoding, codecs, proxy generation, rendering, and project servers",
+    "kind": "encoder",
+    "tasks": [
+      "media"
+    ],
+    "tags": [
+      "codec",
+      "encoding",
+      "export",
+      "ffmpeg"
+    ],
+    "description": "FFmpeg-powered export/encoding plugin for Resolve Studio.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "platformNotes": "Windows;macOS;Linux",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/EdvinNilsson/ffmpeg_encoder_plugin#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/EdvinNilsson/ffmpeg_encoder_plugin/releases/tag/v1.4.0",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "EdvinNilsson/ffmpeg_encoder_plugin",
+      "url": "https://github.com/EdvinNilsson/ffmpeg_encoder_plugin",
+      "kind": "stable-release",
+      "version": "v1.4.0",
+      "source": "https://github.com/EdvinNilsson/ffmpeg_encoder_plugin/releases/tag/v1.4.0",
+      "date": "2026-08-10T19:49:33Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2026-08-10T19:49:33Z",
+    "activityDate": "2026-08-10T19:49:33Z",
+    "stars": 234,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

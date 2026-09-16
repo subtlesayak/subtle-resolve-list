@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "fusionmatrix",
+    "name": "fusionmatrix",
+    "creator": "Spicy-Acorn",
+    "url": "https://github.com/Spicy-Acorn/fusionmatrix",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Fusion, motion graphics, visual effects, and package management",
+    "kind": "fuse",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "fuse",
+      "fusion",
+      "matrix math",
+      "nodes"
+    ],
+    "description": "Fusion matrix-math Fuse library; requires the separate lua-matrix dependency.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "OS support not established by the reviewed documentation.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/Spicy-Acorn/fusionmatrix/releases/tag/v0.4.0",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Spicy-Acorn/fusionmatrix",
+      "url": "https://github.com/Spicy-Acorn/fusionmatrix",
+      "kind": "stable-release",
+      "version": "v0.4.0",
+      "source": "https://github.com/Spicy-Acorn/fusionmatrix/releases/tag/v0.4.0",
+      "date": "2020-04-06T12:31:05Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2020-04-06T12:31:05Z",
+    "activityDate": "2020-04-06T12:31:05Z",
+    "stars": 7,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "dec18-plugin-manager",
+    "name": "Dec18-Plugin-Manager",
+    "creator": "Dec18studios",
+    "url": "https://github.com/Dec18studios/Dec18-Plugin-Manager",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Fusion, motion graphics, visual effects, and package management",
+    "kind": "workflow-app",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "backup",
+      "installation",
+      "plugin manager",
+      "updates"
+    ],
+    "description": "Plugin download/update manager with hash checks and backups. Individual plugins have separate licenses and may be paid.",
+    "access": "Mixed; plugin licenses separate",
+    "accessGroup": "mixed",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "platformNotes": "Windows;macOS;Linux",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/Dec18studios/Dec18-Plugin-Manager#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/Dec18studios/Dec18-Plugin-Manager/releases/tag/plugin-manager-v0.1.21",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Dec18studios/Dec18-Plugin-Manager",
+      "url": "https://github.com/Dec18studios/Dec18-Plugin-Manager",
+      "kind": "stable-release",
+      "version": "plugin-manager-v0.1.21",
+      "source": "https://github.com/Dec18studios/Dec18-Plugin-Manager/releases/tag/plugin-manager-v0.1.21",
+      "date": "2026-09-14T14:23:48Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2026-09-14T14:23:48Z",
+    "activityDate": "2026-09-14T19:33:52Z",
+    "stars": 6,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": [
+      {
+        "name": "Dec18studios/Dec18-Plugin-Manager",
+        "url": "https://github.com/Dec18studios/Dec18-Plugin-Manager",
+        "from": "plugin-manager-v0.1.20",
+        "to": "plugin-manager-v0.1.21",
+        "release": "v1.22",
+        "catalogue_date": "2026-09-15",
+        "upstream_date": "2026-09-14",
+        "source": "https://github.com/Dec18studios/Dec18-Plugin-Manager/releases/tag/plugin-manager-v0.1.21",
+        "summary": "Updates the plugin manager desktop release to 0.1.21.",
+        "changes": [
+          "Upstream directs users to desktop build artifacts; no detailed feature notes supplied."
+        ],
+        "changelogs": [
+          {
+            "label": "Full source changelog",
+            "url": "https://github.com/Dec18studios/Dec18-Plugin-Manager/releases/tag/plugin-manager-v0.1.21"
+          }
+        ]
+      }
+    ]
+  }
+}

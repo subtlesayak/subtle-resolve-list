@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "fairlight-sound-library-and-audio-guide",
+    "name": "Fairlight Sound Library and audio guide",
+    "creator": "Blackmagic Design",
+    "url": "https://documents.blackmagicdesign.com/UserManuals/DaVinciResolveFairlightAudioPost.pdf",
+    "origin": "external",
+    "official": true,
+    "reference": true,
+    "category": "Official Blackmagic Design resources",
+    "kind": "reference",
+    "tasks": [],
+    "tags": [
+      "audio library",
+      "fairlight",
+      "foley",
+      "sound effects",
+      "training"
+    ],
+    "description": "Official Resolve 20 audio guide explains downloading the Fairlight Sound Library from the Sound Library panel. Includes over 500 Foley sounds; project-use permission does not establish permission to redistribute the library.",
+    "access": "🆓 Library for use in projects; original terms apply",
+    "accessGroup": "public",
+    "platforms": [],
+    "platformNotes": "📖 Reference; library installation requirements vary",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing",
+      "tool version"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Fairlight Sound Library and audio guide",
+      "url": "https://documents.blackmagicdesign.com/UserManuals/DaVinciResolveFairlightAudioPost.pdf",
+      "kind": "unverified",
+      "version": null,
+      "source": "https://documents.blackmagicdesign.com/UserManuals/DaVinciResolveFairlightAudioPost.pdf",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-06"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

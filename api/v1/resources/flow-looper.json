@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "flow-looper",
+    "name": "Flow Looper",
+    "creator": "Tangenten",
+    "url": "https://tangenten.gumroad.com/l/FlowLooper",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Community discoveries",
+    "kind": "other",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "animation",
+      "background",
+      "flow",
+      "loop",
+      "moving texture"
+    ],
+    "description": "Animates still images with spline-defined flow corridors and cross-faded loops for moving textures and backgrounds. Requires Resolve 20+ Free or Studio, or Fusion Studio 20+.",
+    "access": "💰 Paid individual-seat license",
+    "accessGroup": "paid",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "platformNotes": "🪟 Windows · 🍎 macOS · 🐧 Linux",
+    "requirements": {
+      "editions": [
+        "Free",
+        "Studio"
+      ],
+      "resolve": [
+        {
+          "min": "20"
+        }
+      ],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://tangenten.gumroad.com/l/FlowLooper",
+        "checked_at": "2026-09-07",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://tangenten.gumroad.com/l/FlowLooper",
+        "checked_at": "2026-09-07",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://tangenten.gumroad.com/l/FlowLooper",
+        "checked_at": "2026-09-07",
+        "note": "Resolve 20+ Free/Studio or Fusion Studio 20+."
+      }
+    ],
+    "unknownFields": [
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Flow Looper",
+      "url": "https://tangenten.gumroad.com/l/FlowLooper",
+      "kind": "vendor-version",
+      "version": "1.1.0",
+      "source": "https://tangenten.gumroad.com/l/FlowLooper",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-07"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

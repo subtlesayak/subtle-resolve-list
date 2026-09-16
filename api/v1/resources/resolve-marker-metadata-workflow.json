@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "resolve-marker-metadata-workflow",
+    "name": "resolve-marker-metadata-workflow",
+    "creator": "postflows",
+    "url": "https://github.com/postflows/resolve-marker-metadata-workflow",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Productivity scripts, workflow bridges, and integrations",
+    "kind": "workflow-app",
+    "tasks": [
+      "workflow"
+    ],
+    "tags": [
+      "csv",
+      "feedback",
+      "html",
+      "markers",
+      "metadata",
+      "review"
+    ],
+    "description": "Export markers, clip metadata, and optional stills for CSV/HTML review; import feedback into marker notes/colors. Studio 20+.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "platformNotes": "Linux is untested; still capture requires upstream gallery-label settings.",
+    "requirements": {
+      "editions": [
+        "Studio"
+      ],
+      "resolve": [
+        {
+          "edition": "Studio",
+          "min": "20"
+        }
+      ],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/postflows/resolve-marker-metadata-workflow#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/postflows/resolve-marker-metadata-workflow/commit/22a19a72cb3ac7566126d53c2f4a1275063d82f4",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      },
+      {
+        "field": "Resolve edition and version range",
+        "level": "documented",
+        "source": "https://github.com/postflows/resolve-marker-metadata-workflow#readme",
+        "checked_at": "2026-09-06",
+        "note": "Structured from the existing source-backed catalogue description; no new installation test: Export markers, clip metadata, and optional stills for CSV/HTML review; import feedback into marker notes/colors. Studio 20+."
+      }
+    ],
+    "unknownFields": [
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "postflows/resolve-marker-metadata-workflow",
+      "url": "https://github.com/postflows/resolve-marker-metadata-workflow",
+      "kind": "commit",
+      "version": "22a19a72cb3ac7566126d53c2f4a1275063d82f4",
+      "source": "https://github.com/postflows/resolve-marker-metadata-workflow/commit/22a19a72cb3ac7566126d53c2f4a1275063d82f4",
+      "date": "2026-03-19T12:24:27Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2026-03-19T12:24:27Z",
+    "stars": 1,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

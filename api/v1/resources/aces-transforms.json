@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "aces-transforms",
+    "name": "aces-transforms",
+    "creator": "thatcherfreeman",
+    "url": "https://github.com/thatcherfreeman/aces-transforms",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Color grading, DCTLs, film looks, and color science",
+    "kind": "dctl",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "aces",
+      "color management",
+      "input transform",
+      "output transform"
+    ],
+    "description": "Custom ACES input and output transforms.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "platformNotes": "Windows;macOS",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/thatcherfreeman/aces-transforms#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/thatcherfreeman/aces-transforms/commit/50b385ae3b0dfe35e8179ed57960a690a3242525",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "thatcherfreeman/aces-transforms",
+      "url": "https://github.com/thatcherfreeman/aces-transforms",
+      "kind": "commit",
+      "version": "50b385ae3b0dfe35e8179ed57960a690a3242525",
+      "source": "https://github.com/thatcherfreeman/aces-transforms/commit/50b385ae3b0dfe35e8179ed57960a690a3242525",
+      "date": "2026-09-13T23:41:25Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2026-09-13T23:41:49Z",
+    "stars": 61,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": [
+      {
+        "name": "thatcherfreeman/aces-transforms",
+        "url": "https://github.com/thatcherfreeman/aces-transforms",
+        "from": "e72d6de9a7328005956e5fc597c8b603614ea309",
+        "to": "50b385ae3b0dfe35e8179ed57960a690a3242525",
+        "release": "v1.22",
+        "catalogue_date": "2026-09-15",
+        "upstream_date": "2026-09-13",
+        "source": "https://github.com/thatcherfreeman/aces-transforms/commit/50b385ae3b0dfe35e8179ed57960a690a3242525",
+        "summary": "Adds a linear-to-log DCTL header. This is a source revision, not a published release.",
+        "changes": [
+          "New linear-to-log header recorded from the latest upstream commit."
+        ],
+        "changelogs": [
+          {
+            "label": "Full source changelog",
+            "url": "https://github.com/thatcherfreeman/aces-transforms/commit/50b385ae3b0dfe35e8179ed57960a690a3242525"
+          }
+        ]
+      }
+    ]
+  }
+}

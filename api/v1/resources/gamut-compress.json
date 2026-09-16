@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "gamut-compress",
+    "name": "gamut-compress",
+    "creator": "jedypod",
+    "url": "https://github.com/jedypod/gamut-compress",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Color grading, DCTLs, film looks, and color science",
+    "kind": "dctl",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "color management",
+      "dctl",
+      "fusion",
+      "gamut compression"
+    ],
+    "description": "Out-of-gamut color handling; includes DCTL and Fusion implementations.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [],
+    "platformNotes": "Unverified",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/jedypod/gamut-compress/releases/tag/v0.7",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "jedypod/gamut-compress",
+      "url": "https://github.com/jedypod/gamut-compress",
+      "kind": "stable-release",
+      "version": "v0.7",
+      "source": "https://github.com/jedypod/gamut-compress/releases/tag/v0.7",
+      "date": "2021-04-11T20:44:35Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2021-04-11T20:44:35Z",
+    "activityDate": "2022-05-27T17:07:00Z",
+    "stars": 111,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

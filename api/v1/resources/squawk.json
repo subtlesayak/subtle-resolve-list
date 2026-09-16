@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "squawk",
+    "name": "squawk",
+    "creator": "in03",
+    "url": "https://github.com/in03/squawk",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Subtitles, transcription, dialogue cleanup, and automatic editing",
+    "kind": "subtitle-tool",
+    "tasks": [
+      "captions",
+      "workflow"
+    ],
+    "tags": [
+      "speech to text",
+      "subtitles",
+      "transcription",
+      "whisper"
+    ],
+    "description": "Archived Whisper subtitle integration that renders timeline audio, transcribes it, and imports subtitles. Resolve 18 only; no longer maintained.",
+    "access": "Free; archived",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "OS support not established by the reviewed documentation.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/in03/squawk/commit/038cb7155d8ebb96df7c73f5625428a016894b76",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "in03/squawk",
+      "url": "https://github.com/in03/squawk",
+      "kind": "commit",
+      "version": "038cb7155d8ebb96df7c73f5625428a016894b76",
+      "source": "https://github.com/in03/squawk/commit/038cb7155d8ebb96df7c73f5625428a016894b76",
+      "date": "2024-11-01T21:53:30Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2024-11-01T21:53:30Z",
+    "stars": 40,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

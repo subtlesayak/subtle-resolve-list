@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "dvr",
+    "name": "dvr",
+    "creator": "mhadifilms",
+    "url": "https://github.com/mhadifilms/dvr",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "AI assistants, MCP servers, and ComfyUI integrations",
+    "kind": "mcp-server",
+    "tasks": [
+      "workflow"
+    ],
+    "tags": [
+      "cli",
+      "mcp",
+      "python",
+      "automation",
+      "timeline",
+      "json",
+      "grading"
+    ],
+    "description": "CLI, Python client and MCP interface for Resolve projects, timelines, media and grading operations, with structured JSON output. Requires Resolve Studio 18.5+ and Python 3.10+. Any connected AI assistant has separate processing and access terms.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "platformNotes": "Provider-documented distribution targets; no installation testing. See description for platform and host caveats.",
+    "requirements": {
+      "editions": [
+        "Studio"
+      ],
+      "resolve": [
+        {
+          "min": "18.5"
+        }
+      ],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "free",
+      "account": "unknown",
+      "dependencies": "Python 3.10+ and Resolve Studio scripting API",
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/mhadifilms/dvr#readme",
+        "checked_at": "2026-09-15",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/mhadifilms/dvr/releases/tag/v1.6.4",
+        "checked_at": "2026-09-15T11:10:26.592Z",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://github.com/mhadifilms/dvr#readme",
+        "checked_at": "2026-09-15",
+        "note": "CLI, Python client and MCP interface for Resolve projects, timelines, media and grading operations, with structured JSON output. Requires Resolve Studio 18.5+ and Python 3.10+. Any connected AI assistant has separate processing and access terms."
+      }
+    ],
+    "unknownFields": [
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "mhadifilms/dvr",
+      "url": "https://github.com/mhadifilms/dvr",
+      "kind": "stable-release",
+      "version": "v1.6.4",
+      "source": "https://github.com/mhadifilms/dvr/releases/tag/v1.6.4",
+      "date": "2026-09-08T08:46:48Z",
+      "checked_at": "2026-09-15T11:10:26.592Z"
+    },
+    "releaseDate": "2026-09-08T08:46:48Z",
+    "activityDate": "2026-09-08T08:46:10Z",
+    "stars": 14,
+    "metadataChecked": "2026-09-15T11:10:26.592Z",
+    "history": []
+  }
+}

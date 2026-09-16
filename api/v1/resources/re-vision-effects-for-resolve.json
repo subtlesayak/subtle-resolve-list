@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "re-vision-effects-for-resolve",
+    "name": "RE:Vision Effects for Resolve",
+    "creator": "revisionfx.com",
+    "url": "https://revisionfx.com/products/for/resolve/",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Effects / Fusion",
+    "kind": "collection",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "deflicker",
+      "denoise",
+      "motion blur",
+      "retiming",
+      "slow motion"
+    ],
+    "description": "Resolve-specific product directory covering Twixtor retiming, ReelSmart Motion Blur, DEFlicker, DE:Noise, and other effects. Compatibility and licensing vary by product.",
+    "access": "Commercial products and bundles",
+    "accessGroup": "public",
+    "platforms": [],
+    "platformNotes": "❔ Per product",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing",
+      "tool version"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "RE:Vision Effects for Resolve",
+      "url": "https://revisionfx.com/products/for/resolve/",
+      "kind": "unverified",
+      "version": null,
+      "source": "https://revisionfx.com/products/for/resolve/",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-06T12:10:25.506Z"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

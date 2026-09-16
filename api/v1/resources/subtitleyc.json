@@ -1,0 +1,87 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "subtitleyc",
+    "name": "SubtitleYC",
+    "creator": "BambooYC123",
+    "url": "https://github.com/BambooYC123/SubtitleYC",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Subtitles, transcription, dialogue cleanup, and automatic editing",
+    "kind": "subtitle-tool",
+    "tasks": [
+      "captions"
+    ],
+    "tags": [
+      "subtitles",
+      "captions",
+      "ocr",
+      "burned in",
+      "srt",
+      "translation"
+    ],
+    "description": "Extracts burned-in subtitles with OCR, supports frame-accurate review and exports SRT, ASS or text. Standalone subtitle preparation utility; not a Resolve plugin.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows"
+    ],
+    "platformNotes": "Windows setup downloads FFmpeg and CPU OCR; NVIDIA GPU OCR is optional.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "local",
+      "pricing": "free",
+      "account": "unknown",
+      "dependencies": "FFmpeg and VideOCR/PaddleOCR installed by setup",
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/BambooYC123/SubtitleYC#readme",
+        "checked_at": "2026-09-08",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/BambooYC123/SubtitleYC/releases/tag/v0.6.0",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://github.com/BambooYC123/SubtitleYC",
+        "checked_at": "2026-09-08",
+        "note": "Windows setup downloads FFmpeg and CPU OCR; NVIDIA GPU OCR is optional."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "BambooYC123/SubtitleYC",
+      "url": "https://github.com/BambooYC123/SubtitleYC",
+      "kind": "stable-release",
+      "version": "v0.6.0",
+      "source": "https://github.com/BambooYC123/SubtitleYC/releases/tag/v0.6.0",
+      "date": "2026-09-06T14:23:23Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2026-09-06T14:23:23Z",
+    "activityDate": "2026-09-06T14:53:38Z",
+    "stars": 11,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

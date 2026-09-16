@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "davinci-linux-aac-codec",
+    "name": "davinci-linux-aac-codec",
+    "creator": "Toxblh",
+    "url": "https://github.com/Toxblh/davinci-linux-aac-codec",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Encoding, codecs, proxy generation, rendering, and project servers",
+    "kind": "encoder",
+    "tasks": [
+      "media"
+    ],
+    "tags": [
+      "aac",
+      "audio encoding",
+      "codec",
+      "linux"
+    ],
+    "description": "AAC encoding plugin for Resolve Studio on Linux.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [
+      "Linux"
+    ],
+    "platformNotes": "Linux",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/Toxblh/davinci-linux-aac-codec#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/Toxblh/davinci-linux-aac-codec/releases/tag/v1.0.1",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Toxblh/davinci-linux-aac-codec",
+      "url": "https://github.com/Toxblh/davinci-linux-aac-codec",
+      "kind": "stable-release",
+      "version": "v1.0.1",
+      "source": "https://github.com/Toxblh/davinci-linux-aac-codec/releases/tag/v1.0.1",
+      "date": "2025-08-13T00:19:02Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2025-08-13T00:19:02Z",
+    "activityDate": "2025-08-13T00:19:02Z",
+    "stars": 119,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "shitsukan-diffusion-kit",
+    "name": "shitsukan-diffusion-kit",
+    "creator": "50asa",
+    "url": "https://github.com/50asa/shitsukan-diffusion-kit",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Color grading, DCTLs, film looks, and color science",
+    "kind": "dctl",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "blur",
+      "dctl",
+      "diffusion",
+      "film",
+      "scene linear"
+    ],
+    "description": "Shitsukan multi-tap optical diffusion DCTL kit. Requires Resolve Studio and a scene-linear, four-tap blur node setup.",
+    "access": "Free; MIT stated upstream",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "platformNotes": "Windows;macOS;Linux",
+    "requirements": {
+      "editions": [
+        "Studio"
+      ],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/50asa/shitsukan-diffusion-kit#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/50asa/shitsukan-diffusion-kit/releases/tag/v1.0.2",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "Resolve edition",
+        "level": "documented",
+        "source": "https://github.com/50asa/shitsukan-diffusion-kit#readme",
+        "checked_at": "2026-09-06",
+        "note": "Structured from the existing source-backed catalogue description; no new installation test: Shitsukan multi-tap optical diffusion DCTL kit. Requires Resolve Studio and a scene-linear, four-tap blur node setup."
+      }
+    ],
+    "unknownFields": [
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "50asa/shitsukan-diffusion-kit",
+      "url": "https://github.com/50asa/shitsukan-diffusion-kit",
+      "kind": "stable-release",
+      "version": "v1.0.2",
+      "source": "https://github.com/50asa/shitsukan-diffusion-kit/releases/tag/v1.0.2",
+      "date": "2026-06-02T22:53:39Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2026-06-02T22:53:39Z",
+    "activityDate": "2026-06-02T22:53:39Z",
+    "stars": 9,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

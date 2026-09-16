@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "krokodove",
+    "name": "Krokodove",
+    "creator": "komkomdoorn.com",
+    "url": "https://www.komkomdoorn.com/krokodove/",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Fusion, animation, and effects",
+    "kind": "workflow-app",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "3d",
+      "compositing",
+      "data",
+      "fusion",
+      "nodes",
+      "vector"
+    ],
+    "description": "Collection of Fusion/Resolve 2D, 3D, vector, and data tools. Studio required. The published matrix is version-specific: 18.5–19 Windows; 17–18 Windows/macOS; Linux appears in older 8–9 builds. Do not read the icons as current all-platform support.",
+    "access": "📂 Public download; consult package terms",
+    "accessGroup": "public",
+    "platforms": [],
+    "platformNotes": "🪟 🍎 🐧",
+    "requirements": {
+      "editions": [
+        "Studio"
+      ],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://www.komkomdoorn.com/krokodove/",
+        "checked_at": "2026-09-06T12:10:19.547Z",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "Resolve edition",
+        "level": "documented",
+        "source": "https://www.komkomdoorn.com/krokodove/",
+        "checked_at": "2026-09-06T12:10:19.547Z",
+        "note": "Structured from the existing source-backed catalogue description; no new installation test: Collection of Fusion/Resolve 2D, 3D, vector, and data tools. Studio required. The published matrix is version-specific: 18.5–19 Windows; 17–18 Windows/macOS; Linux appears in older 8–9 builds. Do not read the icons as current all-platform support."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Krokodove",
+      "url": "https://www.komkomdoorn.com/krokodove/",
+      "kind": "vendor-version",
+      "version": "8.30",
+      "source": "https://www.komkomdoorn.com/krokodove/",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-06T12:10:19.547Z"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

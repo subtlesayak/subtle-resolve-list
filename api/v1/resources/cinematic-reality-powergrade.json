@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "cinematic-reality-powergrade",
+    "name": "Cinematic Reality Powergrade",
+    "creator": "illKoncept",
+    "url": "https://www.illkoncept.com/shop/powergrade",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Community discoveries",
+    "kind": "powergrade",
+    "tasks": [
+      "color",
+      "learning"
+    ],
+    "tags": [
+      "color",
+      "film",
+      "kodak",
+      "2383",
+      "powergrade",
+      "halation",
+      "bloom",
+      "grain",
+      "camera",
+      "log",
+      "tutorial"
+    ],
+    "description": "Native Resolve node workflow with camera conversions, Kodak 2383 print emulation, halation, bloom and grain, plus an installation tutorial. Designed for Studio; Free can open it but several effects do not work. No third-party plugins required.",
+    "access": "💰 Paid PowerGrade",
+    "accessGroup": "paid",
+    "platforms": [],
+    "platformNotes": "❓ Unverified",
+    "requirements": {
+      "editions": [
+        "Studio"
+      ],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "one-time",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://www.illkoncept.com/shop/powergrade",
+        "checked_at": "2026-09-08",
+        "note": "Creator recommends Studio. Free opens the PowerGrade with missing noise reduction, halation, grain, Film Look Creator and some Resolve FX. Studio is required for the full workflow; OS and exact Resolve version are unspecified."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve version",
+      "architecture",
+      "processing",
+      "tool version"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Cinematic Reality Powergrade",
+      "url": "https://www.illkoncept.com/shop/powergrade",
+      "kind": "unverified",
+      "version": null,
+      "source": "https://www.illkoncept.com/shop/powergrade",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-08"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

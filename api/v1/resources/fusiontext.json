@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "fusiontext",
+    "name": "fusiontext",
+    "creator": "Spicy-Acorn",
+    "url": "https://github.com/Spicy-Acorn/fusiontext",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Fusion, motion graphics, visual effects, and package management",
+    "kind": "fuse",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "fuse",
+      "fusion",
+      "strings",
+      "text formatting"
+    ],
+    "description": "Fusion Fuse nodes for string creation, joining, formatting, and length operations.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "OS support not established by the reviewed documentation.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/Spicy-Acorn/fusiontext/releases/tag/v0.9.0",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Spicy-Acorn/fusiontext",
+      "url": "https://github.com/Spicy-Acorn/fusiontext",
+      "kind": "stable-release",
+      "version": "v0.9.0",
+      "source": "https://github.com/Spicy-Acorn/fusiontext/releases/tag/v0.9.0",
+      "date": "2020-04-06T17:22:34Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2020-04-06T17:22:34Z",
+    "activityDate": "2021-03-10T22:29:53Z",
+    "stars": 11,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

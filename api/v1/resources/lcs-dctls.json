@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "lcs-dctls",
+    "name": "LCS-DCTLs",
+    "creator": "LCS-VSP",
+    "url": "https://github.com/LCS-VSP/LCS-DCTLs",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Color grading, DCTLs, film looks, and color science",
+    "kind": "dctl",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "color grading",
+      "color science",
+      "dctl"
+    ],
+    "description": "Creative color-science DCTL collection shared by LCS-VSP. Consult individual tools for working-space requirements.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [],
+    "platformNotes": "OS support not established by the reviewed documentation.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/LCS-VSP/LCS-DCTLs/commit/cb189652b4dc742543699ceb0f1f3b9a00589424",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "LCS-VSP/LCS-DCTLs",
+      "url": "https://github.com/LCS-VSP/LCS-DCTLs",
+      "kind": "commit",
+      "version": "cb189652b4dc742543699ceb0f1f3b9a00589424",
+      "source": "https://github.com/LCS-VSP/LCS-DCTLs/commit/cb189652b4dc742543699ceb0f1f3b9a00589424",
+      "date": "2023-11-26T14:05:38Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2023-11-26T14:05:38Z",
+    "stars": 23,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

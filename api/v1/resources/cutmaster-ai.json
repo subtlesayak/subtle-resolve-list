@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "cutmaster-ai",
+    "name": "cutmaster-ai",
+    "creator": "CelaviiHQ",
+    "url": "https://github.com/CelaviiHQ/cutmaster-ai",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "AI assistants, MCP servers, and ComfyUI integrations",
+    "kind": "mcp-server",
+    "tasks": [
+      "workflow",
+      "media"
+    ],
+    "tags": [
+      "ai",
+      "automation",
+      "mcp",
+      "workflow panel"
+    ],
+    "description": "MCP toolkit and Resolve workflow panel. The public toolkit is separate from the paid CutMaster Studio macOS app.",
+    "access": "Mixed",
+    "accessGroup": "mixed",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "platformNotes": "Public toolkit platforms; the separate paid Studio app is macOS-only.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/CelaviiHQ/cutmaster-ai#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/CelaviiHQ/cutmaster-ai/releases/tag/v0.6.0",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "CelaviiHQ/cutmaster-ai",
+      "url": "https://github.com/CelaviiHQ/cutmaster-ai",
+      "kind": "stable-release",
+      "version": "v0.6.0",
+      "source": "https://github.com/CelaviiHQ/cutmaster-ai/releases/tag/v0.6.0",
+      "date": "2026-05-26T21:04:28Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2026-05-26T21:04:28Z",
+    "activityDate": "2026-07-20T22:14:51Z",
+    "stars": 3,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

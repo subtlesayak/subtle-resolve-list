@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "speed-editor-client",
+    "name": "speed-editor-client",
+    "creator": "JamesBalazs",
+    "url": "https://github.com/JamesBalazs/speed-editor-client",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Hardware, control surfaces, MIDI, and Speed Editor tools",
+    "kind": "control-surface",
+    "tasks": [
+      "hardware"
+    ],
+    "tags": [
+      "controller",
+      "hid",
+      "speed editor",
+      "volume control"
+    ],
+    "description": "Go HID client for using the Speed Editor outside Resolve, with a volume-control example. Requires the physical controller.",
+    "access": "Free; hardware separate",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "platformNotes": "Windows;macOS;Linux",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/JamesBalazs/speed-editor-client#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/JamesBalazs/speed-editor-client/commit/4df5c366ddcdd41869b0a2bdcf4666beeb449c1b",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "JamesBalazs/speed-editor-client",
+      "url": "https://github.com/JamesBalazs/speed-editor-client",
+      "kind": "commit",
+      "version": "4df5c366ddcdd41869b0a2bdcf4666beeb449c1b",
+      "source": "https://github.com/JamesBalazs/speed-editor-client/commit/4df5c366ddcdd41869b0a2bdcf4666beeb449c1b",
+      "date": "2026-04-10T13:14:21Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2026-04-10T13:14:22Z",
+    "stars": 9,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

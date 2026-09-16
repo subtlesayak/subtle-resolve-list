@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "kodak-2383-powergrade",
+    "name": "Kodak 2383 PowerGrade",
+    "creator": "Juan Melara",
+    "url": "https://juanmelara.com.au/products/kodak-2383-powergrade",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Community discoveries",
+    "kind": "powergrade",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "powergrade",
+      "kodak",
+      "2383",
+      "print film",
+      "d65",
+      "d55"
+    ],
+    "description": "Legacy editable Kodak 2383 D65/D55 print-film emulation, offered pay-what-you-want with versions for Resolve 14, 15 and 16. The page links newer paid YRGB and RCM collections.",
+    "access": "Public; pay what you want, check checkout minimum",
+    "accessGroup": "public",
+    "platforms": [],
+    "platformNotes": "❔ Not established",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": "Import the supplied .dpx or .drx through the Resolve Gallery."
+    },
+    "evidence": [
+      {
+        "field": "purpose and requirements",
+        "level": "documented",
+        "source": "https://juanmelara.com.au/products/kodak-2383-powergrade",
+        "checked_at": "2026-09-08",
+        "note": "Provider description reviewed; no catalogue installation testing. Unspecified compatibility remains unverified."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing",
+      "tool version"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Kodak 2383 PowerGrade",
+      "url": "https://juanmelara.com.au/products/kodak-2383-powergrade",
+      "kind": "unverified",
+      "version": null,
+      "source": "https://juanmelara.com.au/products/kodak-2383-powergrade",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-08"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

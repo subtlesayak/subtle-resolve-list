@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "dehancer-pro",
+    "name": "Dehancer Pro",
+    "creator": "Dehancer",
+    "url": "https://www.dehancer.com/shop/davinci_resolve/pro",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Color and PowerGrades",
+    "kind": "powergrade",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "2383",
+      "3513",
+      "bloom",
+      "color grading",
+      "film",
+      "film emulation",
+      "fuji",
+      "grain",
+      "halation",
+      "kodak"
+    ],
+    "description": "Film-emulation OFX with grain, halation, bloom, and color-pipeline controls. Current page lists all three OSes; displayed Mac requirements are macOS 13+, Metal GPU, Resolve 19+.",
+    "access": "💳 Commercial; trial offered",
+    "accessGroup": "public",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "platformNotes": "🪟 Windows · 🍎 macOS · 🐧 Linux",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://www.dehancer.com/shop/davinci_resolve/pro",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://www.dehancer.com/shop/davinci_resolve/pro/versions",
+        "checked_at": "2026-09-06T12:10:31.945Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Dehancer Pro",
+      "url": "https://www.dehancer.com/shop/davinci_resolve/pro",
+      "kind": "vendor-version",
+      "version": "7.4.1",
+      "source": "https://www.dehancer.com/shop/davinci_resolve/pro/versions",
+      "date": "2026-06-30",
+      "date_kind": "release",
+      "checked_at": "2026-09-06T12:10:31.945Z"
+    },
+    "releaseDate": "2026-06-30",
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

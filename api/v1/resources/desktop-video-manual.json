@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "desktop-video-manual",
+    "name": "Desktop Video Manual",
+    "creator": "Blackmagic Design",
+    "url": "https://documents.blackmagicdesign.com/UserManuals/DesktopVideoManual.pdf",
+    "origin": "external",
+    "official": true,
+    "reference": true,
+    "category": "Official Blackmagic Design resources",
+    "kind": "workflow-app",
+    "tasks": [
+      "learning"
+    ],
+    "tags": [
+      "manual",
+      "decklink",
+      "ultrastudio",
+      "monitoring",
+      "capture"
+    ],
+    "description": "Installation and operation reference for DeckLink and UltraStudio capture/playback hardware used with Resolve monitoring workflows. Support listing dated 2026-04-08.",
+    "access": "🆓 Public reference; original terms apply",
+    "accessGroup": "public",
+    "platforms": [],
+    "platformNotes": "📖 Reference",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "free",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "reference scope",
+        "level": "documented",
+        "source": "https://documents.blackmagicdesign.com/UserManuals/DesktopVideoManual.pdf?_v=1775631610000",
+        "checked_at": "2026-09-08",
+        "note": "Official support feed title and description reviewed; destination returned successfully. Reference documentation, not installation testing or current software compatibility."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Desktop Video Manual",
+      "url": "https://documents.blackmagicdesign.com/UserManuals/DesktopVideoManual.pdf",
+      "kind": "not-applicable",
+      "version": null,
+      "source": "https://documents.blackmagicdesign.com/UserManuals/DesktopVideoManual.pdf?_v=1775631610000",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-08",
+      "note": "Reference with no numbered edition established from the support listing. The listing date is not a software release date."
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

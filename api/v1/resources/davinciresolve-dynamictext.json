@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "davinciresolve-dynamictext",
+    "name": "DaVinciResolve-DynamicText",
+    "creator": "IgorRidanovic",
+    "url": "https://github.com/IgorRidanovic/DaVinciResolve-DynamicText",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Productivity scripts, workflow bridges, and integrations",
+    "kind": "workflow-app",
+    "tasks": [
+      "workflow"
+    ],
+    "tags": [
+      "dynamic text",
+      "scripting",
+      "titles"
+    ],
+    "description": "Dynamic title/text scripting.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [],
+    "platformNotes": "Unverified",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/IgorRidanovic/DaVinciResolve-DynamicText/commit/28dd86bc156be6bafd97c4cd0686c2747905f676",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "IgorRidanovic/DaVinciResolve-DynamicText",
+      "url": "https://github.com/IgorRidanovic/DaVinciResolve-DynamicText",
+      "kind": "commit",
+      "version": "28dd86bc156be6bafd97c4cd0686c2747905f676",
+      "source": "https://github.com/IgorRidanovic/DaVinciResolve-DynamicText/commit/28dd86bc156be6bafd97c4cd0686c2747905f676",
+      "date": "2020-07-05T22:13:00Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2020-07-05T22:13:01Z",
+    "stars": 25,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

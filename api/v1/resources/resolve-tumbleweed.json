@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "resolve-tumbleweed",
+    "name": "resolve-tumbleweed",
+    "creator": "Chillsmeit",
+    "url": "https://github.com/Chillsmeit/resolve-tumbleweed",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Linux installation, compatibility, and troubleshooting",
+    "kind": "workflow-app",
+    "tasks": [
+      "linux"
+    ],
+    "tags": [
+      "installation",
+      "linux",
+      "opensuse",
+      "tumbleweed"
+    ],
+    "description": "openSUSE Tumbleweed fixes. Maintainer no longer uses that distribution.",
+    "access": "Free; maintenance caution",
+    "accessGroup": "free",
+    "platforms": [
+      "Linux"
+    ],
+    "platformNotes": "openSUSE Tumbleweed; maintainer no longer uses this distribution.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/Chillsmeit/resolve-tumbleweed#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/Chillsmeit/resolve-tumbleweed/commit/d12104a80d6879b4aa14db69438c9274cfb8b437",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Chillsmeit/resolve-tumbleweed",
+      "url": "https://github.com/Chillsmeit/resolve-tumbleweed",
+      "kind": "commit",
+      "version": "d12104a80d6879b4aa14db69438c9274cfb8b437",
+      "source": "https://github.com/Chillsmeit/resolve-tumbleweed/commit/d12104a80d6879b4aa14db69438c9274cfb8b437",
+      "date": "2026-08-03T06:27:34Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2026-08-03T06:27:34Z",
+    "stars": 20,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

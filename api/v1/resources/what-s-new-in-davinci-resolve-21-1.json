@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "what-s-new-in-davinci-resolve-21-1",
+    "name": "What’s New in DaVinci Resolve 21.1",
+    "creator": "Blackmagic Design",
+    "url": "https://player.vimeo.com/video/1224498809?dnt=1",
+    "origin": "external",
+    "official": true,
+    "reference": true,
+    "category": "Official Blackmagic Design resources",
+    "kind": "reference",
+    "tasks": [
+      "learning"
+    ],
+    "tags": [
+      "video",
+      "new features",
+      "resolve 21.1",
+      "photography",
+      "editing",
+      "color grading"
+    ],
+    "description": "Official overview video of Resolve 21.1 features, including AI assistant integration, expanded still photography tools and editing/color controls. Listed by Blackmagic support on September 8, 2026.",
+    "access": "🆓 Public video; original terms apply",
+    "accessGroup": "public",
+    "platforms": [],
+    "platformNotes": "📖 Reference",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "free",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://player.vimeo.com/video/1224498809?dnt=1",
+        "checked_at": "2026-09-08",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "official video",
+        "level": "documented",
+        "source": "https://www.blackmagicdesign.com/support/",
+        "checked_at": "2026-09-08",
+        "note": "Video URL and subject supplied by the official BMD support document feed. Vimeo returned 403 to the automated page request; playback has not been verified."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "What’s New in DaVinci Resolve 21.1",
+      "url": "https://player.vimeo.com/video/1224498809?dnt=1",
+      "kind": "reference-edition",
+      "version": "21.1",
+      "source": "https://player.vimeo.com/video/1224498809?dnt=1",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-08",
+      "note": "Video subject version, not an installer release."
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

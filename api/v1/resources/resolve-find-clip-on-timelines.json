@@ -1,0 +1,91 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "resolve-find-clip-on-timelines",
+    "name": "resolve-find-clip-on-timelines",
+    "creator": "postflows",
+    "url": "https://github.com/postflows/resolve-find-clip-on-timelines",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Productivity scripts, workflow bridges, and integrations",
+    "kind": "workflow-app",
+    "tasks": [
+      "workflow"
+    ],
+    "tags": [
+      "clip search",
+      "media pool",
+      "timeline search"
+    ],
+    "description": "Find a Media Pool clip across all project timelines and highlight matching instances. Resolve Studio 20+.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "platformNotes": "Windows;macOS",
+    "requirements": {
+      "editions": [
+        "Studio"
+      ],
+      "resolve": [
+        {
+          "edition": "Studio",
+          "min": "20"
+        }
+      ],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/postflows/resolve-find-clip-on-timelines#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/postflows/resolve-find-clip-on-timelines/commit/bf3ab8301dcd1553c3dded1686eab1ec971b3752",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      },
+      {
+        "field": "Resolve edition and version range",
+        "level": "documented",
+        "source": "https://github.com/postflows/resolve-find-clip-on-timelines#readme",
+        "checked_at": "2026-09-06",
+        "note": "Structured from the existing source-backed catalogue description; no new installation test: Find a Media Pool clip across all project timelines and highlight matching instances. Resolve Studio 20+."
+      }
+    ],
+    "unknownFields": [
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "postflows/resolve-find-clip-on-timelines",
+      "url": "https://github.com/postflows/resolve-find-clip-on-timelines",
+      "kind": "commit",
+      "version": "bf3ab8301dcd1553c3dded1686eab1ec971b3752",
+      "source": "https://github.com/postflows/resolve-find-clip-on-timelines/commit/bf3ab8301dcd1553c3dded1686eab1ec971b3752",
+      "date": "2026-03-11T17:59:14Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2026-03-11T17:59:15Z",
+    "stars": 0,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

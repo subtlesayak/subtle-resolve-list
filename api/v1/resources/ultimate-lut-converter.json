@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "ultimate-lut-converter",
+    "name": "Ultimate-LUT-Converter",
+    "creator": "NorthernPilgrim",
+    "url": "https://github.com/NorthernPilgrim/Ultimate-LUT-Converter",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Color grading, DCTLs, film looks, and color science",
+    "kind": "dctl",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "lut",
+      "cube",
+      "hald",
+      "png",
+      "obs",
+      "conversion",
+      "batch",
+      "browser"
+    ],
+    "description": "Standalone HTML utility converting CUBE LUTs to and from PNG HALD and OBS grids. Batch ZIP conversion preserves folder structure. Run in a browser alongside Resolve; Adobe XMP conversion is a future request, not an implemented feature. Release is named Lut Converter 1.0 with tag default; reuse license is not established.",
+    "access": "Free download; reuse license not established",
+    "accessGroup": "mixed",
+    "platforms": [],
+    "platformNotes": "Exact operating-system and Resolve edition compatibility are not established. Standalone HTML utility converting CUBE LUTs to and from PNG HALD and OBS grids. Batch ZIP conversion preserves folder structure. Run in a browser alongside Resolve; Adobe XMP conversion is a future request, not an implemented feature. Release is named Lut Converter 1.0 with tag default; reuse license is not established.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "local",
+      "pricing": "free",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/NorthernPilgrim/Ultimate-LUT-Converter/releases/tag/default",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://github.com/NorthernPilgrim/Ultimate-LUT-Converter",
+        "checked_at": "2026-09-08",
+        "note": "Standalone HTML utility converting CUBE LUTs to and from PNG HALD and OBS grids. Batch ZIP conversion preserves folder structure. Run in a browser alongside Resolve; Adobe XMP conversion is a future request, not an implemented feature. Release is named Lut Converter 1.0 with tag default; reuse license is not established."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "NorthernPilgrim/Ultimate-LUT-Converter",
+      "url": "https://github.com/NorthernPilgrim/Ultimate-LUT-Converter",
+      "kind": "stable-release",
+      "version": "default",
+      "source": "https://github.com/NorthernPilgrim/Ultimate-LUT-Converter/releases/tag/default",
+      "date": "2026-04-25T16:43:20Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2026-04-25T16:43:20Z",
+    "activityDate": "2026-04-25T16:50:24Z",
+    "stars": 1,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

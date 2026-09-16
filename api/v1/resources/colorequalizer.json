@@ -1,0 +1,103 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "colorequalizer",
+    "name": "ColorEqualizer",
+    "creator": "ciqueira",
+    "url": "https://github.com/ciqueira/ColorEqualizer",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Color grading, DCTLs, film looks, and color science",
+    "kind": "dctl",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "brightness",
+      "color grading",
+      "equalizer",
+      "hue",
+      "openfx",
+      "saturation"
+    ],
+    "description": "Ten-band hue, saturation, and brightness OpenFX equalizer inspired by darktable. Requires a free GitHub-linked activation key through MCNexus.",
+    "access": "Free; source-available, activation required",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "platformNotes": "Windows x64 and macOS Intel/Apple Silicon documented.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/ciqueira/ColorEqualizer#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/ciqueira/ColorEqualizer/releases/tag/eq-v0.6.1",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "ciqueira/ColorEqualizer",
+      "url": "https://github.com/ciqueira/ColorEqualizer",
+      "kind": "stable-release",
+      "version": "eq-v0.6.1",
+      "source": "https://github.com/ciqueira/ColorEqualizer/releases/tag/eq-v0.6.1",
+      "date": "2026-09-02T23:27:50Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2026-09-02T23:27:50Z",
+    "activityDate": "2026-09-14T18:55:21Z",
+    "stars": 9,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": [
+      {
+        "name": "ciqueira/ColorEqualizer",
+        "url": "https://github.com/ciqueira/ColorEqualizer",
+        "from": "eq-v0.1.0",
+        "to": "eq-v0.6.1",
+        "release": "v1.22",
+        "catalogue_date": "2026-09-15",
+        "upstream_date": "2026-09-02",
+        "source": "https://github.com/ciqueira/ColorEqualizer/releases/tag/eq-v0.6.1",
+        "summary": "Records the previously missed eq-v0.6.1 release. Upstream supplies only a brief SDK production note.",
+        "changes": [
+          "No detailed feature changelog was published with this release."
+        ],
+        "changelogs": [
+          {
+            "label": "Full source changelog",
+            "url": "https://github.com/ciqueira/ColorEqualizer/releases/tag/eq-v0.6.1"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "resolve-timeline-creator",
+    "name": "resolve-timeline-creator",
+    "creator": "postflows",
+    "url": "https://github.com/postflows/resolve-timeline-creator",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Productivity scripts, workflow bridges, and integrations",
+    "kind": "workflow-app",
+    "tasks": [
+      "workflow"
+    ],
+    "tags": [
+      "project setup",
+      "timecode",
+      "timeline presets",
+      "tracks"
+    ],
+    "description": "Create timelines from track-count, track-name, and start-timecode presets. Requires Resolve Studio.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "platformNotes": "Windows;macOS",
+    "requirements": {
+      "editions": [
+        "Studio"
+      ],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/postflows/resolve-timeline-creator#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/postflows/resolve-timeline-creator/commit/bd929e883a6f30f7034c27d009bb5fd024b8dde1",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      },
+      {
+        "field": "Resolve edition",
+        "level": "documented",
+        "source": "https://github.com/postflows/resolve-timeline-creator#readme",
+        "checked_at": "2026-09-06",
+        "note": "Structured from the existing source-backed catalogue description; no new installation test: Create timelines from track-count, track-name, and start-timecode presets. Requires Resolve Studio."
+      }
+    ],
+    "unknownFields": [
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "postflows/resolve-timeline-creator",
+      "url": "https://github.com/postflows/resolve-timeline-creator",
+      "kind": "commit",
+      "version": "bd929e883a6f30f7034c27d009bb5fd024b8dde1",
+      "source": "https://github.com/postflows/resolve-timeline-creator/commit/bd929e883a6f30f7034c27d009bb5fd024b8dde1",
+      "date": "2026-02-19T07:48:41Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2026-02-19T07:48:52Z",
+    "stars": 0,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

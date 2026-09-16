@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "fx3-ingest",
+    "name": "fx3-ingest",
+    "creator": "jpmontez",
+    "url": "https://github.com/jpmontez/fx3-ingest",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Encoding, codecs, proxy generation, rendering, and project servers",
+    "kind": "encoder",
+    "tasks": [
+      "media"
+    ],
+    "tags": [
+      "sony",
+      "fx3",
+      "ingest",
+      "offload",
+      "checksum",
+      "sha256",
+      "gyro",
+      "metadata"
+    ],
+    "description": "macOS Bash/ExifTool companion for Sony FX3 footage offload, date-based folders, SHA-256 verification and gyro-metadata checks. Prepares media for editing; it is not a Resolve plugin. Review its verification results before erasing any camera card.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [
+      "macOS"
+    ],
+    "platformNotes": "Provider-documented distribution targets; no installation testing. See description for platform and host caveats.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "local",
+      "pricing": "free",
+      "account": "unknown",
+      "dependencies": "Bash and ExifTool",
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/jpmontez/fx3-ingest#readme",
+        "checked_at": "2026-09-15",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/jpmontez/fx3-ingest/commit/56a8cb3a0fa130cb8e822d59d23b9e80e25f2a2f",
+        "checked_at": "2026-09-15T11:10:30.401Z",
+        "note": "Source revision, not a software release."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://github.com/jpmontez/fx3-ingest#readme",
+        "checked_at": "2026-09-15",
+        "note": "macOS Bash/ExifTool companion for Sony FX3 footage offload, date-based folders, SHA-256 verification and gyro-metadata checks. Prepares media for editing; it is not a Resolve plugin. Review its verification results before erasing any camera card."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "jpmontez/fx3-ingest",
+      "url": "https://github.com/jpmontez/fx3-ingest",
+      "kind": "commit",
+      "version": "56a8cb3a0fa130cb8e822d59d23b9e80e25f2a2f",
+      "source": "https://github.com/jpmontez/fx3-ingest/commit/56a8cb3a0fa130cb8e822d59d23b9e80e25f2a2f",
+      "date": "2026-09-08T20:47:53Z",
+      "checked_at": "2026-09-15T11:10:30.401Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2026-09-08T20:47:56Z",
+    "stars": 0,
+    "metadataChecked": "2026-09-15T11:10:30.401Z",
+    "history": []
+  }
+}

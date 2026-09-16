@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "autoresolvedeb",
+    "name": "autoresolvedeb",
+    "creator": "psygreg",
+    "url": "https://github.com/psygreg/autoresolvedeb",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Linux installation, compatibility, and troubleshooting",
+    "kind": "workflow-app",
+    "tasks": [
+      "linux"
+    ],
+    "tags": [
+      "deb",
+      "debian",
+      "installer",
+      "linux",
+      "repackaging"
+    ],
+    "description": "Automates downloading and repackaging Resolve through MakeResolveDeb.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [
+      "Linux"
+    ],
+    "platformNotes": "Linux",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/psygreg/autoresolvedeb#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/psygreg/autoresolvedeb/commit/7b403e1055c6db70ddd93aa18aa1d0433349957f",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "psygreg/autoresolvedeb",
+      "url": "https://github.com/psygreg/autoresolvedeb",
+      "kind": "commit",
+      "version": "7b403e1055c6db70ddd93aa18aa1d0433349957f",
+      "source": "https://github.com/psygreg/autoresolvedeb/commit/7b403e1055c6db70ddd93aa18aa1d0433349957f",
+      "date": "2026-09-11T16:21:02Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2026-09-11T16:21:05Z",
+    "stars": 30,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": [
+      {
+        "name": "psygreg/autoresolvedeb",
+        "url": "https://github.com/psygreg/autoresolvedeb",
+        "from": "7ce8250a78d4f5cd2f4dfd5fcca7221b568b9542",
+        "to": "7b403e1055c6db70ddd93aa18aa1d0433349957f",
+        "release": "v1.22",
+        "catalogue_date": "2026-09-15",
+        "upstream_date": "2026-09-11",
+        "source": "https://github.com/psygreg/autoresolvedeb/commit/7b403e1055c6db70ddd93aa18aa1d0433349957f",
+        "summary": "Adds an AUR PKGBUILD patch in the source revision.",
+        "changes": [
+          "Latest commit assembles a packaging patch; no new published software release."
+        ],
+        "changelogs": [
+          {
+            "label": "Full source changelog",
+            "url": "https://github.com/psygreg/autoresolvedeb/commit/7b403e1055c6db70ddd93aa18aa1d0433349957f"
+          }
+        ]
+      }
+    ]
+  }
+}

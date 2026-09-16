@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "asteroid-city-lut",
+    "name": "Asteroid City LUT",
+    "creator": "Veres Deni Alex",
+    "url": "https://www.veresdenialex.com/product-page/asteroid-city-lut-kodak-vision-200t",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Color / Film",
+    "kind": "lut",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "lut",
+      "asteroid city",
+      "kodak",
+      "vision 200t",
+      "sony",
+      "s-log3",
+      "rec709",
+      "film emulation"
+    ],
+    "description": "Kodak Vision 200T-inspired LUT variations for Sony S-Log3/S-Gamut3.Cine to Rec.709, with natural and vibrant teal-orange treatments.",
+    "access": "💰 Paid",
+    "accessGroup": "paid",
+    "platforms": [],
+    "platformNotes": "❔ Not established",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "one-time",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "purpose and requirements",
+        "level": "documented",
+        "source": "https://www.veresdenialex.com/product-page/asteroid-city-lut-kodak-vision-200t",
+        "checked_at": "2026-09-08",
+        "note": "Provider description reviewed; no catalogue installation testing. Unspecified compatibility remains unverified."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing",
+      "tool version"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Asteroid City LUT",
+      "url": "https://www.veresdenialex.com/product-page/asteroid-city-lut-kodak-vision-200t",
+      "kind": "unverified",
+      "version": null,
+      "source": "https://www.veresdenialex.com/product-page/asteroid-city-lut-kodak-vision-200t",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-08"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

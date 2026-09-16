@@ -1,0 +1,171 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "davinci-resolve-official-downloads",
+    "name": "DaVinci Resolve — official downloads",
+    "creator": "Blackmagic Design",
+    "url": "https://www.blackmagicdesign.com/products/davinciresolve",
+    "origin": "external",
+    "official": true,
+    "reference": false,
+    "category": "Official Blackmagic Design resources",
+    "kind": "workflow-app",
+    "tasks": [
+      "learning"
+    ],
+    "tags": [
+      "downloads",
+      "host application",
+      "official",
+      "video editor"
+    ],
+    "description": "Official Resolve and Studio 21.1 downloads, released September 8, 2026. Python/advanced scripting now requires Studio. Mac requires Apple Silicon and macOS 15+. Back up projects before upgrading; 21.1 projects cannot reopen in 20.3.2.",
+    "access": "🆓 Free edition; 💰 Studio license",
+    "accessGroup": "mixed",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "platformNotes": "🪟 Windows · 🍎 macOS · 🐧 Linux",
+    "requirements": {
+      "editions": [
+        "Free",
+        "Studio"
+      ],
+      "resolve": [
+        {
+          "min": "21.1",
+          "max": "21.1"
+        }
+      ],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://www.blackmagicdesign.com/support/readme/59dd4eef1f4941c29fb8dc48b33f5c87",
+        "checked_at": "2026-09-08",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://www.blackmagicdesign.com/support/readme/59dd4eef1f4941c29fb8dc48b33f5c87",
+        "checked_at": "2026-09-08",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://www.blackmagicdesign.com/support/readme/59dd4eef1f4941c29fb8dc48b33f5c87",
+        "checked_at": "2026-09-08",
+        "note": "Current host release; does not establish third-party plugin compatibility."
+      }
+    ],
+    "unknownFields": [
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "DaVinci Resolve — official downloads",
+      "url": "https://www.blackmagicdesign.com/products/davinciresolve",
+      "kind": "vendor-version",
+      "version": "21.1",
+      "source": "https://www.blackmagicdesign.com/support/readme/59dd4eef1f4941c29fb8dc48b33f5c87",
+      "date": "2026-09-08",
+      "date_kind": "release",
+      "checked_at": "2026-09-08",
+      "note": "Verified against official support feed and version-specific release notes."
+    },
+    "releaseDate": "2026-09-08",
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": [
+      {
+        "name": "DaVinci Resolve / Studio",
+        "url": "https://www.blackmagicdesign.com/products/davinciresolve",
+        "from": "21.0.4",
+        "to": "21.1",
+        "release": "v1.15",
+        "catalogue_date": "2026-09-08",
+        "upstream_date": "2026-09-08",
+        "source": "https://www.blackmagicdesign.com/support/readme/59dd4eef1f4941c29fb8dc48b33f5c87",
+        "summary": "Media: editable pool fields, recursive/exact searches, geometry previews, timecode and marker batch edits, multicam dates and audio-track controls.",
+        "changes": [
+          "Media: editable pool fields, recursive/exact searches, geometry previews, timecode and marker batch edits, multicam dates and audio-track controls.",
+          "Photo: panel-driven RAW settings, sharpening and sidebar improvements, DNG lens corrections, sky replacement and live-view shortcuts.",
+          "Editing: inspector presets, expanded multicam controls, timeline comparison, richer markers, waveform display, trim and gap operations, adjustment-clip transitions, backup and playback refinements.",
+          "Fusion: Krokodove shapes/3D, OpenPBR materials, MultiText and OGraf controls, DRFX macro editing, tracking import, blend/alpha improvements and metadata variables.",
+          "Color: LUT/DCTL relinking, missing-DCTL overlays, additional camera transforms, panel controls and effect scaling.",
+          "General: newer hardware/media decoding, HTJ2K EXR output, caption exports, media-management reporting, archive options and PostgreSQL 18 Project Server.",
+          "Compatibility: Python/advanced scripting now needs Studio; projects opened in 21.1 cannot reopen in 20.3.2. Apple Silicon and macOS 15 are required on Mac.",
+          "Studio additionally brings native MCP/AI integration, expanded Python APIs, MultiMaster trims, deep rendering improvements, extra RAW formats and effects. Read the separate full edition notes for every change and requirement."
+        ],
+        "changelogs": [
+          {
+            "label": "Resolve Free 21.1 full official changelog",
+            "url": "https://www.blackmagicdesign.com/support/readme/59dd4eef1f4941c29fb8dc48b33f5c87"
+          },
+          {
+            "label": "Resolve Studio 21.1 full official changelog",
+            "url": "https://www.blackmagicdesign.com/support/readme/baf7c071c0524fbf8ccc961925c9f443"
+          }
+        ]
+      },
+      {
+        "name": "DaVinci Resolve / Studio",
+        "url": "https://www.blackmagicdesign.com/products/davinciresolve",
+        "from": "21 (advertised product family)",
+        "to": "21.0.4",
+        "release": "v1.14",
+        "catalogue_date": "2026-09-07",
+        "upstream_date": "2026-08-05",
+        "source": "https://www.blackmagicdesign.com/api/support/us/downloads.json",
+        "summary": "Exact patch identified; proxy relinking, X-OCN formats and timeline scripting updates.",
+        "changelogs": [
+          {
+            "label": "Resolve Free 21.0.4 — full official changelog",
+            "url": "https://www.blackmagicdesign.com/support/readme/f1b3986a11634684b538ff3d1d4b55d6"
+          },
+          {
+            "label": "Resolve Studio 21.0.4 — full official changelog",
+            "url": "https://www.blackmagicdesign.com/support/readme/5e8ed1f827564634984496004809d558"
+          }
+        ],
+        "changes": [
+          "Proxy relinking now accepts mismatched formats.",
+          "Imported DRTs reconnect to matching nested clips already present.",
+          "Color-page filtering keeps the selected clip visible.",
+          "Older Affinity formats can be imported.",
+          "Sony FX-5 footage encoded as X-OCN is supported.",
+          "Scripts can retrieve the selected timeline clips.",
+          "Scripts can obtain a timeline object through its Media Pool entry.",
+          "Render-setting scripts gain controls for handles, extents and burn-ins.",
+          "Cached large timelines receive real-time playback fixes.",
+          "Media Pool Power Bin navigation is corrected.",
+          "Media management handles segment-clip suffixes correctly.",
+          "Edit Index sorting is corrected.",
+          "Pasting timecode no longer triggers the reported source-viewer audio problem.",
+          "Several speed-curve retiming problems are corrected.",
+          "Windows Fusion templates handle long paths correctly.",
+          "Burn-ins regain the missing marker-notes tag.",
+          "Decoding is corrected for affected DPX files.",
+          "Decoding is corrected for affected CR2 images.",
+          "Free-edition notes additionally report a Windows software H.264 decoding fix.",
+          "Additional reliability and speed improvements."
+        ]
+      }
+    ]
+  }
+}

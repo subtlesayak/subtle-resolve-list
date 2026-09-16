@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "davinci-resolve-cli",
+    "name": "davinci-resolve-cli",
+    "creator": "Poechant",
+    "url": "https://github.com/Poechant/davinci-resolve-cli",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Productivity scripts, workflow bridges, and integrations",
+    "kind": "workflow-app",
+    "tasks": [
+      "workflow"
+    ],
+    "tags": [
+      "automation",
+      "cli",
+      "project management",
+      "rendering",
+      "timeline"
+    ],
+    "description": "Command-line control of Resolve projects, media, timelines, and rendering. Resolve 18+; Studio recommended.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "platformNotes": "macOS is the primary verified environment; Windows/Linux real-Resolve smoke tests remain pending; Linux needs Studio.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/Poechant/davinci-resolve-cli#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/Poechant/davinci-resolve-cli/releases/tag/v0.3.0",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Poechant/davinci-resolve-cli",
+      "url": "https://github.com/Poechant/davinci-resolve-cli",
+      "kind": "stable-release",
+      "version": "v0.3.0",
+      "source": "https://github.com/Poechant/davinci-resolve-cli/releases/tag/v0.3.0",
+      "date": "2026-06-03T06:56:46Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2026-06-03T06:56:46Z",
+    "activityDate": "2026-05-22T03:59:59Z",
+    "stars": 52,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

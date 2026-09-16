@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "red-giant-tools-for-resolve",
+    "name": "Red Giant tools for Resolve",
+    "creator": "Maxon",
+    "url": "https://www.maxon.net/en/red-giant",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Community discoveries",
+    "kind": "collection",
+    "tasks": [],
+    "tags": [
+      "color grading",
+      "plugins",
+      "universe",
+      "visual effects"
+    ],
+    "description": "Effects and color tools, including supported Universe effects. The current host table lists Resolve 19 and 20; support is per effect, so After Effects-only tools in the wider suite are excluded from the Resolve claim.",
+    "access": "💰 Paid subscription",
+    "accessGroup": "paid",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "platformNotes": "🪟 Windows · 🍎 macOS",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://support.maxon.net/hc/en-us/articles/13764887933596-Red-Giant-2026-5-1-August-12-2026",
+        "checked_at": "2026-09-07",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://support.maxon.net/hc/en-us/articles/13764887933596-Red-Giant-2026-5-1-August-12-2026",
+        "checked_at": "2026-09-07",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Red Giant tools for Resolve",
+      "url": "https://www.maxon.net/en/red-giant",
+      "kind": "vendor-version",
+      "version": "2026.5.1",
+      "source": "https://support.maxon.net/hc/en-us/articles/13764887933596-Red-Giant-2026-5-1-August-12-2026",
+      "date": "2026-08-12",
+      "date_kind": "release",
+      "checked_at": "2026-09-07"
+    },
+    "releaseDate": "2026-08-12",
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

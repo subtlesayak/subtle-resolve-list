@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "pysion",
+    "name": "pysion",
+    "creator": "brunocbreis",
+    "url": "https://github.com/brunocbreis/pysion",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Developer libraries and scripting references",
+    "kind": "workflow-app",
+    "tasks": [
+      "workflow",
+      "development",
+      "learning"
+    ],
+    "tags": [
+      "composition generation",
+      "fusion",
+      "procedural",
+      "python"
+    ],
+    "description": "Python framework for generating Fusion compositions from dictionaries and reusable constructs.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "OS support not established by the reviewed documentation.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/brunocbreis/pysion/releases/tag/v0.1.2",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "brunocbreis/pysion",
+      "url": "https://github.com/brunocbreis/pysion",
+      "kind": "stable-release",
+      "version": "v0.1.2",
+      "source": "https://github.com/brunocbreis/pysion/releases/tag/v0.1.2",
+      "date": "2023-02-21T21:44:50Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2023-02-21T21:44:50Z",
+    "activityDate": "2023-09-18T14:19:50Z",
+    "stars": 26,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

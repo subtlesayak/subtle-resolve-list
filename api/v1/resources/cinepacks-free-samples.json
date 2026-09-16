@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "cinepacks-free-samples",
+    "name": "CinePacks free samples",
+    "creator": "CinePacks",
+    "url": "https://cinepacks.store/collections/free-packs",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Community discoveries",
+    "kind": "collection",
+    "tasks": [],
+    "tags": [
+      "assets",
+      "lut",
+      "overlays",
+      "sound effects",
+      "textures"
+    ],
+    "description": "Free sample collections of overlays, textures, LUTs and sound effects for editing. These are media assets rather than a shared Resolve plugin; check each pack’s format and usage terms.",
+    "access": "🆓 Sample packs; 💰 Full collections",
+    "accessGroup": "public",
+    "platforms": [],
+    "platformNotes": "❔ Check individual asset formats",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "CinePacks free samples",
+      "url": "https://cinepacks.store/collections/free-packs",
+      "kind": "not-applicable",
+      "version": null,
+      "source": "https://cinepacks.store/collections/free-packs",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-07",
+      "note": "Reference or collection with no single software release version."
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

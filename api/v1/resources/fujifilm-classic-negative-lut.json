@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "fujifilm-classic-negative-lut",
+    "name": "Fujifilm Classic Negative LUT",
+    "creator": "Veres Deni Alex",
+    "url": "https://www.veresdenialex.com/product-page/classic-negative-lut",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Color / Film",
+    "kind": "lut",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "lut",
+      "fujifilm",
+      "classic negative",
+      "log",
+      "rec709",
+      "film emulation"
+    ],
+    "description": "Creative .cube LUT for supported camera log footage, combining Rec.709 conversion with a Classic Negative-inspired look. Follow the listed camera-profile and white-balance setup.",
+    "access": "💰 Paid",
+    "accessGroup": "paid",
+    "platforms": [],
+    "platformNotes": "❔ Not established",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "one-time",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "purpose and requirements",
+        "level": "documented",
+        "source": "https://www.veresdenialex.com/product-page/classic-negative-lut",
+        "checked_at": "2026-09-08",
+        "note": "Provider description reviewed; no catalogue installation testing. Unspecified compatibility remains unverified."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing",
+      "tool version"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Fujifilm Classic Negative LUT",
+      "url": "https://www.veresdenialex.com/product-page/classic-negative-lut",
+      "kind": "unverified",
+      "version": null,
+      "source": "https://www.veresdenialex.com/product-page/classic-negative-lut",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-08"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

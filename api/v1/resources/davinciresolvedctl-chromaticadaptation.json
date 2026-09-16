@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "davinciresolvedctl-chromaticadaptation",
+    "name": "DavinciResolveDCTL_ChromaticAdaptation",
+    "creator": "OwenYou",
+    "url": "https://github.com/OwenYou/DavinciResolveDCTL_ChromaticAdaptation",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Color grading, DCTLs, film looks, and color science",
+    "kind": "dctl",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "chromatic adaptation",
+      "color science",
+      "dctl",
+      "white balance"
+    ],
+    "description": "Chromatic-adaptation DCTL. Upstream testing covers Resolve 15; current-version compatibility unverified.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "OS support not established by the reviewed documentation.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/OwenYou/DavinciResolveDCTL_ChromaticAdaptation/commit/8cf962cd4b1606e5ad65e12ce310bb8eec5a645f",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "OwenYou/DavinciResolveDCTL_ChromaticAdaptation",
+      "url": "https://github.com/OwenYou/DavinciResolveDCTL_ChromaticAdaptation",
+      "kind": "commit",
+      "version": "8cf962cd4b1606e5ad65e12ce310bb8eec5a645f",
+      "source": "https://github.com/OwenYou/DavinciResolveDCTL_ChromaticAdaptation/commit/8cf962cd4b1606e5ad65e12ce310bb8eec5a645f",
+      "date": "2023-11-05T18:41:13Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2023-11-05T18:41:13Z",
+    "stars": 9,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

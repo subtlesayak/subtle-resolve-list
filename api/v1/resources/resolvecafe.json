@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "resolvecafe",
+    "name": "ResolveCafe",
+    "creator": "CommandPost",
+    "url": "https://github.com/CommandPost/ResolveCafe",
+    "origin": "github",
+    "official": false,
+    "reference": true,
+    "category": "Directories covering free and commercial products",
+    "kind": "collection",
+    "tasks": [
+      "learning"
+    ],
+    "tags": [
+      "archive",
+      "community",
+      "developer resources",
+      "reference"
+    ],
+    "description": "Community references, developer material, and website source. Archived in May 2025.",
+    "access": "Free reference; archived",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "Reference",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/CommandPost/ResolveCafe/commit/61e0f8d1d3564a6f9a6ebb1d93be7c2bb0f843ad",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "CommandPost/ResolveCafe",
+      "url": "https://github.com/CommandPost/ResolveCafe",
+      "kind": "commit",
+      "version": "61e0f8d1d3564a6f9a6ebb1d93be7c2bb0f843ad",
+      "source": "https://github.com/CommandPost/ResolveCafe/commit/61e0f8d1d3564a6f9a6ebb1d93be7c2bb0f843ad",
+      "date": "2024-05-23T18:27:49Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2024-05-23T18:28:26Z",
+    "stars": 20,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

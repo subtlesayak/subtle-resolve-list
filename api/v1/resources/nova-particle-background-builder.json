@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "nova-particle-background-builder",
+    "name": "Nova Particle Background Builder",
+    "creator": "Learn Now FX",
+    "url": "https://davidkohen.gumroad.com/l/Fusion-Nova",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Community discoveries",
+    "kind": "fuse",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "particles",
+      "background",
+      "procedural",
+      "gpu",
+      "abstract",
+      "fuse"
+    ],
+    "description": "Procedural Fusion particle-background Fuse with GPU acceleration through Metal, CUDA or OpenCL. Creator lists Resolve/Fusion 15+ and Free support, but the Lua installer may be affected by later Studio-only UIManager restrictions. Current-version installation and OS compatibility are not verified.",
+    "access": "🆓 Free / pay what you want",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "❔ Not established",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": "Metal, CUDA or OpenCL",
+      "processing": "local",
+      "pricing": "free",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://davidkohen.gumroad.com/l/Fusion-Nova",
+        "checked_at": "2026-09-15",
+        "note": "Procedural Fusion particle-background Fuse with GPU acceleration through Metal, CUDA or OpenCL. Creator lists Resolve/Fusion 15+ and Free support, but the Lua installer may be affected by later Studio-only UIManager restrictions. Current-version installation and OS compatibility are not verified."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "tool version"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Nova Particle Background Builder",
+      "url": "https://davidkohen.gumroad.com/l/Fusion-Nova",
+      "kind": "unverified",
+      "version": null,
+      "source": "https://davidkohen.gumroad.com/l/Fusion-Nova",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-15"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

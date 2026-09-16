@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "dctls-4",
+    "name": "DCTLS",
+    "creator": "jai-panjwani",
+    "url": "https://github.com/jai-panjwani/DCTLS",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Color grading, DCTLs, film looks, and color science",
+    "kind": "dctl",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "color grading",
+      "dctl",
+      "scripts"
+    ],
+    "description": "Additional Resolve DCTL scripts.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [],
+    "platformNotes": "Unverified",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/jai-panjwani/DCTLS/commit/5a9834144b96fca8bc6b3c8f0d4fd71ebfabe4ef",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "jai-panjwani/DCTLS",
+      "url": "https://github.com/jai-panjwani/DCTLS",
+      "kind": "commit",
+      "version": "5a9834144b96fca8bc6b3c8f0d4fd71ebfabe4ef",
+      "source": "https://github.com/jai-panjwani/DCTLS/commit/5a9834144b96fca8bc6b3c8f0d4fd71ebfabe4ef",
+      "date": "2024-10-05T06:39:52Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2024-10-05T06:39:53Z",
+    "stars": 23,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

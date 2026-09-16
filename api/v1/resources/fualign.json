@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "fualign",
+    "name": "FuAlign",
+    "creator": "brunocbreis",
+    "url": "https://github.com/brunocbreis/FuAlign",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Fusion, motion graphics, visual effects, and package management",
+    "kind": "other",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "alignment",
+      "distribution",
+      "fusion",
+      "layout"
+    ],
+    "description": "Align and distribute visual elements in Fusion compositions.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "platformNotes": "Windows;macOS",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/brunocbreis/FuAlign#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/brunocbreis/FuAlign/releases/tag/v0.2",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "brunocbreis/FuAlign",
+      "url": "https://github.com/brunocbreis/FuAlign",
+      "kind": "stable-release",
+      "version": "v0.2",
+      "source": "https://github.com/brunocbreis/FuAlign/releases/tag/v0.2",
+      "date": "2022-08-22T20:16:51Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2022-08-22T20:16:51Z",
+    "activityDate": "2022-08-22T20:18:15Z",
+    "stars": 33,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

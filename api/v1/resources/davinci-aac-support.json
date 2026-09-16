@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "davinci-aac-support",
+    "name": "davinci-aac-support",
+    "creator": "broskisworld",
+    "url": "https://github.com/broskisworld/davinci-aac-support",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Linux installation, compatibility, and troubleshooting",
+    "kind": "encoder",
+    "tasks": [
+      "media"
+    ],
+    "tags": [
+      "aac",
+      "pcm",
+      "linux",
+      "ffmpeg",
+      "relink",
+      "audio",
+      "watch folder"
+    ],
+    "description": "Linux background watcher that detects imported AAC media, converts audio to PCM with FFmpeg and relinks clips through Resolve scripting. Leaves compatible video streams unchanged. Requires Python 3, FFmpeg/ffprobe and a systemd user service. Creator claims Free/Studio support; Resolve 21.1 scripting restrictions require a separate compatibility check.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [
+      "Linux"
+    ],
+    "platformNotes": "Provider-documented distribution targets; no installation testing. See description for platform and host caveats.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "local",
+      "pricing": "free",
+      "account": "unknown",
+      "dependencies": "Python 3, FFmpeg/ffprobe, systemd user service and Resolve scripting access",
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/broskisworld/davinci-aac-support#readme",
+        "checked_at": "2026-09-15",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/broskisworld/davinci-aac-support/commit/454deca4d1597851d5a7292c166fbe55a9e221e5",
+        "checked_at": "2026-09-15T11:10:28.438Z",
+        "note": "Source revision, not a software release."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://github.com/broskisworld/davinci-aac-support#readme",
+        "checked_at": "2026-09-15",
+        "note": "Linux background watcher that detects imported AAC media, converts audio to PCM with FFmpeg and relinks clips through Resolve scripting. Leaves compatible video streams unchanged. Requires Python 3, FFmpeg/ffprobe and a systemd user service. Creator claims Free/Studio support; Resolve 21.1 scripting restrictions require a separate compatibility check."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "broskisworld/davinci-aac-support",
+      "url": "https://github.com/broskisworld/davinci-aac-support",
+      "kind": "commit",
+      "version": "454deca4d1597851d5a7292c166fbe55a9e221e5",
+      "source": "https://github.com/broskisworld/davinci-aac-support/commit/454deca4d1597851d5a7292c166fbe55a9e221e5",
+      "date": "2026-09-14T03:25:46Z",
+      "checked_at": "2026-09-15T11:10:28.438Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2026-09-14T05:43:27Z",
+    "stars": 1,
+    "metadataChecked": "2026-09-15T11:10:28.438Z",
+    "history": []
+  }
+}

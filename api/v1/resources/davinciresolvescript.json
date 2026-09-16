@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "davinciresolvescript",
+    "name": "DaVinciResolveScript",
+    "creator": "fukco",
+    "url": "https://github.com/fukco/DaVinciResolveScript",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Productivity scripts, workflow bridges, and integrations",
+    "kind": "workflow-app",
+    "tasks": [
+      "workflow"
+    ],
+    "tags": [
+      "metadata",
+      "scripting",
+      "workflow"
+    ],
+    "description": "Metadata and workflow scripting tools; check separately advertised products independently.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "platformNotes": "Windows;macOS",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/fukco/DaVinciResolveScript#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/fukco/DaVinciResolveScript/releases/tag/v0.10.3",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "fukco/DaVinciResolveScript",
+      "url": "https://github.com/fukco/DaVinciResolveScript",
+      "kind": "stable-release",
+      "version": "v0.10.3",
+      "source": "https://github.com/fukco/DaVinciResolveScript/releases/tag/v0.10.3",
+      "date": "2025-04-07T05:38:58Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2025-04-07T05:38:58Z",
+    "activityDate": "2026-04-02T06:58:11Z",
+    "stars": 57,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

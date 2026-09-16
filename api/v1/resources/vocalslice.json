@@ -1,0 +1,130 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "vocalslice",
+    "name": "VocalSlice",
+    "creator": "VocalSlice",
+    "url": "https://vocalslice.com/",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Community discoveries",
+    "kind": "workflow-app",
+    "tasks": [
+      "audio"
+    ],
+    "tags": [
+      "audio",
+      "dialogue",
+      "whisper",
+      "transcription",
+      "wav",
+      "clips",
+      "text editing"
+    ],
+    "description": "Local Whisper transcription and text-based audio selection, exporting named WAV clips for editing. Standalone audio preparation tool for Windows 10/11 x64 or macOS 11+ Intel/Apple Silicon. Initial model download and license activation need internet. One-time license includes future versions and no recurring activation checks. Version 1.475.0 adds guidance for finding repeated phrases.",
+    "access": "💰 Paid license with 7-day trial",
+    "accessGroup": "paid",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "platformNotes": "🪟 Windows · 🍎 macOS",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [
+        "x64",
+        "arm64"
+      ],
+      "gpu": null,
+      "processing": "local",
+      "pricing": "one-time",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://vocalslice.com/",
+        "checked_at": "2026-09-15",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://vocalslice.com/changelog.html",
+        "checked_at": "2026-09-15",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://vocalslice.com/",
+        "checked_at": "2026-09-08",
+        "note": "Local Whisper transcription and text-based audio selection, exporting named WAV clips for editing. Standalone audio preparation tool. Windows 10/11 x64 or macOS 11+ Intel/Apple Silicon; initial model download and license activation need internet. $29 license covers three machines. Version 1.462.0 adds in-app release notes and fixes trial-expiry behavior."
+      },
+      {
+        "field": "changelog",
+        "level": "documented",
+        "source": "https://vocalslice.com/changelog.html",
+        "checked_at": "2026-09-08",
+        "note": "Original provider release notes for 1.462.0."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://vocalslice.com/changelog.html",
+        "checked_at": "2026-09-15",
+        "note": "Records the previously missed 1.475.0 release and the earlier move to a perpetual license."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "VocalSlice",
+      "url": "https://vocalslice.com/",
+      "kind": "vendor-version",
+      "version": "1.475.0",
+      "source": "https://vocalslice.com/changelog.html",
+      "date": "2026-08-27",
+      "date_kind": "release",
+      "checked_at": "2026-09-15",
+      "note": "Original provider release/changelog reviewed. Catalogue review date is separate from the upstream release date."
+    },
+    "releaseDate": "2026-08-27",
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": [
+      {
+        "name": "VocalSlice",
+        "url": "https://vocalslice.com/",
+        "from": "1.462.0",
+        "to": "1.475.0",
+        "release": "v1.22",
+        "catalogue_date": "2026-09-15",
+        "upstream_date": "2026-08-27",
+        "source": "https://vocalslice.com/changelog.html",
+        "summary": "Records the previously missed 1.475.0 release and the earlier move to a perpetual license.",
+        "changes": [
+          "First-run tour explains how selecting a phrase finds other takes of the same line.",
+          "Version 1.474.0 introduced a one-time license including future versions and removed recurring activation checks.",
+          "Earlier changes add Whisper Medium, clearer model downloads and multi-core CPU transcription."
+        ],
+        "changelogs": [
+          {
+            "label": "Full source changelog",
+            "url": "https://vocalslice.com/changelog.html"
+          }
+        ]
+      }
+    ]
+  }
+}

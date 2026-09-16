@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "gaussian-splatting-for-davinci-resolve",
+    "name": "Gaussian Splatting for DaVinci Resolve",
+    "creator": "aescripts.com",
+    "url": "https://aescripts.com/gaussian-splatting-for-davinci-resolve/",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Effects / Fusion",
+    "kind": "other",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "3d",
+      "depth",
+      "gaussian splatting",
+      "ply",
+      "rendering"
+    ],
+    "description": "Import, manipulate, and GPU-render Gaussian-splat PLY scenes, including depth output. Product compatibility lists Resolve 18–21; OS requirements were not established in the retrieved page.",
+    "access": "Commercial licensed plugin; check current offer",
+    "accessGroup": "paid",
+    "platforms": [],
+    "platformNotes": "❔ Unverified",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://aescripts.com/gaussian-splatting-for-davinci-resolve/",
+        "checked_at": "2026-09-06T12:10:25.154Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Gaussian Splatting for DaVinci Resolve",
+      "url": "https://aescripts.com/gaussian-splatting-for-davinci-resolve/",
+      "kind": "vendor-version",
+      "version": "1.6.10",
+      "source": "https://aescripts.com/gaussian-splatting-for-davinci-resolve/",
+      "date": "2026-02-06",
+      "date_kind": "release",
+      "checked_at": "2026-09-06T12:10:25.154Z"
+    },
+    "releaseDate": "2026-02-06",
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

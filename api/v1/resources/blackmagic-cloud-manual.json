@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "blackmagic-cloud-manual",
+    "name": "Blackmagic Cloud Manual",
+    "creator": "Blackmagic Design",
+    "url": "https://help.cloud.blackmagicdesign.com/intro/what-is-blackmagic-cloud/",
+    "origin": "external",
+    "official": true,
+    "reference": true,
+    "category": "Official Blackmagic Design resources",
+    "kind": "workflow-app",
+    "tasks": [
+      "learning"
+    ],
+    "tags": [
+      "manual",
+      "cloud",
+      "collaboration",
+      "project libraries"
+    ],
+    "description": "Online help for Blackmagic Cloud accounts, project libraries, collaboration and cloud workflows. Services can require an account and paid storage. Support listing dated 2026-09-08.",
+    "access": "🆓 Public reference; original terms apply",
+    "accessGroup": "public",
+    "platforms": [],
+    "platformNotes": "📖 Reference",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "free",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "reference scope",
+        "level": "documented",
+        "source": "https://help.cloud.blackmagicdesign.com/intro/what-is-blackmagic-cloud/",
+        "checked_at": "2026-09-08",
+        "note": "Official support feed title and description reviewed; destination returned successfully. Reference documentation, not installation testing or current software compatibility."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Blackmagic Cloud Manual",
+      "url": "https://help.cloud.blackmagicdesign.com/intro/what-is-blackmagic-cloud/",
+      "kind": "not-applicable",
+      "version": null,
+      "source": "https://help.cloud.blackmagicdesign.com/intro/what-is-blackmagic-cloud/",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-08",
+      "note": "Reference with no numbered edition established from the support listing. The listing date is not a software release date."
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

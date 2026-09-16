@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "tetrainterp-dctl",
+    "name": "TetraInterp-DCTL",
+    "creator": "hotgluebanjo",
+    "url": "https://github.com/hotgluebanjo/TetraInterp-DCTL",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Color grading, DCTLs, film looks, and color science",
+    "kind": "dctl",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "color manipulation",
+      "dctl",
+      "tetrahedral interpolation"
+    ],
+    "description": "Tetrahedral-interpolation-based color manipulation.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [],
+    "platformNotes": "Unverified",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/hotgluebanjo/TetraInterp-DCTL/commit/aea6eb5c532b34d752111db5881017e8da4e564d",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "hotgluebanjo/TetraInterp-DCTL",
+      "url": "https://github.com/hotgluebanjo/TetraInterp-DCTL",
+      "kind": "commit",
+      "version": "aea6eb5c532b34d752111db5881017e8da4e564d",
+      "source": "https://github.com/hotgluebanjo/TetraInterp-DCTL/commit/aea6eb5c532b34d752111db5881017e8da4e564d",
+      "date": "2024-05-19T22:20:14Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2024-08-23T02:02:36Z",
+    "stars": 79,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

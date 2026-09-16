@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "vonkultra",
+    "name": "VonkUltra",
+    "creator": "Kartaverse",
+    "url": "https://github.com/Kartaverse/VonkUltra",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Fusion, motion graphics, visual effects, and package management",
+    "kind": "other",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "data driven",
+      "fusion",
+      "generative",
+      "nodes",
+      "procedural"
+    ],
+    "description": "Data-driven and generative node tools for Fusion.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [],
+    "platformNotes": "Unverified",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/Kartaverse/VonkUltra/commit/4d10c55df1c1c5200cf479dd773b784584986981",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Kartaverse/VonkUltra",
+      "url": "https://github.com/Kartaverse/VonkUltra",
+      "kind": "commit",
+      "version": "4d10c55df1c1c5200cf479dd773b784584986981",
+      "source": "https://github.com/Kartaverse/VonkUltra/commit/4d10c55df1c1c5200cf479dd773b784584986981",
+      "date": "2026-07-27T22:05:07Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2026-07-27T22:05:11Z",
+    "stars": 11,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

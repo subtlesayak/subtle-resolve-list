@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "chat-generator-fuse",
+    "name": "chat-generator-fuse",
+    "creator": "Mr-Robby",
+    "url": "https://github.com/Mr-Robby/chat-generator-fuse",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Fusion, motion graphics, visual effects, and package management",
+    "kind": "fuse",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "chat",
+      "fusion",
+      "message overlay",
+      "motion graphics"
+    ],
+    "description": "Animated chat/message overlays.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "platformNotes": "Windows;macOS;Linux",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/Mr-Robby/chat-generator-fuse#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/Mr-Robby/chat-generator-fuse/releases/tag/v1.0.0",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Mr-Robby/chat-generator-fuse",
+      "url": "https://github.com/Mr-Robby/chat-generator-fuse",
+      "kind": "stable-release",
+      "version": "v1.0.0",
+      "source": "https://github.com/Mr-Robby/chat-generator-fuse/releases/tag/v1.0.0",
+      "date": "2025-10-01T21:45:44Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2025-10-01T21:45:44Z",
+    "activityDate": "2025-10-01T22:03:17Z",
+    "stars": 0,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

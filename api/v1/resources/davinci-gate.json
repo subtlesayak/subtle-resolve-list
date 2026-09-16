@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "davinci-gate",
+    "name": "DaVinci-Gate",
+    "creator": "randyrektor",
+    "url": "https://github.com/randyrektor/DaVinci-Gate",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Subtitles, transcription, dialogue cleanup, and automatic editing",
+    "kind": "subtitle-tool",
+    "tasks": [
+      "captions",
+      "workflow"
+    ],
+    "tags": [
+      "audio editing",
+      "audio gate",
+      "podcast",
+      "silence removal",
+      "speaker"
+    ],
+    "description": "Analyze per-speaker podcast silence and rebuild gated audio tracks after preview. Requires Resolve 20+ and FFmpeg.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "platformNotes": "Windows;macOS;Linux",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/randyrektor/DaVinci-Gate#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/randyrektor/DaVinci-Gate/commit/12f516b68de51396330e592dd47797f1ae03cb39",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "randyrektor/DaVinci-Gate",
+      "url": "https://github.com/randyrektor/DaVinci-Gate",
+      "kind": "commit",
+      "version": "12f516b68de51396330e592dd47797f1ae03cb39",
+      "source": "https://github.com/randyrektor/DaVinci-Gate/commit/12f516b68de51396330e592dd47797f1ae03cb39",
+      "date": "2026-07-03T18:38:25Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2026-07-03T18:39:37Z",
+    "stars": 11,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "cheetah-video-proxy-generator",
+    "name": "Cheetah Video Proxy Generator",
+    "creator": "Fractale",
+    "url": "https://fractale.itch.io/cheetah-video-proxy-generator",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Community discoveries",
+    "kind": "encoder",
+    "tasks": [],
+    "tags": [
+      "dnxhr",
+      "ffmpeg",
+      "h264",
+      "h265",
+      "prores",
+      "proxy",
+      "vertical video"
+    ],
+    "description": "Creates H.264/H.265, DNxHR and ProRes proxies for Resolve, including portrait-aware sizing. macOS requires a separate FFmpeg installation. Windows is also distributed through Microsoft Store.",
+    "access": "📦 Public download; store terms may differ",
+    "accessGroup": "public",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "platformNotes": "🪟 Windows · 🍎 macOS",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://fractale.itch.io/cheetah-video-proxy-generator",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://fractale.itch.io/cheetah-video-proxy-generator",
+        "checked_at": "2026-09-06",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Cheetah Video Proxy Generator",
+      "url": "https://fractale.itch.io/cheetah-video-proxy-generator",
+      "kind": "vendor-version",
+      "version": "Windows 0.3.6; macOS 0.3.4",
+      "source": "https://fractale.itch.io/cheetah-video-proxy-generator",
+      "date": "2024-07-29",
+      "date_kind": "devlog",
+      "checked_at": "2026-09-06",
+      "date_platform": "Windows",
+      "date_version": "0.3.6"
+    },
+    "releaseDate": "2024-07-29",
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

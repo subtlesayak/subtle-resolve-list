@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "blackmacro-hardware",
+    "name": "blackmacro-hardware",
+    "creator": "KipJM",
+    "url": "https://github.com/KipJM/blackmacro-hardware",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Hardware, control surfaces, MIDI, and Speed Editor tools",
+    "kind": "fusion-macro",
+    "tasks": [
+      "hardware"
+    ],
+    "tags": [
+      "diy",
+      "hardware",
+      "keyboard",
+      "macropad",
+      "raspberry pi"
+    ],
+    "description": "Configurable DIY editing keyboard based on Raspberry Pi Pico 2W.",
+    "access": "Public; build cost",
+    "accessGroup": "public",
+    "platforms": [],
+    "platformNotes": "Unverified",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/KipJM/blackmacro-hardware/releases/tag/release-v2",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "KipJM/blackmacro-hardware",
+      "url": "https://github.com/KipJM/blackmacro-hardware",
+      "kind": "stable-release",
+      "version": "release-v2",
+      "source": "https://github.com/KipJM/blackmacro-hardware/releases/tag/release-v2",
+      "date": "2026-08-11T10:20:10Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2026-08-11T10:20:10Z",
+    "activityDate": "2026-08-23T13:34:52Z",
+    "stars": 24,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

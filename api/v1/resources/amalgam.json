@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "amalgam",
+    "name": "Amalgam",
+    "creator": "Gabriel Grenier",
+    "url": "https://aescripts.com/amalgam/",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Effects and animation",
+    "kind": "ofx",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "compositing",
+      "frequency blending",
+      "openfx"
+    ],
+    "description": "Frequency-based image blending OFX; compatibility lists Resolve 16–21. Mac support is evidenced by the release notes. The separate Premiere transition feature is not a Resolve guarantee.",
+    "access": "💳 Paid; trial available",
+    "accessGroup": "paid",
+    "platforms": [
+      "macOS"
+    ],
+    "platformNotes": "🍎 macOS confirmed; other OS unverified",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://aescripts.com/amalgam/",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://aescripts.com/amalgam/",
+        "checked_at": "2026-09-06T12:10:30.146Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Amalgam",
+      "url": "https://aescripts.com/amalgam/",
+      "kind": "vendor-version",
+      "version": "1.4.6",
+      "source": "https://aescripts.com/amalgam/",
+      "date": "2026-09-01",
+      "date_kind": "release",
+      "checked_at": "2026-09-06T12:10:30.146Z"
+    },
+    "releaseDate": "2026-09-01",
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

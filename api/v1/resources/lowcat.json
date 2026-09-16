@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "lowcat",
+    "name": "lowcat",
+    "creator": "debuxxed",
+    "url": "https://github.com/debuxxed/lowcat",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Encoding, codecs, proxy generation, rendering, and project servers",
+    "kind": "encoder",
+    "tasks": [
+      "audio"
+    ],
+    "tags": [
+      "audio",
+      "sound effects",
+      "sfx",
+      "music",
+      "library",
+      "tags",
+      "stems"
+    ],
+    "description": "Local music and sound-effects library browser with multiple tags, file conversion and stem grouping. Companion audio preparation tool; no direct Resolve integration is documented.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "platformNotes": "Windows MSI and macOS DMG documented. No license was established from the repository metadata or README.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "local",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/debuxxed/lowcat#readme",
+        "checked_at": "2026-09-08",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/debuxxed/lowcat/releases/tag/1.2",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://github.com/debuxxed/lowcat",
+        "checked_at": "2026-09-08",
+        "note": "Windows MSI and macOS DMG documented. No license was established from the repository metadata or README."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "debuxxed/lowcat",
+      "url": "https://github.com/debuxxed/lowcat",
+      "kind": "stable-release",
+      "version": "1.2",
+      "source": "https://github.com/debuxxed/lowcat/releases/tag/1.2",
+      "date": "2026-08-28T10:36:04Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2026-08-28T10:36:04Z",
+    "activityDate": "2026-09-03T12:23:50Z",
+    "stars": 13,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

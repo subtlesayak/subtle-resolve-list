@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "autotitles-community",
+    "name": "autotitles-community",
+    "creator": "ikm-san",
+    "url": "https://github.com/ikm-san/autotitles-community",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Subtitles, transcription, dialogue cleanup, and automatic editing",
+    "kind": "subtitle-tool",
+    "tasks": [
+      "captions"
+    ],
+    "tags": [
+      "api",
+      "cli",
+      "fusion",
+      "subtitles",
+      "title generation"
+    ],
+    "description": "CLI/API subtitle-to-Fusion-title workflow for Studio. Free for commercial video work, but not open source; separate GUI editions exist.",
+    "access": "Mixed",
+    "accessGroup": "mixed",
+    "platforms": [],
+    "platformNotes": "Unverified",
+    "requirements": {
+      "editions": [
+        "Studio"
+      ],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/ikm-san/autotitles-community/commit/65c4df9ec2dff60465a34f5f61e05ca780dc1c0e",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://github.com/ikm-san/autotitles-community",
+        "checked_at": "2026-09-06",
+        "note": "CLI/API subtitle-to-Fusion workflow for Studio; separate GUI editions exist."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "ikm-san/autotitles-community",
+      "url": "https://github.com/ikm-san/autotitles-community",
+      "kind": "commit",
+      "version": "65c4df9ec2dff60465a34f5f61e05ca780dc1c0e",
+      "source": "https://github.com/ikm-san/autotitles-community/commit/65c4df9ec2dff60465a34f5f61e05ca780dc1c0e",
+      "date": "2026-07-09T13:33:39Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2026-07-09T13:33:45Z",
+    "stars": 0,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

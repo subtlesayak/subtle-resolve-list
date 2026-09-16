@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "dctl",
+    "name": "DCTL",
+    "creator": "caryknoop",
+    "url": "https://github.com/caryknoop/DCTL",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Color grading, DCTLs, film looks, and color science",
+    "kind": "dctl",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "dctl",
+      "diagnostics",
+      "node analysis"
+    ],
+    "description": "Diagnostic tools for marking and analyzing image changes through nodes.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "Unverified",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/caryknoop/DCTL/commit/dfb2c166ceddd18f103765bd469d8d5685c3285e",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "caryknoop/DCTL",
+      "url": "https://github.com/caryknoop/DCTL",
+      "kind": "commit",
+      "version": "dfb2c166ceddd18f103765bd469d8d5685c3285e",
+      "source": "https://github.com/caryknoop/DCTL/commit/dfb2c166ceddd18f103765bd469d8d5685c3285e",
+      "date": "2025-01-15T04:53:47Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2025-01-15T04:53:47Z",
+    "stars": 30,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

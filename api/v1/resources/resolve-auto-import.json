@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "resolve-auto-import",
+    "name": "resolve_auto_import",
+    "creator": "ChristyKail",
+    "url": "https://github.com/ChristyKail/resolve_auto_import",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Productivity scripts, workflow bridges, and integrations",
+    "kind": "workflow-app",
+    "tasks": [
+      "workflow"
+    ],
+    "tags": [
+      "automation",
+      "bins",
+      "finder",
+      "media import"
+    ],
+    "description": "Finder Quick Action that imports camera rolls into bins and creates per-card timelines. Studio external scripting; tested 19.0.3–20.2.2.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [
+      "macOS"
+    ],
+    "platformNotes": "macOS",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/ChristyKail/resolve_auto_import#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/ChristyKail/resolve_auto_import/commit/f6172544f660c8c024450c89043b0958bb004648",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "ChristyKail/resolve_auto_import",
+      "url": "https://github.com/ChristyKail/resolve_auto_import",
+      "kind": "commit",
+      "version": "f6172544f660c8c024450c89043b0958bb004648",
+      "source": "https://github.com/ChristyKail/resolve_auto_import/commit/f6172544f660c8c024450c89043b0958bb004648",
+      "date": "2026-06-13T18:33:40Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2026-06-13T18:33:45Z",
+    "stars": 10,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "dctls-3",
+    "name": "DCTLs",
+    "creator": "MoazElgabry",
+    "url": "https://github.com/MoazElgabry/DCTLs",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Color grading, DCTLs, film looks, and color science",
+    "kind": "dctl",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "color grading",
+      "dctl",
+      "filmic contrast",
+      "hue",
+      "look development"
+    ],
+    "description": "Look-development tools including filmic contrast, ratio shaping, localized contrast, and hue controls.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "platformNotes": "Windows;macOS",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/MoazElgabry/DCTLs#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/MoazElgabry/DCTLs/commit/fe7f860751a483d56e24125ad2e3e84c6669d55d",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "MoazElgabry/DCTLs",
+      "url": "https://github.com/MoazElgabry/DCTLs",
+      "kind": "commit",
+      "version": "fe7f860751a483d56e24125ad2e3e84c6669d55d",
+      "source": "https://github.com/MoazElgabry/DCTLs/commit/fe7f860751a483d56e24125ad2e3e84c6669d55d",
+      "date": "2026-06-13T14:17:49Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2026-06-13T14:17:54Z",
+    "stars": 67,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

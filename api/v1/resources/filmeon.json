@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "filmeon",
+    "name": "filmeon",
+    "creator": "helios1138",
+    "url": "https://github.com/helios1138/filmeon",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Color grading, DCTLs, film looks, and color science",
+    "kind": "dctl",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "dctl",
+      "film",
+      "film scanning",
+      "negative inversion"
+    ],
+    "description": "Filmeon color-negative inversion DCTL for linear scans. Original DCTL workflow has been superseded by the developer's standalone web application.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "platformNotes": "DCTL installation documented; use non-color-managed linear scan input.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/helios1138/filmeon#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/helios1138/filmeon/commit/d10d646899601f58ce92b9dbb21d82e3f744d461",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "helios1138/filmeon",
+      "url": "https://github.com/helios1138/filmeon",
+      "kind": "commit",
+      "version": "d10d646899601f58ce92b9dbb21d82e3f744d461",
+      "source": "https://github.com/helios1138/filmeon/commit/d10d646899601f58ce92b9dbb21d82e3f744d461",
+      "date": "2026-05-22T18:34:17Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2026-05-22T18:34:21Z",
+    "stars": 28,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

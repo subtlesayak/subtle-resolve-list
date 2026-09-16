@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "pixeltools-free-tools",
+    "name": "PixelTools free tools",
+    "creator": "pixeltoolspost.com",
+    "url": "https://pixeltoolspost.com/collections/free-tools",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Color tools",
+    "kind": "dctl",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "charts",
+      "dctl",
+      "diagnostics",
+      "exposure",
+      "hdr",
+      "pq"
+    ],
+    "description": "Checker, Chart/Tool, Exposure/Chart, and PQ Tester DCTLs. Installer supports macOS/Windows. The vendor distinguishes Studio/native-DCTL and DCTL-OFX loading paths; check the exact tool and host requirements.",
+    "access": "🆓 Free; email required for download",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "platformNotes": "🪟 🍎",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://pixeltoolspost.com/collections/free-tools",
+        "checked_at": "2026-09-06T12:10:19.490Z",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing",
+      "tool version"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "PixelTools free tools",
+      "url": "https://pixeltoolspost.com/collections/free-tools",
+      "kind": "unverified",
+      "version": null,
+      "source": "https://pixeltoolspost.com/collections/free-tools",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-06T12:10:19.490Z"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

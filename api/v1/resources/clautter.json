@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "clautter",
+    "name": "clautter",
+    "creator": "Nusscookie",
+    "url": "https://github.com/Nusscookie/clautter",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Subtitles, transcription, dialogue cleanup, and automatic editing",
+    "kind": "subtitle-tool",
+    "tasks": [
+      "captions",
+      "workflow"
+    ],
+    "tags": [
+      "ai",
+      "automatic editing",
+      "cleanup",
+      "talking head"
+    ],
+    "description": "AI-assisted talking-head cleanup. Beta. A paid installer is planned, while the plugin remains free.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "platformNotes": "macOS and Linux are listed but untested by the maintainer.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/Nusscookie/clautter#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/Nusscookie/clautter/commit/3362b428532bdc87033cb0ab5ccbcc563d195e35",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Nusscookie/clautter",
+      "url": "https://github.com/Nusscookie/clautter",
+      "kind": "commit",
+      "version": "3362b428532bdc87033cb0ab5ccbcc563d195e35",
+      "source": "https://github.com/Nusscookie/clautter/commit/3362b428532bdc87033cb0ab5ccbcc563d195e35",
+      "date": "2026-06-22T13:40:43Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2026-06-22T15:07:47Z",
+    "stars": 1,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

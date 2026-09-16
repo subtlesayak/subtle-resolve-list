@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "film-halation-guide",
+    "name": "Film Halation Guide",
+    "creator": "Veres Deni Alex",
+    "url": "https://www.veresdenialex.com/post/film-halation-effect-davinci-lightroom-capture-one",
+    "origin": "external",
+    "official": false,
+    "reference": true,
+    "category": "Color / Film",
+    "kind": "workflow-app",
+    "tasks": [
+      "learning",
+      "color"
+    ],
+    "tags": [
+      "halation",
+      "tutorial",
+      "film",
+      "glow"
+    ],
+    "description": "Free article explaining halation and a Resolve Studio workflow using the built-in Halation effect. Also covers Lightroom and Capture One.",
+    "access": "🆓 Free; creator download",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "📖 Reference",
+    "requirements": {
+      "editions": [
+        "Studio"
+      ],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "free",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "purpose and requirements",
+        "level": "documented",
+        "source": "https://www.veresdenialex.com/post/film-halation-effect-davinci-lightroom-capture-one",
+        "checked_at": "2026-09-08",
+        "note": "Provider description reviewed; no catalogue installation testing. Unspecified compatibility remains unverified."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve version",
+      "architecture",
+      "processing",
+      "tool version"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Film Halation Guide",
+      "url": "https://www.veresdenialex.com/post/film-halation-effect-davinci-lightroom-capture-one",
+      "kind": "unverified",
+      "version": null,
+      "source": "https://www.veresdenialex.com/post/film-halation-effect-davinci-lightroom-capture-one",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-08"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

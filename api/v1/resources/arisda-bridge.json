@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "arisda-bridge",
+    "name": "ARISDA Bridge",
+    "creator": "ARISDA",
+    "url": "https://arisdabridge.com/",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Community discoveries",
+    "kind": "workflow-app",
+    "tasks": [
+      "hardware",
+      "workflow"
+    ],
+    "tags": [
+      "clock",
+      "ltc",
+      "punchlight",
+      "time tracking",
+      "timecode"
+    ],
+    "description": "Timecode display, work-time tracking and studio clock companion. Creator-tested scope is Resolve Studio 21 on Windows 11. NTSC frame rates are unsupported; optional LTC routing and PunchLight hardware have separate setup requirements.",
+    "access": "💰 Business-only single-PC license",
+    "accessGroup": "paid",
+    "platforms": [
+      "Windows"
+    ],
+    "platformNotes": "🪟 Windows 11",
+    "requirements": {
+      "editions": [
+        "Studio"
+      ],
+      "resolve": [
+        {
+          "min": "21",
+          "max": "21.99",
+          "edition": "Studio"
+        }
+      ],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": "Windows 11; NTSC frame rates unsupported. Optional LTC routing and PunchLight setup are separate.",
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://arisdabridge.com/",
+        "checked_at": "2026-09-07",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://arisdabridge.com/",
+        "checked_at": "2026-09-07",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://arisdabridge.com/",
+        "checked_at": "2026-09-07",
+        "note": "Creator-published tested scope: Resolve Studio 21 on Windows 11. Not tested by this catalogue."
+      }
+    ],
+    "unknownFields": [
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "ARISDA Bridge",
+      "url": "https://arisdabridge.com/",
+      "kind": "vendor-version",
+      "version": "1.0",
+      "source": "https://arisdabridge.com/",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-07"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

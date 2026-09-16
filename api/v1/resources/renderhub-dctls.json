@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "renderhub-dctls",
+    "name": "RenderHub-DCTLs",
+    "creator": "Senthil360",
+    "url": "https://github.com/Senthil360/RenderHub-DCTLs",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Color grading, DCTLs, film looks, and color science",
+    "kind": "dctl",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "color grading",
+      "dctl",
+      "film",
+      "film look"
+    ],
+    "description": "Creative and film-look DCTL collection for Resolve Studio.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "platformNotes": "Windows;macOS",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/Senthil360/RenderHub-DCTLs#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/Senthil360/RenderHub-DCTLs/releases/tag/September-2026-Bundle",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Senthil360/RenderHub-DCTLs",
+      "url": "https://github.com/Senthil360/RenderHub-DCTLs",
+      "kind": "stable-release",
+      "version": "September-2026-Bundle",
+      "source": "https://github.com/Senthil360/RenderHub-DCTLs/releases/tag/September-2026-Bundle",
+      "date": "2026-08-31T05:02:02Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2026-08-31T05:02:02Z",
+    "activityDate": "2026-09-14T05:27:01Z",
+    "stars": 25,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

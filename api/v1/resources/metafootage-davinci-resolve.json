@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "metafootage-davinci-resolve",
+    "name": "metafootage-davinci-resolve",
+    "creator": "WDegan",
+    "url": "https://github.com/WDegan/metafootage-davinci-resolve",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "AI assistants, MCP servers, and ComfyUI integrations",
+    "kind": "mcp-server",
+    "tasks": [
+      "workflow",
+      "media"
+    ],
+    "tags": [
+      "ai",
+      "footage tagging",
+      "gemini",
+      "keywording",
+      "metadata",
+      "openai"
+    ],
+    "description": "Generate footage keywords and descriptions using Gemini or OpenAI. Selected frames are sent to the provider; API usage may cost extra.",
+    "access": "Free; external API fees may apply",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "platformNotes": "Windows;macOS;Linux",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/WDegan/metafootage-davinci-resolve#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/WDegan/metafootage-davinci-resolve/releases/tag/v1.6",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "WDegan/metafootage-davinci-resolve",
+      "url": "https://github.com/WDegan/metafootage-davinci-resolve",
+      "kind": "stable-release",
+      "version": "v1.6",
+      "source": "https://github.com/WDegan/metafootage-davinci-resolve/releases/tag/v1.6",
+      "date": "2026-01-08T23:57:56Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2026-01-08T23:57:56Z",
+    "activityDate": "2026-01-15T22:38:03Z",
+    "stars": 4,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "shakeglitch",
+    "name": "ShakeGlitch",
+    "creator": "Akascape",
+    "url": "https://akascape.gumroad.com/l/shakeglitch",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Effects and animation",
+    "kind": "other",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "animation",
+      "fusion",
+      "glitch",
+      "rgb split"
+    ],
+    "description": "Creates animated RGB-split glitch effects inside Fusion. Requires Resolve 17+ Free or Studio.",
+    "access": "💰 Paid",
+    "accessGroup": "paid",
+    "platforms": [],
+    "platformNotes": "❔ Not established",
+    "requirements": {
+      "editions": [
+        "Free",
+        "Studio"
+      ],
+      "resolve": [
+        {
+          "min": "17"
+        }
+      ],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "Resolve edition and version range",
+        "level": "documented",
+        "source": "https://akascape.gumroad.com/l/shakeglitch",
+        "checked_at": "2026-09-07",
+        "note": "Structured from the existing source-backed catalogue description; no new installation test: Creates animated RGB-split glitch effects inside Fusion. Requires Resolve 17+ Free or Studio."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "architecture",
+      "processing",
+      "tool version"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "ShakeGlitch",
+      "url": "https://akascape.gumroad.com/l/shakeglitch",
+      "kind": "unverified",
+      "version": null,
+      "source": "https://akascape.gumroad.com/l/shakeglitch",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-07"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "blobtrackingfuse",
+    "name": "BlobTrackingFuse",
+    "creator": "Akascape",
+    "url": "https://akascape.gumroad.com/l/blobtracker",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Effects and animation",
+    "kind": "fuse",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "fuse",
+      "fusion",
+      "lines",
+      "motion tracking",
+      "text"
+    ],
+    "description": "Motion-responsive lines, rectangles, and text effects. Resolve 17+ Free or Studio. Creator warns that AMD devices may not work properly.",
+    "access": "💳 Paid",
+    "accessGroup": "paid",
+    "platforms": [],
+    "platformNotes": "❔ Not established",
+    "requirements": {
+      "editions": [
+        "Free",
+        "Studio"
+      ],
+      "resolve": [
+        {
+          "min": "17"
+        }
+      ],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://akascape.gumroad.com/l/blobtracker",
+        "checked_at": "2026-09-06T12:10:28.541Z",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "Resolve edition and version range",
+        "level": "documented",
+        "source": "https://akascape.gumroad.com/l/blobtracker",
+        "checked_at": "2026-09-06T12:10:28.541Z",
+        "note": "Structured from the existing source-backed catalogue description; no new installation test: Motion-responsive lines, rectangles, and text effects. Resolve 17+ Free or Studio. Creator warns that AMD devices may not work properly."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "BlobTrackingFuse",
+      "url": "https://akascape.gumroad.com/l/blobtracker",
+      "kind": "vendor-version",
+      "version": "1.3",
+      "source": "https://akascape.gumroad.com/l/blobtracker",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-06T12:10:28.541Z"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

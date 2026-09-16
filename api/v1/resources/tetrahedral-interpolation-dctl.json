@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "tetrahedral-interpolation-dctl",
+    "name": "Tetrahedral-Interpolation-DCTL",
+    "creator": "xavijulez",
+    "url": "https://github.com/xavijulez/Tetrahedral-Interpolation-DCTL",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Color grading, DCTLs, film looks, and color science",
+    "kind": "dctl",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "color transform",
+      "dctl",
+      "tetrahedral interpolation",
+      "xyz"
+    ],
+    "description": "CIE XYZ tetrahedral color transformation ported to DCTL, with credits to the earlier Nuke and Fusion implementations.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "Unverified",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/xavijulez/Tetrahedral-Interpolation-DCTL/commit/e34b607a964964177afcb839cffd3e694b0b4adc",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "xavijulez/Tetrahedral-Interpolation-DCTL",
+      "url": "https://github.com/xavijulez/Tetrahedral-Interpolation-DCTL",
+      "kind": "commit",
+      "version": "e34b607a964964177afcb839cffd3e694b0b4adc",
+      "source": "https://github.com/xavijulez/Tetrahedral-Interpolation-DCTL/commit/e34b607a964964177afcb839cffd3e694b0b4adc",
+      "date": "2021-01-10T18:24:25Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2021-01-10T18:24:26Z",
+    "stars": 17,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

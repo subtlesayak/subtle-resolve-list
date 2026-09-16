@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "supermodulation",
+    "name": "SuperModulation",
+    "creator": "Akascape",
+    "url": "https://akascape.gumroad.com/l/supermodulation",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Effects and animation",
+    "kind": "fuse",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "distortion",
+      "frequency modulation",
+      "fusion"
+    ],
+    "description": "Frequency-modulation Fuse. V1 is free; V2+ adds controls including colored modulation and direction. Supports Resolve Free and Studio.",
+    "access": "💰 Free edition / paid full edition",
+    "accessGroup": "mixed",
+    "platforms": [],
+    "platformNotes": "❔ Not established",
+    "requirements": {
+      "editions": [
+        "Free",
+        "Studio"
+      ],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://akascape.gumroad.com/l/supermodulation",
+        "checked_at": "2026-09-06T12:10:29.523Z",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "Resolve edition",
+        "level": "documented",
+        "source": "https://akascape.gumroad.com/l/supermodulation",
+        "checked_at": "2026-09-06T12:10:29.523Z",
+        "note": "Structured from the existing source-backed catalogue description; no new installation test: Frequency-modulation Fuse. V1 is free; V2+ adds controls including colored modulation and direction. Supports Resolve Free and Studio."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "SuperModulation",
+      "url": "https://akascape.gumroad.com/l/supermodulation",
+      "kind": "vendor-version",
+      "version": "4",
+      "source": "https://akascape.gumroad.com/l/supermodulation",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-06T12:10:29.523Z"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

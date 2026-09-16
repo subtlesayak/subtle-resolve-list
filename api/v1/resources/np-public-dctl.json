@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "np-public-dctl",
+    "name": "np-public-dctl",
+    "creator": "nikita-petrovich",
+    "url": "https://github.com/nikita-petrovich/np-public-dctl",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Color grading, DCTLs, film looks, and color science",
+    "kind": "dctl",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "bleach bypass",
+      "dctl",
+      "film",
+      "grain",
+      "saturation"
+    ],
+    "description": "Experimental Lazy Bleach, Lazy Grain, and saturation DCTLs. Resolve Studio 19.1+; proof-of-concept tools.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "platformNotes": "NVIDIA and Apple Silicon documented; other GPUs are untested.",
+    "requirements": {
+      "editions": [
+        "Studio"
+      ],
+      "resolve": [
+        {
+          "edition": "Studio",
+          "min": "19.1"
+        }
+      ],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/nikita-petrovich/np-public-dctl#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/nikita-petrovich/np-public-dctl/commit/e13d3bf8af6943eb4745b62439812650da253cd7",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      },
+      {
+        "field": "Resolve edition and version range",
+        "level": "documented",
+        "source": "https://github.com/nikita-petrovich/np-public-dctl#readme",
+        "checked_at": "2026-09-06",
+        "note": "Structured from the existing source-backed catalogue description; no new installation test: Experimental Lazy Bleach, Lazy Grain, and saturation DCTLs. Resolve Studio 19.1+; proof-of-concept tools."
+      }
+    ],
+    "unknownFields": [
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "nikita-petrovich/np-public-dctl",
+      "url": "https://github.com/nikita-petrovich/np-public-dctl",
+      "kind": "commit",
+      "version": "e13d3bf8af6943eb4745b62439812650da253cd7",
+      "source": "https://github.com/nikita-petrovich/np-public-dctl/commit/e13d3bf8af6943eb4745b62439812650da253cd7",
+      "date": "2026-06-26T12:15:43Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2026-06-26T12:15:47Z",
+    "stars": 10,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

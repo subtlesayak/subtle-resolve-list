@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "lenscorrect-ofx",
+    "name": "lenscorrect-ofx",
+    "creator": "murtazatunio",
+    "url": "https://github.com/murtazatunio/lenscorrect-ofx",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Fusion, motion graphics, visual effects, and package management",
+    "kind": "ofx",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "chromatic aberration",
+      "distortion",
+      "lens correction",
+      "lensfun",
+      "openfx",
+      "vignette"
+    ],
+    "description": "Lensfun/DNG-based lens distortion, vignetting, and lateral chromatic-aberration correction OpenFX.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [
+      "macOS"
+    ],
+    "platformNotes": "macOS 12+ on Apple Silicon only; Windows is planned.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/murtazatunio/lenscorrect-ofx#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/murtazatunio/lenscorrect-ofx/commit/c654bf31bfbcac963ef4e443d18392e1ae28d798",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "murtazatunio/lenscorrect-ofx",
+      "url": "https://github.com/murtazatunio/lenscorrect-ofx",
+      "kind": "commit",
+      "version": "c654bf31bfbcac963ef4e443d18392e1ae28d798",
+      "source": "https://github.com/murtazatunio/lenscorrect-ofx/commit/c654bf31bfbcac963ef4e443d18392e1ae28d798",
+      "date": "2026-07-21T20:33:46Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2026-07-21T20:43:14Z",
+    "stars": 9,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

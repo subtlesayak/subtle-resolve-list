@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "resolve-conform-tools",
+    "name": "Resolve-Conform-tools",
+    "creator": "Pinionist",
+    "url": "https://github.com/Pinionist/Resolve-Conform-tools",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Productivity scripts, workflow bridges, and integrations",
+    "kind": "workflow-app",
+    "tasks": [
+      "workflow"
+    ],
+    "tags": [
+      "clip renaming",
+      "conform",
+      "plate publishing",
+      "version management",
+      "vfx"
+    ],
+    "description": "Resolve Studio Lua tools for VFX conforming, plate publishing, clip renaming, and version switching. Timeline renamer requires 20.2; see upstream retime/keyframe caveat.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [],
+    "platformNotes": "Unverified",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/Pinionist/Resolve-Conform-tools/commit/8916f83e8e82da5bf2058b372fe640cc711eab61",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Pinionist/Resolve-Conform-tools",
+      "url": "https://github.com/Pinionist/Resolve-Conform-tools",
+      "kind": "commit",
+      "version": "8916f83e8e82da5bf2058b372fe640cc711eab61",
+      "source": "https://github.com/Pinionist/Resolve-Conform-tools/commit/8916f83e8e82da5bf2058b372fe640cc711eab61",
+      "date": "2026-05-21T10:00:55Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2026-05-21T10:00:56Z",
+    "stars": 14,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "reactor",
+    "name": "Reactor",
+    "creator": "gitlab.com",
+    "url": "https://gitlab.com/WeSuckLess/Reactor",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Fusion, animation, and effects",
+    "kind": "reactor-package",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "atoms",
+      "fusion",
+      "package manager",
+      "plugins",
+      "reactor"
+    ],
+    "description": "Canonical GitLab home of the Fusion/Resolve Atom package ecosystem. Browse the Atom tree and community forum. The browser tree returned a loading shell; the current API inventory contains 711 package folders. See the package inventory; compatibility still varies by package. Related standalone tooling is already in the GitHub catalogue.",
+    "access": "📦 Public package manager; package terms vary",
+    "accessGroup": "public",
+    "platforms": [],
+    "platformNotes": "❔ Per package",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing",
+      "tool version"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Reactor",
+      "url": "https://gitlab.com/WeSuckLess/Reactor",
+      "kind": "unverified",
+      "version": null,
+      "source": "https://gitlab.com/WeSuckLess/Reactor",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-06T12:10:19.552Z"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

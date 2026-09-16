@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "vm-cursor",
+    "name": "vm-cursor",
+    "creator": "zirmila",
+    "url": "https://github.com/zirmila/vm-cursor",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Fusion, motion graphics, visual effects, and package management",
+    "kind": "ofx",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "cursor",
+      "screen recording",
+      "zoom",
+      "tutorial",
+      "keystrokes",
+      "ofx",
+      "cuda"
+    ],
+    "description": "Windows screen-capture companion and OFX effect for cursor-following zooms, highlights and keystroke overlays. The plugin requires NVIDIA CUDA; capture can use other hardware. Creator reports Resolve 21 Studio testing but only assumes Free support. Portrait/letterboxed recordings have known positioning limitations.",
+    "access": "Public download; license terms need review",
+    "accessGroup": "paid",
+    "platforms": [
+      "Windows"
+    ],
+    "platformNotes": "Provider-documented distribution targets; no installation testing. See description for platform and host caveats.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": "NVIDIA CUDA for the OFX plugin",
+      "processing": "local",
+      "pricing": "free",
+      "account": "unknown",
+      "dependencies": "Windows 10/11 and VM Capture cursor recording",
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/zirmila/vm-cursor#readme",
+        "checked_at": "2026-09-15",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/zirmila/vm-cursor/releases/tag/v1.0.1",
+        "checked_at": "2026-09-15T11:10:26.592Z",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://github.com/zirmila/vm-cursor#readme",
+        "checked_at": "2026-09-15",
+        "note": "Windows screen-capture companion and OFX effect for cursor-following zooms, highlights and keystroke overlays. The plugin requires NVIDIA CUDA; capture can use other hardware. Creator reports Resolve 21 Studio testing but only assumes Free support. Portrait/letterboxed recordings have known positioning limitations."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "zirmila/vm-cursor",
+      "url": "https://github.com/zirmila/vm-cursor",
+      "kind": "stable-release",
+      "version": "v1.0.1",
+      "source": "https://github.com/zirmila/vm-cursor/releases/tag/v1.0.1",
+      "date": "2026-08-21T14:41:13Z",
+      "checked_at": "2026-09-15T11:10:26.592Z"
+    },
+    "releaseDate": "2026-08-21T14:41:13Z",
+    "activityDate": "2026-09-10T06:52:44Z",
+    "stars": 2,
+    "metadataChecked": "2026-09-15T11:10:26.592Z",
+    "history": []
+  }
+}

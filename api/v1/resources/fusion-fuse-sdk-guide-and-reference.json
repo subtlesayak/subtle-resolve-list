@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "fusion-fuse-sdk-guide-and-reference",
+    "name": "Fusion Fuse SDK guide and reference",
+    "creator": "Blackmagic Design",
+    "url": "https://documents.blackmagicdesign.com/UserManuals/Fusion_Fuse_SDK.pdf",
+    "origin": "external",
+    "official": true,
+    "reference": true,
+    "category": "Official Blackmagic Design resources",
+    "kind": "fuse",
+    "tasks": [],
+    "tags": [
+      "api",
+      "development",
+      "documentation",
+      "fuse",
+      "lua",
+      "sdk"
+    ],
+    "description": "Official Fuse API guide and reference, dated June 2023 on its cover. Covers Lua-based Fuse development; a document edition is not the current Fusion application version.",
+    "access": "🆓 Public PDF; original terms apply",
+    "accessGroup": "public",
+    "platforms": [],
+    "platformNotes": "📖 Reference",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://documents.blackmagicdesign.com/UserManuals/Fusion_Fuse_SDK.pdf",
+        "checked_at": "2026-09-06",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Fusion Fuse SDK guide and reference",
+      "url": "https://documents.blackmagicdesign.com/UserManuals/Fusion_Fuse_SDK.pdf",
+      "kind": "reference-edition",
+      "version": "June 2023",
+      "source": "https://documents.blackmagicdesign.com/UserManuals/Fusion_Fuse_SDK.pdf",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-06",
+      "note": "Edition printed on the document cover; not an application release."
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

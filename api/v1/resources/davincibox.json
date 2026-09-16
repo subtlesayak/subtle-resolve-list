@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "davincibox",
+    "name": "davincibox",
+    "creator": "zelikos",
+    "url": "https://github.com/zelikos/davincibox",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Linux installation, compatibility, and troubleshooting",
+    "kind": "workflow-app",
+    "tasks": [
+      "linux"
+    ],
+    "tags": [
+      "containers",
+      "dependencies",
+      "distrobox",
+      "linux",
+      "podman"
+    ],
+    "description": "Containerized Resolve dependencies using Distrobox/Podman; particularly aimed at atomic/image-based distributions.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [
+      "Linux"
+    ],
+    "platformNotes": "Linux",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/zelikos/davincibox#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/zelikos/davincibox/releases/tag/v3.3.0",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "zelikos/davincibox",
+      "url": "https://github.com/zelikos/davincibox",
+      "kind": "stable-release",
+      "version": "v3.3.0",
+      "source": "https://github.com/zelikos/davincibox/releases/tag/v3.3.0",
+      "date": "2026-05-14T01:26:16Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2026-05-14T01:26:16Z",
+    "activityDate": "2026-09-12T21:38:38Z",
+    "stars": 997,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

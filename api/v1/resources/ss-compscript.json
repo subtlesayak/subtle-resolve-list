@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "ss-compscript",
+    "name": "SS-CompScript",
+    "creator": "brunocbreis",
+    "url": "https://github.com/brunocbreis/SS-CompScript",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Fusion, motion graphics, visual effects, and package management",
+    "kind": "workflow-app",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "compositing",
+      "fusion",
+      "grid",
+      "layout",
+      "split screen"
+    ],
+    "description": "In-composition SplitScreener interface for arranging Fusion split-screen layouts. Beta documentation targets Resolve/Fusion 18.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "platformNotes": "Windows;macOS",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/brunocbreis/SS-CompScript#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/brunocbreis/SS-CompScript/commit/866aa6157c3a4a4becb47e675dde62814a583f1d",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "brunocbreis/SS-CompScript",
+      "url": "https://github.com/brunocbreis/SS-CompScript",
+      "kind": "commit",
+      "version": "866aa6157c3a4a4becb47e675dde62814a583f1d",
+      "source": "https://github.com/brunocbreis/SS-CompScript/commit/866aa6157c3a4a4becb47e675dde62814a583f1d",
+      "date": "2022-08-11T22:57:03Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2022-08-11T22:57:03Z",
+    "stars": 11,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

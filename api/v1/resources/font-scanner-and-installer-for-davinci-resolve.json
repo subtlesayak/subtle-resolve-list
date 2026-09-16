@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "font-scanner-and-installer-for-davinci-resolve",
+    "name": "Font-Scanner-and-Installer-for-DaVinci-Resolve",
+    "creator": "MansiVisuals",
+    "url": "https://github.com/MansiVisuals/Font-Scanner-and-Installer-for-DaVinci-Resolve",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Productivity scripts, workflow bridges, and integrations",
+    "kind": "workflow-app",
+    "tasks": [
+      "workflow"
+    ],
+    "tags": [
+      "font management",
+      "fonts",
+      "installation",
+      "typography"
+    ],
+    "description": "Helps locate/install fonts for Resolve workflows. Font licenses remain separate.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "platformNotes": "Fully tested only on macOS; basic Windows/Linux support.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/MansiVisuals/Font-Scanner-and-Installer-for-DaVinci-Resolve#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/MansiVisuals/Font-Scanner-and-Installer-for-DaVinci-Resolve/commit/5a3273bcec63692bef2deadae406eb394e07c7fd",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "MansiVisuals/Font-Scanner-and-Installer-for-DaVinci-Resolve",
+      "url": "https://github.com/MansiVisuals/Font-Scanner-and-Installer-for-DaVinci-Resolve",
+      "kind": "commit",
+      "version": "5a3273bcec63692bef2deadae406eb394e07c7fd",
+      "source": "https://github.com/MansiVisuals/Font-Scanner-and-Installer-for-DaVinci-Resolve/commit/5a3273bcec63692bef2deadae406eb394e07c7fd",
+      "date": "2025-05-21T13:34:11Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2025-05-21T13:34:11Z",
+    "stars": 5,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

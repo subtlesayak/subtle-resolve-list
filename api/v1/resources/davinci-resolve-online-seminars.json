@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "davinci-resolve-online-seminars",
+    "name": "DaVinci Resolve Online Seminars",
+    "creator": "Blackmagic Design",
+    "url": "https://www.blackmagicdesign.com/event/davinci-resolve-online-seminars",
+    "origin": "external",
+    "official": true,
+    "reference": true,
+    "category": "Official Blackmagic Design resources",
+    "kind": "reference",
+    "tasks": [
+      "learning"
+    ],
+    "tags": [
+      "learning",
+      "training",
+      "webinar",
+      "seminar",
+      "editing",
+      "color",
+      "photography",
+      "ai"
+    ],
+    "description": "Six free 90-minute online seminars covering Resolve 21, editing, color, photography, delivery and AI. Scheduled September 18 to November 27, 2026; registration required. Sessions include Studio features.",
+    "access": "🆓 Free registration",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "📖 Reference",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "free",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://www.blackmagicdesign.com/event/davinci-resolve-online-seminars",
+        "checked_at": "2026-09-08",
+        "note": "Official schedule offers free registration; some lessons cover Studio-only tools."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "DaVinci Resolve Online Seminars",
+      "url": "https://www.blackmagicdesign.com/event/davinci-resolve-online-seminars",
+      "kind": "not-applicable",
+      "version": null,
+      "source": "https://www.blackmagicdesign.com/event/davinci-resolve-online-seminars",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-08",
+      "note": "Scheduled training collection; no software release version."
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "macos-viewing-transform",
+    "name": "macOS Viewing Transform",
+    "creator": "Cullen Kelly Color",
+    "url": "https://cullenkellycolor.com/toolkit/macos-viewing-transform",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Community discoveries",
+    "kind": "lut",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "lut",
+      "rec709",
+      "macos",
+      "monitoring",
+      "display"
+    ],
+    "description": "Viewing LUT intended for Rec.709 monitoring on macOS. Review the creator workflow for the intended display setup; calibration accuracy was not tested.",
+    "access": "🆓 Free; creator download form required",
+    "accessGroup": "free",
+    "platforms": [
+      "macOS"
+    ],
+    "platformNotes": "🍎 macOS",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "free",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://cullenkellycolor.com/toolkit/macos-viewing-transform",
+        "checked_at": "2026-09-08",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "purpose and access",
+        "level": "documented",
+        "source": "https://cullenkellycolor.com/toolkit/macos-viewing-transform",
+        "checked_at": "2026-09-08",
+        "note": "Creator listing reviewed; not installation tested."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing",
+      "tool version"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "macOS Viewing Transform",
+      "url": "https://cullenkellycolor.com/toolkit/macos-viewing-transform",
+      "kind": "unverified",
+      "version": null,
+      "source": "https://cullenkellycolor.com/toolkit/macos-viewing-transform",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-08"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

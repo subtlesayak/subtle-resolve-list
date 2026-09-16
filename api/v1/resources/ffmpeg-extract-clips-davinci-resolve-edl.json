@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "ffmpeg-extract-clips-davinci-resolve-edl",
+    "name": "ffmpeg-extract-clips-davinci-resolve-edl",
+    "creator": "ctsrc",
+    "url": "https://github.com/ctsrc/ffmpeg-extract-clips-davinci-resolve-edl",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Encoding, codecs, proxy generation, rendering, and project servers",
+    "kind": "encoder",
+    "tasks": [
+      "media"
+    ],
+    "tags": [
+      "clip extraction",
+      "conform",
+      "edl",
+      "ffmpeg"
+    ],
+    "description": "Rust/FFmpeg utility that extracts source clip ranges from a Resolve EDL. Documentation targets Resolve 16.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "OS support not established by the reviewed documentation.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/ctsrc/ffmpeg-extract-clips-davinci-resolve-edl/commit/b1980928c81020768d304a626570b17e1d3a55e8",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "ctsrc/ffmpeg-extract-clips-davinci-resolve-edl",
+      "url": "https://github.com/ctsrc/ffmpeg-extract-clips-davinci-resolve-edl",
+      "kind": "commit",
+      "version": "b1980928c81020768d304a626570b17e1d3a55e8",
+      "source": "https://github.com/ctsrc/ffmpeg-extract-clips-davinci-resolve-edl/commit/b1980928c81020768d304a626570b17e1d3a55e8",
+      "date": "2023-12-15T09:07:23Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2024-12-04T18:38:22Z",
+    "stars": 16,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

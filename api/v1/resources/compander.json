@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "compander",
+    "name": "compander",
+    "creator": "stoatworks-labs",
+    "url": "https://github.com/stoatworks-labs/compander",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Fusion, motion graphics, visual effects, and package management",
+    "kind": "ofx",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "compander",
+      "analog",
+      "compression",
+      "video",
+      "ofx",
+      "experimental"
+    ],
+    "description": "Experimental analog-companding video effect with OFX and FFGL builds. Provider reports host-probe checks but has not opened the OFX plugin in Resolve. Treat Resolve use as unverified until tested on the intended setup.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "platformNotes": "Provider-documented distribution targets; no installation testing. See description for platform and host caveats.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "local",
+      "pricing": "free",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/stoatworks-labs/compander#readme",
+        "checked_at": "2026-09-15",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/stoatworks-labs/compander/releases/tag/v0.1.2",
+        "checked_at": "2026-09-15T11:10:30.401Z",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://github.com/stoatworks-labs/compander#readme",
+        "checked_at": "2026-09-15",
+        "note": "Experimental analog-companding video effect with OFX and FFGL builds. Provider reports host-probe checks but has not opened the OFX plugin in Resolve. Treat Resolve use as unverified until tested on the intended setup."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "stoatworks-labs/compander",
+      "url": "https://github.com/stoatworks-labs/compander",
+      "kind": "stable-release",
+      "version": "v0.1.2",
+      "source": "https://github.com/stoatworks-labs/compander/releases/tag/v0.1.2",
+      "date": "2026-09-04T22:01:09Z",
+      "checked_at": "2026-09-15T11:10:30.401Z"
+    },
+    "releaseDate": "2026-09-04T22:01:09Z",
+    "activityDate": "2026-09-15T10:19:51Z",
+    "stars": 0,
+    "metadataChecked": "2026-09-15T11:10:30.401Z",
+    "history": []
+  }
+}

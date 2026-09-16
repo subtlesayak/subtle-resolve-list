@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "filmbox-pro",
+    "name": "Filmbox Pro",
+    "creator": "videovillage.com",
+    "url": "https://videovillage.com/filmbox/",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Color / Film",
+    "kind": "workflow-app",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "color grading",
+      "film",
+      "film emulation",
+      "fuji",
+      "kodak",
+      "openfx",
+      "photochemical"
+    ],
+    "description": "Film-emulation plugin for Resolve and other hosts. Current vendor documentation lists all three desktop OSes, superseding the wiki's older macOS-only description. Edition and activation terms differ.",
+    "access": "Paid; 14-day trial listed",
+    "accessGroup": "paid",
+    "platforms": [],
+    "platformNotes": "🪟 Windows · 🍎 macOS · 🐧 Linux",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://videovillage.com/filmbox/releasenotes",
+        "checked_at": "2026-09-06T12:10:23.619Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Filmbox Pro",
+      "url": "https://videovillage.com/filmbox/",
+      "kind": "vendor-version",
+      "version": "3.5.3",
+      "source": "https://videovillage.com/filmbox/releasenotes",
+      "date": "2026-08-31",
+      "date_kind": "release",
+      "checked_at": "2026-09-06T12:10:23.619Z"
+    },
+    "releaseDate": "2026-08-31",
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

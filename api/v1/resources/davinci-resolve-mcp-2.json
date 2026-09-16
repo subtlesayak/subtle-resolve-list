@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "davinci-resolve-mcp-2",
+    "name": "davinci-resolve-mcp",
+    "creator": "apvlv",
+    "url": "https://github.com/apvlv/davinci-resolve-mcp",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "AI assistants, MCP servers, and ComfyUI integrations",
+    "kind": "mcp-server",
+    "tasks": [
+      "workflow",
+      "media"
+    ],
+    "tags": [
+      "ai",
+      "automation",
+      "fusion",
+      "mcp"
+    ],
+    "description": "Another Resolve/Fusion MCP implementation; capabilities differ from the other servers.",
+    "access": "Public; AI costs separate",
+    "accessGroup": "public",
+    "platforms": [],
+    "platformNotes": "Unverified",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/apvlv/davinci-resolve-mcp/commit/d025e4ecaf46f9ba7bcc1a814201791821c8f281",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "apvlv/davinci-resolve-mcp",
+      "url": "https://github.com/apvlv/davinci-resolve-mcp",
+      "kind": "commit",
+      "version": "d025e4ecaf46f9ba7bcc1a814201791821c8f281",
+      "source": "https://github.com/apvlv/davinci-resolve-mcp/commit/d025e4ecaf46f9ba7bcc1a814201791821c8f281",
+      "date": "2026-04-07T02:46:35Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2026-04-07T02:46:35Z",
+    "stars": 77,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

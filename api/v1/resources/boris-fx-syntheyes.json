@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "boris-fx-syntheyes",
+    "name": "Boris FX SynthEyes",
+    "creator": "Boris FX",
+    "url": "https://borisfx.com/products/syntheyes/",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Effects / Fusion",
+    "kind": "workflow-app",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "3d",
+      "camera tracking",
+      "matchmoving",
+      "object tracking",
+      "scene export"
+    ],
+    "description": "Camera/object tracking and matchmoving with Fusion/Resolve scene export. This is a standalone pipeline companion. Linux documentation specifies RHEL 8+ or compatible x86_64 distributions.",
+    "access": "Commercial standalone tool",
+    "accessGroup": "public",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "platformNotes": "🪟 Windows · 🍎 macOS · 🐧 Linux",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://borisfx.com/products/syntheyes/",
+        "checked_at": "2026-09-06T12:10:24.793Z",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://borisfx.com/release-notes?page=1",
+        "checked_at": "2026-09-06T12:10:24.793Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Boris FX SynthEyes",
+      "url": "https://borisfx.com/products/syntheyes/",
+      "kind": "vendor-version",
+      "version": "2026, build 4679",
+      "source": "https://borisfx.com/release-notes?page=1",
+      "date": "2026-05-19",
+      "date_kind": "release",
+      "checked_at": "2026-09-06T12:10:24.793Z"
+    },
+    "releaseDate": "2026-05-19",
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

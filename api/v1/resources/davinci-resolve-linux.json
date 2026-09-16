@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "davinci-resolve-linux",
+    "name": "davinci-resolve-linux",
+    "creator": "flolu",
+    "url": "https://github.com/flolu/davinci-resolve-linux",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Linux installation, compatibility, and troubleshooting",
+    "kind": "workflow-app",
+    "tasks": [
+      "linux"
+    ],
+    "tags": [
+      "export",
+      "import",
+      "installation",
+      "linux"
+    ],
+    "description": "Setup instructions and import/export workarounds.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [
+      "Linux"
+    ],
+    "platformNotes": "Debian/Ubuntu guide.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/flolu/davinci-resolve-linux#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/flolu/davinci-resolve-linux/commit/1412035e323a95f92cca63724ec98f9ca96a9d54",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "flolu/davinci-resolve-linux",
+      "url": "https://github.com/flolu/davinci-resolve-linux",
+      "kind": "commit",
+      "version": "1412035e323a95f92cca63724ec98f9ca96a9d54",
+      "source": "https://github.com/flolu/davinci-resolve-linux/commit/1412035e323a95f92cca63724ec98f9ca96a9d54",
+      "date": "2025-03-31T16:09:05Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2025-03-31T16:09:05Z",
+    "stars": 264,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

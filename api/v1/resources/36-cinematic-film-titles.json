@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "36-cinematic-film-titles",
+    "name": "36 Cinematic Film Titles",
+    "creator": "TiKa-Studios",
+    "url": "https://tikastudio.gumroad.com/l/filmtitlepack",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Community discoveries",
+    "kind": "template",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "titles",
+      "film titles",
+      "typography",
+      "fonts",
+      "cinematic"
+    ],
+    "description": "Paid Resolve title pack with 36 customizable designs and included fonts. Product title labels this pack V3; exact Resolve host version and OS requirements are not established.",
+    "access": "💰 Paid",
+    "accessGroup": "paid",
+    "platforms": [],
+    "platformNotes": "❔ Not established",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "one-time",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://tikastudio.gumroad.com/l/filmtitlepack",
+        "checked_at": "2026-09-08",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "purpose and requirements",
+        "level": "documented",
+        "source": "https://tikastudio.gumroad.com/l/filmtitlepack",
+        "checked_at": "2026-09-08",
+        "note": "Provider description reviewed; no catalogue installation testing. Unspecified compatibility remains unverified."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "36 Cinematic Film Titles",
+      "url": "https://tikastudio.gumroad.com/l/filmtitlepack",
+      "kind": "vendor-version",
+      "version": "V3",
+      "source": "https://tikastudio.gumroad.com/l/filmtitlepack",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-08"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

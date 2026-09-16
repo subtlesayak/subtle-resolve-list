@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "resolvecollaboration",
+    "name": "ResolveCollaboration",
+    "creator": "jonnyhyman",
+    "url": "https://github.com/jonnyhyman/ResolveCollaboration",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Encoding, codecs, proxy generation, rendering, and project servers",
+    "kind": "encoder",
+    "tasks": [
+      "media"
+    ],
+    "tags": [
+      "collaboration",
+      "shared projects",
+      "workflow"
+    ],
+    "description": "Utilities extending older live-collaboration workflows; compare against newer native options.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "platformNotes": "Windows/macOS downloads; Linux still requests beta testers.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/jonnyhyman/ResolveCollaboration#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/jonnyhyman/ResolveCollaboration/releases/tag/0.1.2",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "jonnyhyman/ResolveCollaboration",
+      "url": "https://github.com/jonnyhyman/ResolveCollaboration",
+      "kind": "stable-release",
+      "version": "0.1.2",
+      "source": "https://github.com/jonnyhyman/ResolveCollaboration/releases/tag/0.1.2",
+      "date": "2021-05-21T19:57:29Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2021-05-21T19:57:29Z",
+    "activityDate": "2022-04-20T18:07:13Z",
+    "stars": 36,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

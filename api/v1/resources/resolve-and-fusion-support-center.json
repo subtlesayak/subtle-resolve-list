@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "resolve-and-fusion-support-center",
+    "name": "Resolve and Fusion Support Center",
+    "creator": "Blackmagic Design",
+    "url": "https://www.blackmagicdesign.com/support/family/davinci-resolve-and-fusion",
+    "origin": "external",
+    "official": true,
+    "reference": true,
+    "category": "Official Blackmagic Design resources",
+    "kind": "reference",
+    "tasks": [],
+    "tags": [
+      "downloads",
+      "manual",
+      "official",
+      "release notes",
+      "support"
+    ],
+    "description": "Official destination for installers, manuals, support notes and release information. The public download feed was reviewed separately to establish the exact Resolve and Fusion patch releases shown in their entries. Project Server 21.1 is listed on September 8, 2026, with PostgreSQL 18; select its own installer.",
+    "access": "📦 Public support; download conditions vary",
+    "accessGroup": "public",
+    "platforms": [],
+    "platformNotes": "📖 Reference; select the correct OS download",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Resolve and Fusion Support Center",
+      "url": "https://www.blackmagicdesign.com/support/family/davinci-resolve-and-fusion",
+      "kind": "not-applicable",
+      "version": null,
+      "source": "https://www.blackmagicdesign.com/support/family/davinci-resolve-and-fusion",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-06",
+      "note": "Reference, discussion or collection with no single product version."
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

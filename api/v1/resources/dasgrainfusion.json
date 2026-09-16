@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "dasgrainfusion",
+    "name": "DasGrainFusion",
+    "creator": "andrewbry",
+    "url": "https://github.com/andrewbry/DasGrainFusion",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Fusion, motion graphics, visual effects, and package management",
+    "kind": "other",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "compositing",
+      "film",
+      "fusion",
+      "grain"
+    ],
+    "description": "Experimental Fusion port of DasGrain. Incomplete features and known analysis/Lua issues remain.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "OS support not established by the reviewed documentation.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/andrewbry/DasGrainFusion/commit/6198ca007581b9c472c43f95042a89eef2fcb2f7",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "andrewbry/DasGrainFusion",
+      "url": "https://github.com/andrewbry/DasGrainFusion",
+      "kind": "commit",
+      "version": "6198ca007581b9c472c43f95042a89eef2fcb2f7",
+      "source": "https://github.com/andrewbry/DasGrainFusion/commit/6198ca007581b9c472c43f95042a89eef2fcb2f7",
+      "date": "2025-10-17T16:12:23Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2025-12-24T13:15:38Z",
+    "stars": 8,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "fx-library",
+    "name": "Fx-Library",
+    "creator": "hassaancode",
+    "url": "https://github.com/hassaancode/Fx-Library",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Directories covering free and commercial products",
+    "kind": "collection",
+    "tasks": [
+      "learning"
+    ],
+    "tags": [
+      "after effects",
+      "directory",
+      "resource discovery",
+      "visual effects"
+    ],
+    "description": "Resolve/After Effects effects and creative-resource directory.",
+    "access": "Mixed",
+    "accessGroup": "mixed",
+    "platforms": [],
+    "platformNotes": "Unverified",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/hassaancode/Fx-Library/commit/b2d0beea675ecd4d92727d51284604ba567135c6",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "hassaancode/Fx-Library",
+      "url": "https://github.com/hassaancode/Fx-Library",
+      "kind": "commit",
+      "version": "b2d0beea675ecd4d92727d51284604ba567135c6",
+      "source": "https://github.com/hassaancode/Fx-Library/commit/b2d0beea675ecd4d92727d51284604ba567135c6",
+      "date": "2025-12-21T18:01:00Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2025-12-21T18:01:00Z",
+    "stars": 2,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

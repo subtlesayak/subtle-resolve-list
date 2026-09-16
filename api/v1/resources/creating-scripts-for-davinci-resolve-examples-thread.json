@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "creating-scripts-for-davinci-resolve-examples-thread",
+    "name": "Creating Scripts for DaVinci Resolve — examples thread",
+    "creator": "Blackmagic forum community",
+    "url": "https://forum.blackmagicdesign.com/viewtopic.php?t=175315",
+    "origin": "external",
+    "official": false,
+    "reference": true,
+    "category": "Community discoveries",
+    "kind": "workflow-app",
+    "tasks": [],
+    "tags": [
+      "api",
+      "examples",
+      "markers",
+      "media pool",
+      "scripting"
+    ],
+    "description": "Community examples for timeline, Media Pool and marker automation. Individual posts can contain API limitations and destructive changes, such as losing marker keywords; review each script before running. Forum hosting is not BMD endorsement.",
+    "access": "📦 Public examples; per-author terms apply",
+    "accessGroup": "public",
+    "platforms": [],
+    "platformNotes": "📖 Reference; snippet requirements vary",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Creating Scripts for DaVinci Resolve — examples thread",
+      "url": "https://forum.blackmagicdesign.com/viewtopic.php?t=175315",
+      "kind": "not-applicable",
+      "version": null,
+      "source": "https://forum.blackmagicdesign.com/viewtopic.php?t=175315",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-06",
+      "note": "Reference, discussion or collection with no single product version."
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

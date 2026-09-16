@@ -1,0 +1,104 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "3d-cube-dctl-and-cube-slice",
+    "name": "3D Cube DCTL and Cube Slice",
+    "creator": "MONONODES",
+    "url": "https://mononodes.com/3d-cube/",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Community discoveries",
+    "kind": "dctl",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "dctl",
+      "color",
+      "rgb",
+      "cube",
+      "gamut",
+      "diagnostics",
+      "point cloud"
+    ],
+    "description": "Visualizes image pixels as an RGB point cloud. Cube Slice supplies color patches for inspecting how node operations reshape the cube. Downloads are linked by the creator; original distribution terms apply.",
+    "access": "🆓 Free download",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "platformNotes": "Windows · macOS · Linux",
+    "requirements": {
+      "editions": [
+        "Studio"
+      ],
+      "resolve": [
+        {
+          "min": "19.1"
+        }
+      ],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "free",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://mononodes.com/3d-cube/",
+        "checked_at": "2026-09-08",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://mononodes.com/3d-cube/",
+        "checked_at": "2026-09-08",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://mononodes.com/3d-cube/",
+        "checked_at": "2026-09-08",
+        "note": "Visualizes image pixels as an RGB point cloud. Cube Slice supplies color patches for inspecting how node operations reshape the cube. Downloads are linked by the creator; original distribution terms apply."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://mononodes.com/faq/",
+        "checked_at": "2026-09-08",
+        "note": "Creator FAQ requires Resolve Studio 19.1+ for DCTLs and lists Windows, macOS and Linux."
+      }
+    ],
+    "unknownFields": [
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "3D Cube DCTL and Cube Slice",
+      "url": "https://mononodes.com/3d-cube/",
+      "kind": "vendor-version",
+      "version": "1.1",
+      "source": "https://mononodes.com/3d-cube/",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-08",
+      "note": "Current version explicitly named on creator page; no release date established."
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

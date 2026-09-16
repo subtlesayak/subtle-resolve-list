@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "dctl-mlaa",
+    "name": "DCTL-MLAA",
+    "creator": "olduvai-jp",
+    "url": "https://github.com/olduvai-jp/DCTL-MLAA",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Color grading, DCTLs, film looks, and color science",
+    "kind": "dctl",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "anti aliasing",
+      "dctl",
+      "fuse",
+      "image processing"
+    ],
+    "description": "Morphological anti-aliasing in DCTL and Fuse forms.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "platformNotes": "Windows;macOS",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/olduvai-jp/DCTL-MLAA#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/olduvai-jp/DCTL-MLAA/commit/b657a702357adb8eb56177434698bf533c222160",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "olduvai-jp/DCTL-MLAA",
+      "url": "https://github.com/olduvai-jp/DCTL-MLAA",
+      "kind": "commit",
+      "version": "b657a702357adb8eb56177434698bf533c222160",
+      "source": "https://github.com/olduvai-jp/DCTL-MLAA/commit/b657a702357adb8eb56177434698bf533c222160",
+      "date": "2026-03-06T04:28:38Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2026-03-06T04:28:59Z",
+    "stars": 15,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

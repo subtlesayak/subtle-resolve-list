@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "boilify",
+    "name": "boilify",
+    "creator": "Microck",
+    "url": "https://github.com/Microck/boilify",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Fusion, motion graphics, visual effects, and package management",
+    "kind": "ofx",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "cartoon",
+      "hand drawn",
+      "jitter",
+      "line boil",
+      "openfx"
+    ],
+    "description": "Line-boil OpenFX effect for hand-drawn jitter. Resolve Studio 20+ documented.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "platformNotes": "Windows;macOS;Linux",
+    "requirements": {
+      "editions": [
+        "Studio"
+      ],
+      "resolve": [
+        {
+          "edition": "Studio",
+          "min": "20"
+        }
+      ],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/Microck/boilify#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/Microck/boilify/releases/tag/v1.1.6",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "Resolve edition and version range",
+        "level": "documented",
+        "source": "https://github.com/Microck/boilify#readme",
+        "checked_at": "2026-09-06",
+        "note": "Structured from the existing source-backed catalogue description; no new installation test: Line-boil OpenFX effect for hand-drawn jitter. Resolve Studio 20+ documented."
+      }
+    ],
+    "unknownFields": [
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Microck/boilify",
+      "url": "https://github.com/Microck/boilify",
+      "kind": "stable-release",
+      "version": "v1.1.6",
+      "source": "https://github.com/Microck/boilify/releases/tag/v1.1.6",
+      "date": "2026-02-19T02:15:17Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2026-02-19T02:15:17Z",
+    "activityDate": "2026-07-15T10:57:42Z",
+    "stars": 9,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "nintendo-direct-graphics-pack",
+    "name": "Nintendo Direct Graphics Pack",
+    "creator": "Catharsis",
+    "url": "https://www.patreon.com/CatharsisYT/posts/catharsis-direct-119187139",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Community discoveries",
+    "kind": "collection",
+    "tasks": [],
+    "tags": [
+      "bumper",
+      "graphics",
+      "lower thirds",
+      "nintendo",
+      "transitions"
+    ],
+    "description": "Bumper, lower-third and transition assets with three editable Fusion compositions. Creator calls the pack free/public but has not confirmed Resolve Free compatibility.",
+    "access": "🆓 Free public pack",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "❔ Not established",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing",
+      "tool version"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Nintendo Direct Graphics Pack",
+      "url": "https://www.patreon.com/CatharsisYT/posts/catharsis-direct-119187139",
+      "kind": "unverified",
+      "version": null,
+      "source": "https://www.patreon.com/CatharsisYT/posts/catharsis-direct-119187139",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-06"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

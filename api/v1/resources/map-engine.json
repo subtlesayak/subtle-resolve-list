@@ -1,0 +1,93 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "map-engine",
+    "name": "Map Engine",
+    "creator": "DaVinci Kit",
+    "url": "https://davincikit.com/product/map-engine/",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Community discoveries",
+    "kind": "other",
+    "tasks": [],
+    "tags": [
+      "animation",
+      "fusion",
+      "geojson",
+      "map",
+      "routes",
+      "tiles"
+    ],
+    "description": "Fusion map animation with location search, GeoJSON shapes, routes and custom tile styles. Requires Studio 18.6+; Free compatibility is limited to 18.6–19.0.3. Internet is required for tiles and licensing, and map-provider attribution is required.",
+    "access": "💰 Perpetual license; external map-service terms apply",
+    "accessGroup": "paid",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "platformNotes": "🪟 Windows · 🍎 macOS",
+    "requirements": {
+      "editions": [
+        "Free",
+        "Studio"
+      ],
+      "resolve": [
+        {
+          "edition": "Free",
+          "min": "18.6",
+          "max": "19.0.3"
+        },
+        {
+          "edition": "Studio",
+          "min": "18.6"
+        }
+      ],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://davincikit.com/product/map-engine/",
+        "checked_at": "2026-09-07",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "Resolve edition and version range",
+        "level": "documented",
+        "source": "https://davincikit.com/product/map-engine/",
+        "checked_at": "2026-09-07",
+        "note": "Structured from the existing source-backed catalogue description; no new installation test: Fusion map animation with location search, GeoJSON shapes, routes and custom tile styles. Requires Studio 18.6+; Free compatibility is limited to 18.6–19.0.3. Internet is required for tiles and licensing, and map-provider attribution is required."
+      }
+    ],
+    "unknownFields": [
+      "architecture",
+      "processing",
+      "tool version"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Map Engine",
+      "url": "https://davincikit.com/product/map-engine/",
+      "kind": "unverified",
+      "version": null,
+      "source": "https://davincikit.com/product/map-engine/",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-07"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

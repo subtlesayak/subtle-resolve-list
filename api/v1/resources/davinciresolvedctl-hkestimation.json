@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "davinciresolvedctl-hkestimation",
+    "name": "DavinciResolveDCTL_HKEstimation",
+    "creator": "OwenYou",
+    "url": "https://github.com/OwenYou/DavinciResolveDCTL_HKEstimation",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Color grading, DCTLs, film looks, and color science",
+    "kind": "dctl",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "aces",
+      "color science",
+      "dctl",
+      "helmholtz kohlrausch",
+      "perceived brightness"
+    ],
+    "description": "Helmholtz-Kohlrausch effect estimation and compensation using four methods. Requires ACES2065-1 AP0/linear input; documented for Resolve 17.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "OS support not established by the reviewed documentation.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/OwenYou/DavinciResolveDCTL_HKEstimation/commit/4ee45c8e494fc50543015a408d6e85a10e25239d",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "OwenYou/DavinciResolveDCTL_HKEstimation",
+      "url": "https://github.com/OwenYou/DavinciResolveDCTL_HKEstimation",
+      "kind": "commit",
+      "version": "4ee45c8e494fc50543015a408d6e85a10e25239d",
+      "source": "https://github.com/OwenYou/DavinciResolveDCTL_HKEstimation/commit/4ee45c8e494fc50543015a408d6e85a10e25239d",
+      "date": "2022-01-16T16:59:46Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2022-01-16T16:59:46Z",
+    "stars": 14,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

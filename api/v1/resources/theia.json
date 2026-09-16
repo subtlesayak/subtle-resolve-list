@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "theia",
+    "name": "theia",
+    "creator": "ming-qiu",
+    "url": "https://github.com/ming-qiu/theia",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Productivity scripts, workflow bridges, and integrations",
+    "kind": "workflow-app",
+    "tasks": [
+      "workflow"
+    ],
+    "tags": [
+      "vfx",
+      "editorial",
+      "shot list",
+      "metadata",
+      "spreadsheet",
+      "frame counter"
+    ],
+    "description": "Resolve Studio VFX editorial suite for clip inventories, frame counters, shot metadata and shot-list spreadsheets. Source revision tracked because no GitHub release is published.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [
+      "macOS"
+    ],
+    "platformNotes": "macOS-only installer; Python 3.9+ and FFmpeg required. Public source does not establish a reuse license.",
+    "requirements": {
+      "editions": [
+        "Studio"
+      ],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": "Python 3.9+ and FFmpeg",
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/ming-qiu/theia#readme",
+        "checked_at": "2026-09-08",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/ming-qiu/theia/commit/1523d635a14235a0a6caaebbe34207e9a99dfef8",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://github.com/ming-qiu/theia",
+        "checked_at": "2026-09-08",
+        "note": "macOS-only installer; Python 3.9+ and FFmpeg required. Public source does not establish a reuse license."
+      },
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://theia-docs.ming-q.com/installation/",
+        "checked_at": "2026-09-08",
+        "note": "macOS-only installer, Python 3.9+ and FFmpeg."
+      }
+    ],
+    "unknownFields": [
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "ming-qiu/theia",
+      "url": "https://github.com/ming-qiu/theia",
+      "kind": "commit",
+      "version": "1523d635a14235a0a6caaebbe34207e9a99dfef8",
+      "source": "https://github.com/ming-qiu/theia/commit/1523d635a14235a0a6caaebbe34207e9a99dfef8",
+      "date": "2026-07-20T18:27:59Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2026-07-20T18:28:45Z",
+    "stars": 5,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

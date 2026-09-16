@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "cineprint35",
+    "name": "CinePrint35",
+    "creator": "tombolles.net",
+    "url": "https://www.tombolles.net/cineprint35",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Color / Film",
+    "kind": "powergrade",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "2383",
+      "3513",
+      "color grading",
+      "film",
+      "film emulation",
+      "fuji",
+      "grain",
+      "halation",
+      "kodak",
+      "powergrade"
+    ],
+    "description": "Film-emulation PowerGrades with native Resolve nodes. Free Resolve can use the grades with the Studio-only Grain node disabled. The supplied CinePrint16 URL redirects here.",
+    "access": "Paid PowerGrades; separate LUT offering",
+    "accessGroup": "paid",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "platformNotes": "🪟 Windows · 🍎 macOS",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://www.tombolles.net/cineprint35",
+        "checked_at": "2026-09-06T12:10:23.098Z",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing",
+      "tool version"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "CinePrint35",
+      "url": "https://www.tombolles.net/cineprint35",
+      "kind": "unverified",
+      "version": null,
+      "source": "https://www.tombolles.net/cineprint35",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-06T12:10:23.098Z"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

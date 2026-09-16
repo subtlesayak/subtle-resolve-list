@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "gyroflow-plugins",
+    "name": "gyroflow-plugins",
+    "creator": "gyroflow",
+    "url": "https://github.com/gyroflow/gyroflow-plugins",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Fusion, motion graphics, visual effects, and package management",
+    "kind": "ofx",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "camera motion",
+      "gyro",
+      "openfx",
+      "stabilization"
+    ],
+    "description": "Gyro-data-driven stabilization through OpenFX and other plugin formats.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "platformNotes": "Windows;macOS;Linux",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/gyroflow/gyroflow-plugins#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/gyroflow/gyroflow-plugins/releases/tag/v2.1.1",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "gyroflow/gyroflow-plugins",
+      "url": "https://github.com/gyroflow/gyroflow-plugins",
+      "kind": "stable-release",
+      "version": "v2.1.1",
+      "source": "https://github.com/gyroflow/gyroflow-plugins/releases/tag/v2.1.1",
+      "date": "2025-08-24T14:16:15Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2025-08-24T14:16:15Z",
+    "activityDate": "2026-09-07T20:07:00Z",
+    "stars": 123,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

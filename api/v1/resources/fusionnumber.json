@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "fusionnumber",
+    "name": "fusionnumber",
+    "creator": "Spicy-Acorn",
+    "url": "https://github.com/Spicy-Acorn/fusionnumber",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Fusion, motion graphics, visual effects, and package management",
+    "kind": "fuse",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "arithmetic",
+      "fuse",
+      "fusion",
+      "nodes",
+      "numbers"
+    ],
+    "description": "Fusion numeric arithmetic nodes exposed as a Fuse library.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "OS support not established by the reviewed documentation.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/Spicy-Acorn/fusionnumber/releases/tag/v0.8.0",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Spicy-Acorn/fusionnumber",
+      "url": "https://github.com/Spicy-Acorn/fusionnumber",
+      "kind": "stable-release",
+      "version": "v0.8.0",
+      "source": "https://github.com/Spicy-Acorn/fusionnumber/releases/tag/v0.8.0",
+      "date": "2020-03-30T21:40:59Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2020-03-30T21:40:59Z",
+    "activityDate": "2020-11-24T23:50:52Z",
+    "stars": 6,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "baldavengerplugins",
+    "name": "BaldavengerPlugins",
+    "creator": "baldavenger",
+    "url": "https://github.com/baldavenger/BaldavengerPlugins",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Fusion, motion graphics, visual effects, and package management",
+    "kind": "ofx",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "color grading",
+      "image processing",
+      "openfx"
+    ],
+    "description": "OpenFX image-processing and grading plugins; check older binaries against your system.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "platformNotes": "Windows;macOS;Linux",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/baldavenger/BaldavengerPlugins#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "repository revision",
+        "level": "documented",
+        "source": "https://github.com/baldavenger/BaldavengerPlugins/commit/57cef5501028db1a06430de5fd821b5e4338b887",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Source revision, not a software release."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "baldavenger/BaldavengerPlugins",
+      "url": "https://github.com/baldavenger/BaldavengerPlugins",
+      "kind": "commit",
+      "version": "57cef5501028db1a06430de5fd821b5e4338b887",
+      "source": "https://github.com/baldavenger/BaldavengerPlugins/commit/57cef5501028db1a06430de5fd821b5e4338b887",
+      "date": "2021-09-01T16:13:51Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": null,
+    "activityDate": "2021-09-01T16:13:51Z",
+    "stars": 147,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

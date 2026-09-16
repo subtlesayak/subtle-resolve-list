@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "superglitch",
+    "name": "SuperGlitch",
+    "creator": "Akascape",
+    "url": "https://akascape.gumroad.com/l/superglitch",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Effects and animation",
+    "kind": "fuse",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "distortion",
+      "fuse",
+      "fusion",
+      "glitch"
+    ],
+    "description": "Glitch-effect Fuse for Resolve 17+ Free or Studio. The creator explicitly offers a free download; check the selected amount at checkout.",
+    "access": "🆓 Free; store download",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "❔ Not established",
+    "requirements": {
+      "editions": [
+        "Free",
+        "Studio"
+      ],
+      "resolve": [
+        {
+          "min": "17"
+        }
+      ],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://akascape.gumroad.com/l/superglitch",
+        "checked_at": "2026-09-06T12:10:28.913Z",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "Resolve edition and version range",
+        "level": "documented",
+        "source": "https://akascape.gumroad.com/l/superglitch",
+        "checked_at": "2026-09-06T12:10:28.913Z",
+        "note": "Structured from the existing source-backed catalogue description; no new installation test: Glitch-effect Fuse for Resolve 17+ Free or Studio. The creator explicitly offers a free download; check the selected amount at checkout."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "SuperGlitch",
+      "url": "https://akascape.gumroad.com/l/superglitch",
+      "kind": "vendor-version",
+      "version": "0.2",
+      "source": "https://akascape.gumroad.com/l/superglitch",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-06T12:10:28.913Z"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

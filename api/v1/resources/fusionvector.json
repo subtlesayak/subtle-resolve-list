@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "fusionvector",
+    "name": "fusionvector",
+    "creator": "Spicy-Acorn",
+    "url": "https://github.com/Spicy-Acorn/fusionvector",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Fusion, motion graphics, visual effects, and package management",
+    "kind": "other",
+    "tasks": [
+      "fusion"
+    ],
+    "tags": [
+      "fuse",
+      "fusion",
+      "nodes",
+      "vector math"
+    ],
+    "description": "Fusion vector-math nodes; requires the FusionMatrix dependency.",
+    "access": "Free",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "OS support not established by the reviewed documentation.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/Spicy-Acorn/fusionvector/releases/tag/v0.3.0",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Spicy-Acorn/fusionvector",
+      "url": "https://github.com/Spicy-Acorn/fusionvector",
+      "kind": "stable-release",
+      "version": "v0.3.0",
+      "source": "https://github.com/Spicy-Acorn/fusionvector/releases/tag/v0.3.0",
+      "date": "2020-03-30T21:27:29Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2020-03-30T21:27:29Z",
+    "activityDate": "2020-03-30T21:27:29Z",
+    "stars": 4,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

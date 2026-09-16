@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "resolve-keyboard-shortcuts-and-drills",
+    "name": "Resolve keyboard shortcuts and drills",
+    "creator": "HKeys",
+    "url": "https://hkeys.app/apps/davinci-resolve/macos",
+    "origin": "external",
+    "official": false,
+    "reference": true,
+    "category": "Community discoveries",
+    "kind": "workflow-app",
+    "tasks": [],
+    "tags": [
+      "cheat sheet",
+      "keyboard shortcuts",
+      "learning",
+      "practice"
+    ],
+    "description": "Community shortcut reference with printable PDFs and practice drills. Includes links to Windows, macOS and Linux variants; custom keyboard mappings and Resolve versions can differ.",
+    "access": "📖 Public shortcut reference",
+    "accessGroup": "public",
+    "platforms": [],
+    "platformNotes": "📖 Browser reference; lesson requirements vary",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Resolve keyboard shortcuts and drills",
+      "url": "https://hkeys.app/apps/davinci-resolve/macos",
+      "kind": "not-applicable",
+      "version": null,
+      "source": "https://hkeys.app/apps/davinci-resolve/macos",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-07",
+      "note": "Reference or collection with no single software release version."
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

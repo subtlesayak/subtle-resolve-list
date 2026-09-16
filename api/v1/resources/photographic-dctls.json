@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "photographic-dctls",
+    "name": "photographic-dctls",
+    "creator": "mikaelsundell",
+    "url": "https://github.com/mikaelsundell/photographic-dctls",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Color grading, DCTLs, film looks, and color science",
+    "kind": "dctl",
+    "tasks": [
+      "color"
+    ],
+    "tags": [
+      "cineon",
+      "color science",
+      "dctl",
+      "logc",
+      "negative inversion",
+      "photographic color"
+    ],
+    "description": "Photographic color-science experiments involving LogC, Cineon, negative inversion, and tone/color transforms.",
+    "access": "Public",
+    "accessGroup": "public",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "platformNotes": "Windows;macOS",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://github.com/mikaelsundell/photographic-dctls#readme",
+        "checked_at": "2026-09-06",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      },
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/mikaelsundell/photographic-dctls/releases/tag/release-v0.0.2",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "mikaelsundell/photographic-dctls",
+      "url": "https://github.com/mikaelsundell/photographic-dctls",
+      "kind": "stable-release",
+      "version": "release-v0.0.2",
+      "source": "https://github.com/mikaelsundell/photographic-dctls/releases/tag/release-v0.0.2",
+      "date": "2024-11-30T19:30:16Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2024-11-30T19:30:16Z",
+    "activityDate": "2026-06-05T10:41:37Z",
+    "stars": 78,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "retouch4me-video-plugins",
+    "name": "Retouch4me video plugins",
+    "creator": "Retouch4me",
+    "url": "https://retouch4.me/videoretouching",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Community discoveries",
+    "kind": "ofx",
+    "tasks": [],
+    "tags": [
+      "beauty",
+      "dodge and burn",
+      "openfx",
+      "skin retouching"
+    ],
+    "description": "Video skin cleanup and dodge-and-burn tools with OFX editions. Requires Resolve 18+ downloaded from Blackmagic; the Mac App Store build is unsupported. Individual products and installers have separate versions.",
+    "access": "💰 Paid plugins; demos available",
+    "accessGroup": "paid",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "platformNotes": "🪟 Windows · 🍎 macOS",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "platforms",
+        "level": "documented",
+        "source": "https://retouch4.me/videoretouching",
+        "checked_at": "2026-09-07",
+        "note": "Provider-listed platforms; see limitations and exact builds."
+      }
+    ],
+    "unknownFields": [
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Retouch4me video plugins",
+      "url": "https://retouch4.me/videoretouching",
+      "kind": "not-applicable",
+      "version": null,
+      "source": "https://retouch4.me/videoretouching",
+      "date": null,
+      "date_kind": null,
+      "checked_at": "2026-09-07",
+      "note": "Reference or collection with no single software release version."
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

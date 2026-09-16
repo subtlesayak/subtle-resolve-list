@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "change-strings",
+    "name": "Change Strings",
+    "creator": "Noah Hähnel",
+    "url": "https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.NoahH.ChangeStrings/com.NoahH.ChangeStrings.atom",
+    "origin": "external",
+    "official": false,
+    "reference": false,
+    "category": "Community discoveries",
+    "kind": "reactor-package",
+    "tasks": [
+      "workflow"
+    ],
+    "tags": [
+      "search replace",
+      "batch",
+      "paths",
+      "rename",
+      "versioning",
+      "expressions",
+      "text"
+    ],
+    "description": "Fusion batch search/replace for node names, file paths, expressions and text inputs. Includes version stepping, dynamic variables, a preview mode and an operation summary. Version 3.2 preserves Loader/Saver settings when paths change. Reactor package numbering is 3.2; creator changelog calls it 3.2.0.",
+    "access": "📦 Public Reactor package; check package license",
+    "accessGroup": "paid",
+    "platforms": [],
+    "platformNotes": "❔ Not established",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.NoahH.ChangeStrings/com.NoahH.ChangeStrings.atom",
+        "checked_at": "2026-09-15",
+        "note": "Recorded version evidence, not installation testing."
+      },
+      {
+        "field": "requirements",
+        "level": "documented",
+        "source": "https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.NoahH.ChangeStrings/com.NoahH.ChangeStrings.atom",
+        "checked_at": "2026-09-15",
+        "note": "Fusion batch search/replace for node names, file paths, expressions and text inputs. Includes version stepping, dynamic variables, a preview mode and an operation summary. Version 3.2 preserves Loader/Saver settings when paths change. Reactor package numbering is 3.2; creator changelog calls it 3.2.0."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "Change Strings",
+      "url": "https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.NoahH.ChangeStrings/com.NoahH.ChangeStrings.atom",
+      "kind": "package-version",
+      "version": "3.2",
+      "source": "https://gitlab.com/WeSuckLess/Reactor/-/blob/master/Atoms/com.NoahH.ChangeStrings/com.NoahH.ChangeStrings.atom",
+      "date": "2026-08-01",
+      "date_kind": "Reactor manifest date",
+      "checked_at": "2026-09-15"
+    },
+    "releaseDate": null,
+    "activityDate": null,
+    "stars": null,
+    "metadataChecked": null,
+    "history": []
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "resource": {
+    "id": "blackmacro-lib",
+    "name": "blackmacro-lib",
+    "creator": "KipJM",
+    "url": "https://github.com/KipJM/blackmacro-lib",
+    "origin": "github",
+    "official": false,
+    "reference": false,
+    "category": "Hardware, control surfaces, MIDI, and Speed Editor tools",
+    "kind": "fusion-macro",
+    "tasks": [
+      "hardware"
+    ],
+    "tags": [
+      "firmware",
+      "macropad",
+      "microcontroller",
+      "speed editor",
+      "usb"
+    ],
+    "description": "USB Speed Editor emulation firmware for custom microcontroller/macropad projects. Hardware required; Bluetooth and iPad support are absent.",
+    "access": "Free; AGPLv3 stated upstream, hardware separate",
+    "accessGroup": "free",
+    "platforms": [],
+    "platformNotes": "OS support not established by the reviewed documentation.",
+    "requirements": {
+      "editions": [],
+      "resolve": [],
+      "architectures": [],
+      "gpu": null,
+      "processing": "unknown",
+      "pricing": "unknown",
+      "account": "unknown",
+      "dependencies": null,
+      "installation": null
+    },
+    "evidence": [
+      {
+        "field": "version",
+        "level": "documented",
+        "source": "https://github.com/KipJM/blackmacro-lib/releases/tag/1.0.0",
+        "checked_at": "2026-09-15T05:06:04.860Z",
+        "note": "Recorded version evidence, not installation testing."
+      }
+    ],
+    "unknownFields": [
+      "platforms",
+      "Resolve edition",
+      "Resolve version",
+      "architecture",
+      "processing"
+    ],
+    "recommended": false,
+    "recommendation": null,
+    "version": {
+      "name": "KipJM/blackmacro-lib",
+      "url": "https://github.com/KipJM/blackmacro-lib",
+      "kind": "stable-release",
+      "version": "1.0.0",
+      "source": "https://github.com/KipJM/blackmacro-lib/releases/tag/1.0.0",
+      "date": "2026-04-30T20:11:12Z",
+      "checked_at": "2026-09-15T05:06:04.860Z"
+    },
+    "releaseDate": "2026-04-30T20:11:12Z",
+    "activityDate": "2026-06-16T10:30:06Z",
+    "stars": 12,
+    "metadataChecked": "2026-09-15T05:06:04.860Z",
+    "history": []
+  }
+}
